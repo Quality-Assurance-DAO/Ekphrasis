@@ -10,6 +10,8 @@ description: 'Chief Scientist, IOHK'
 
 Research lies at the heart of our mission as a company and is central to delivering our vision for Cardano. In this video, IOHK Marketing & Communications Director Tim Harrison talks to Chief Scientist, Professor Aggelos Kiayias to hear more about the work of his team. 
 
+Note : weblinks open in new window/tab.
+
 ### Explaining Cryptography \([00:00:15](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=15s)\)
 
 ### Who were the pioneers of cryptography? \( [00:02:26](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=146s)\)
