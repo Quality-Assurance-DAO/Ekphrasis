@@ -50,5 +50,5 @@ Chaired by • Mihaela Ulieru, President, IMPACT Institute for the Digital Econo
 
 {% embed url="https://www.youtube.com/watch?v=EGtE\_TitqBI" %}
 
-
+ Dr. Mihaela Ulieru, a digital ecosystems organization and transformation expert joined us at [\#Cardano2020](https://www.youtube.com/hashtag/cardano2020) to talk about organic governance and the Cardano ecosystem. The world has seen a tremendous failure of centralized power to act in the face of the recent pandemic. 'Bottom up' governance allows for challeges to be overcome through community involvement rather than bureaucratic control. Small projects have already leveraged this concept to great effect and blockchain technology stands to bring organic governance to the globe.
 
