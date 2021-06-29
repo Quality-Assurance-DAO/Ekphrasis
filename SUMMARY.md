@@ -15,3 +15,7 @@
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
 
+## NFTs
+
+* [Credentials](nfts/credentials.md)
+
