@@ -1,4 +1,8 @@
-# Mihaela Ulieru
+---
+description: Dr. Mihaela Ulieru content
+---
+
+# Dr. Mihaela Ulieru
 
 ## Technology for a Fractured World
 
