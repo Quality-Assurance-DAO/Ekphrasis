@@ -1,3 +1,7 @@
+---
+description: 'Chief Scientist, IOHK'
+---
+
 # Prof. Aggelos Kiayias
 
 ## IOHK research team update with chief scientist Prof. Aggelos Kiayias
