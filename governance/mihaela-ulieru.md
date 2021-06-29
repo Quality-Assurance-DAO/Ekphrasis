@@ -44,5 +44,11 @@ Chaired by • Mihaela Ulieru, President, IMPACT Institute for the Digital Econo
 
 {% embed url="https://www.youtube.com/watch?v=0BbMhA6cZ\_k" %}
 
+## Organic Governance
+
+11th August 2020
+
+{% embed url="https://www.youtube.com/watch?v=EGtE\_TitqBI" %}
+
 
 
