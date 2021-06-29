@@ -4,7 +4,7 @@ description: Philosophical content from the Cardano community
 
 # Cardano community
 
-### Charles Hoskinson, Favorite Philosophers
+## Charles Hoskinson, Favorite Philosophers - IN DRAFT
 
 #### Lex Fridman Podcast \#192
 
