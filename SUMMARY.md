@@ -20,3 +20,7 @@
 
 * [Credentials](nfts/credentials.md)
 
+## Game Theory
+
+* [Untitled](game-theory/untitled.md)
+
