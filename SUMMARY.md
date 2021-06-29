@@ -10,6 +10,7 @@
 ## IOHK research team
 
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
+* [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
 ## Philosophy
 
