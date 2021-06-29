@@ -62,6 +62,16 @@ Note : weblinks open in new window/tab.
 
 ### What is Ouroboros Omega all about? [00:31:17](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=1877s) 
 
+## Babel Fees on Cardano
+
+28th May 2021
+
+Babel Fees on Cardano; Prof. Aggelos Kiayias Whiteboard Presentation
+
+{% embed url="https://www.youtube.com/watch?v=TkiltupoocM" %}
+
+
+
 ## IOHK Research Library
 
 {% embed url="https://iohk.io/en/research/library/" %}
