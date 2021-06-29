@@ -62,6 +62,14 @@ Note : weblinks open in new window/tab.
 
 ### What is Ouroboros Omega all about? [00:31:17](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=1877s) 
 
+## Fast Client Bootstrapping
+
+3rd June 2021
+
+{% embed url="https://www.youtube.com/watch?v=XQdZdA-s8Mg" %}
+
+Synchronizing with the blockchain can be a very intensive operation for the client that just joins the network. The reason is that the blockchain is an ever-growing database containing a wealth of transactional data, not all of which is needed for all clients. So how is it possible for a client to extract the information that they want from the blockchain without getting a big penalty in terms of performance?
+
 ## Babel Fees on Cardano
 
 28th May 2021
