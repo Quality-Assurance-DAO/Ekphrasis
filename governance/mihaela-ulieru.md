@@ -24,6 +24,14 @@ Felix von Schubert, Executive Chairman, Infrontier, United Kingdom
 
 Chaired by • Mihaela Ulieru, President, IMPACT Institute for the Digital Economy, USA
 
+## Lovelace Academy - Maria Carmo Interview
+
+14th March 2021
+
+{% embed url="https://www.youtube.com/watch?v=mD1kAmP8K-M" %}
+
+
+
 ## People of IOG: Dr. Mihaela Ulieru
 
 5th March 2021
