@@ -26,5 +26,5 @@
 
 ## Input Output research team
 
-* [Untitled](input-output-research-team/untitled.md)
+* [Prof. Aggelos Kiayias](input-output-research-team/untitled.md)
 
