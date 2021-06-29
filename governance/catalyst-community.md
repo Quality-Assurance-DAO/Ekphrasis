@@ -1,3 +1,7 @@
+---
+description: Governance content from the vicinity of the Catalyst Community
+---
+
 # Catalyst Community
 
 ## The next frontier in decentralised governance collaborative sense-making.
