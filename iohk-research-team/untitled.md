@@ -70,6 +70,14 @@ Babel Fees on Cardano; Prof. Aggelos Kiayias Whiteboard Presentation
 
 {% embed url="https://www.youtube.com/watch?v=TkiltupoocM" %}
 
+## Reward Sharing in Cardano
+
+28th May 2021
+
+A short whiteboard video from Prof. Aggelos Kiayias on reward sharing and pledging in Cardano.
+
+{% embed url="https://www.youtube.com/watch?v=mPnqAUHqRVc" %}
+
 
 
 ## IOHK Research Library
