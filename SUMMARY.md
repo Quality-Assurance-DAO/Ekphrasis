@@ -7,6 +7,11 @@
 * [Charles Hoskinson](governance/charles-hoskinson.md)
 * [Dr. Mihaela Ulieru](governance/mihaela-ulieru.md)
 
+## IOHK research team
+
+* [Prof. Aggelos Kiayias](input-output-research-team/untitled.md)
+
+
 ## Philosophy
 
 * [Cardano community](philosophy/cardano-community.md)
@@ -24,7 +29,4 @@
 
 * [Credentials](nfts/credentials.md)
 
-## Input Output research team
-
-* [Prof. Aggelos Kiayias](input-output-research-team/untitled.md)
 
