@@ -38,5 +38,11 @@ Chaired by • Mihaela Ulieru, President, IMPACT Institute for the Digital Econo
 
 {% embed url="https://www.youtube.com/watch?v=zoRYts9vp2s" %}
 
+## Women in Crypto- Sovereignty and Governance
+
+16th November 2020
+
+{% embed url="https://www.youtube.com/watch?v=0BbMhA6cZ\_k" %}
+
 
 
