@@ -6,11 +6,11 @@
 
 Research lies at the heart of our mission as a company and is central to delivering our vision for Cardano. In this video, IOHK Marketing & Communications Director Tim Harrison talks to Chief Scientist, Professor Aggelos Kiayias to hear more about the work of his team. 
 
-[00:00:15](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=15s) Explaining Cryptography
+### Explaining Cryptography \([00:00:15](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=15s)\)
 
- [00:02:26](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=146s) Who were the pioneers of cryptography?
+### Who were the pioneers of cryptography? \( [00:02:26](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=146s)\)
 
- [00:04:15](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=255s) What is cryptography really?
+### What is cryptography really? \([00:04:15](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=255s) \)
 
  [00:06:37](https://www.youtube.com/watch?v=7UAL_6f7PFw&t=397s) Where are we as an industry in crypto?
 
