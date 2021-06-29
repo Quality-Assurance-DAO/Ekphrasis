@@ -13,7 +13,7 @@
 
 ## Game Theory
 
-* [Untitled](game-theory/untitled.md)
+* [Cardano community](game-theory/untitled.md)
 
 ## Metadata
 
@@ -23,5 +23,4 @@
 ## NFTs
 
 * [Credentials](nfts/credentials.md)
-
 
