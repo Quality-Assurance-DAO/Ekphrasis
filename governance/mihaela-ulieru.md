@@ -24,3 +24,11 @@ Felix von Schubert, Executive Chairman, Infrontier, United Kingdom
 
 Chaired by • Mihaela Ulieru, President, IMPACT Institute for the Digital Economy, USA
 
+## People of IOG: Dr. Mihaela Ulieru
+
+5th March 2021
+
+{% embed url="https://www.youtube.com/watch?v=zoRYts9vp2s" %}
+
+
+
