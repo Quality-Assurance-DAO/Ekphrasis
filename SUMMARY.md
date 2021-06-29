@@ -9,8 +9,7 @@
 
 ## IOHK research team
 
-* [Prof. Aggelos Kiayias](input-output-research-team/untitled.md)
-
+* [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 
 ## Philosophy
 
@@ -28,5 +27,4 @@
 ## NFTs
 
 * [Credentials](nfts/credentials.md)
-
 
