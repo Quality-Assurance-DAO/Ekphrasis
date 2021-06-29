@@ -14,3 +14,7 @@
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 
+---
+
+* [Metadata Discussions](metadata-discussions.md)
+
