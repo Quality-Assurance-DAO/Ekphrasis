@@ -11,6 +11,10 @@
 
 * [Cardano community](philosophy/cardano-community.md)
 
+## Game Theory
+
+* [Untitled](game-theory/untitled.md)
+
 ## Metadata
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
@@ -20,7 +24,4 @@
 
 * [Credentials](nfts/credentials.md)
 
-## Game Theory
-
-* [Untitled](game-theory/untitled.md)
 
