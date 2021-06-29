@@ -46,6 +46,14 @@ Lot of Political Science, Systems Design, Mechanism Design ; foundational resear
 
 Speculates that : innovation will appear first at the Dapp layer \(as a service using the Catalyst framework\) then at some point through the HFC \(Hard Fork Combinator\) process and the consent of the governed will emerge \(merge ?\) to a more nuanced power dynamic for the entire system.
 
+References :
+
+{% embed url="https://en.wikipedia.org/wiki/Preferential\_voting" %}
+
+{% embed url="https://en.wikipedia.org/wiki/Quadratic\_voting" %}
+
+
+
 
 
 
