@@ -5,6 +5,7 @@
 ## Governance
 
 * [Charles Hoskinson](governance/charles-hoskinson.md)
+* [Mihaela Ulieru](governance/mihaela-ulieru.md)
 
 ## Philosophy
 
