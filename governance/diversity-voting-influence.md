@@ -12,5 +12,13 @@ description: Cardano Project to Simulate and Analyze Catalyst Voting Processes
 
 {% embed url="https://docs.google.com/presentation/d/1AmwbuA7b6\_lMcM3HFrKCdURNA58c6pKkyhsy5TChFtU/edit\#slide=id.gd9c453428\_0\_16" %}
 
+## Recommended Reading - Decentralized Governance
+
+Decentralized Governance
+
+DECENTRALIZATION - TECHNOLOGY'S IMPACT ON ORGANIZATIONAL AND SOCIETAL STRUCTURE, DEGRUYTER PUBLISHERS \(2021\)
+
+{% embed url="https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3782214" %}
+
 
 
