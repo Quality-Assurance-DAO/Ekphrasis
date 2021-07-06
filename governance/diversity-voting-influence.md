@@ -12,6 +12,8 @@ Design and evaluate a variety of voting saturation and aggregation algorithms th
 
 ## GitHub Repository
 
+The Photrek team includes expertise in modeling complex systems, simulating majority vote dynamics, and designing governance policies.
+
 {% embed url="https://github.com/Photrek/Cardano-Catalyst/tree/main/Diversify%20Voting%20Influence" %}
 
 ## Diversify Voting Influence Overview
