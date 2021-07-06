@@ -4,6 +4,8 @@ description: Cardano Project to Simulate and Analyze Catalyst Voting Processes
 
 # Diversity-Voting-Influence
 
+Design and evaluate a variety of voting saturation and aggregation algorithms that balances the influence of small and large stakeholders.
+
 ## Ideascale Proposal
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Diversify-Voting-Influence/340657-48088" %}
