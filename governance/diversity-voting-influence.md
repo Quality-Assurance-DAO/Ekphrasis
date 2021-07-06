@@ -4,6 +4,10 @@ description: Cardano Project to Simulate and Analyze Catalyst Voting Processes
 
 # Diversity-Voting-Influence
 
+## Ideascale Proposal
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Diversify-Voting-Influence/340657-48088" %}
+
 ## GitHub Repository
 
 {% embed url="https://github.com/Photrek/Cardano-Catalyst/tree/main/Diversify%20Voting%20Influence" %}
