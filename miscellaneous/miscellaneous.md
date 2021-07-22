@@ -16,5 +16,13 @@ Discord context
 
 {% embed url="https://discord.com/channels/832894680290951179/857889688248778752/867601370348650517" %}
 
+## Coordinape
+
+### Tools for DAOs that Do
+
+Scale your community with tools to reward contributors, incentivize participation and manage resources
+
+{% embed url="https://coordinape.com/" %}
+
 
 
