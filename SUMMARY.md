@@ -33,5 +33,5 @@
 
 ## Miscellaneous
 
-* [Miscellaneous](miscellaneous/miscellaneous.md)
+* [DAOs - Distributed Autonomous Organization](miscellaneous/miscellaneous.md)
 

@@ -1,8 +1,8 @@
 ---
-description: More general reference material
+description: General reference material on DAOs
 ---
 
-# Miscellaneous
+# DAOs - Distributed Autonomous Organization
 
 ## A Prehistory of DAOs
 
