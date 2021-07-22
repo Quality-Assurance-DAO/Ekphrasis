@@ -31,3 +31,7 @@
 
 * [Credentials](nfts/credentials.md)
 
+## Miscellaneous
+
+* [Miscellaneous](miscellaneous/miscellaneous.md)
+
