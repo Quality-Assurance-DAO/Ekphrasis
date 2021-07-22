@@ -6,6 +6,8 @@ description: More general reference material
 
 ## A Prehistory of DAOs
 
+#### @keikreutler
+
 ### Cooperatives, gaming guilds, and the networks to come <a id="cooperatives-gaming-guilds-and-the-networks-to-come"></a>
 
 {% embed url="https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q" %}
