@@ -33,6 +33,6 @@
 
 ## DAOs - Distributed Autonomous Organization
 
-* [Cardano Community](daos-distributed-autonomous-organization/cardano-community.md)
+* [Catalyst Community](daos-distributed-autonomous-organization/cardano-community.md)
 * [General reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
 
