@@ -1,8 +1,8 @@
 ---
-description: Game Theory content from the Cardano community
+description: Game Theory content from the Catalyst Community
 ---
 
-# Cardano community
+# Catalyst Community
 
 ### Contribution rewards and game theory - DRAFT
 

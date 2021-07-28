@@ -20,7 +20,7 @@
 
 ## Game Theory
 
-* [Cardano community](game-theory/untitled.md)
+* [Catalyst Community](game-theory/untitled.md)
 
 ## Metadata
 
