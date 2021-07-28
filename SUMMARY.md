@@ -14,6 +14,11 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
+## DAOs - Distributed Autonomous Organization
+
+* [Catalyst Community](daos-distributed-autonomous-organization/cardano-community.md)
+* [General reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
+
 ## Philosophy
 
 * [Cardano community](philosophy/cardano-community.md)
@@ -30,9 +35,3 @@
 ## NFTs
 
 * [Credentials](nfts/credentials.md)
-
-## DAOs - Distributed Autonomous Organization
-
-* [Catalyst Community](daos-distributed-autonomous-organization/cardano-community.md)
-* [General reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
-
