@@ -2,7 +2,7 @@
 description: General reference material on DAOs
 ---
 
-# General reference material
+# General reference material on DAOs
 
 ## A Prehistory of DAOs
 

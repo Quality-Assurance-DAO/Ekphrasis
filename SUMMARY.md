@@ -33,5 +33,5 @@
 
 ## DAOs - Distributed Autonomous Organization
 
-* [General reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
+* [General reference material on DAOs](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
 
