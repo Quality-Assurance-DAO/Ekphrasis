@@ -18,6 +18,10 @@ Vincent Brandon
 
 {% embed url="https://github.com/newnativeabq/graphdao" %}
 
+### Proof of Concept
+
+![Proof of Concept](../.gitbook/assets/2021-07-28.png)
+
 
 
 
