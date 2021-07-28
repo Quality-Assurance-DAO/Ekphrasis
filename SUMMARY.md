@@ -31,7 +31,7 @@
 
 * [Credentials](nfts/credentials.md)
 
-## Miscellaneous
+## DAOs - Distributed Autonomous Organization
 
-* [DAOs - Distributed Autonomous Organization](miscellaneous/daos-distributed-autonomous-organization.md)
+* [General reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
 
