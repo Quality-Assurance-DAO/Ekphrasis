@@ -19,6 +19,10 @@
 * [Catalyst Community](daos-distributed-autonomous-organization/cardano-community.md)
 * [General reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
 
+## Tracking effort and merit in Cardano
+
+* [Untitled](tracking-effort-and-merit-in-cardano/untitled.md)
+
 ## Philosophy
 
 * [Cardano community](philosophy/cardano-community.md)
@@ -36,7 +40,6 @@
 
 * [Credentials](nfts/credentials.md)
 
-## Tracking effort and merit in Cardano
 
-* [Untitled](tracking-effort-and-merit-in-cardano/untitled.md)
+
 
