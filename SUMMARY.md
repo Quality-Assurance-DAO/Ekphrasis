@@ -21,7 +21,7 @@
 
 ## Tracking effort and merit in Cardano
 
-* [Tracking effort and merit in Cardano Working Group Meetings](tracking-effort-and-merit-in-cardano/untitled.md)
+* [Tracking effort and merit in Cardano Working Group Meetings](tracking-effort-and-merit-in-cardano/tracking-effort-and-merit-in-cardano-working-group-meetings.md)
 
 ## Philosophy
 
