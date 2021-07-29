@@ -21,7 +21,7 @@
 
 ## Tracking effort and merit in Cardano
 
-* [Untitled](tracking-effort-and-merit-in-cardano/untitled.md)
+* [Tracking effort and merit in Cardano Working Group Meetings](tracking-effort-and-merit-in-cardano/untitled.md)
 
 ## Philosophy
 
@@ -39,7 +39,4 @@
 ## NFTs
 
 * [Credentials](nfts/credentials.md)
-
-
-
 

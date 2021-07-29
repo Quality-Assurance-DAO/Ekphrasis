@@ -2,7 +2,7 @@
 description: Tracking effort and merit in Cardano Working Group Meetings
 ---
 
-# Tracking Working Group - July 2021
+# Tracking effort and merit in Cardano Working Group Meetings
 
 ## Tracking Working Group - July 2021
 
@@ -225,7 +225,4 @@ Funding for on-chain binding votes .
 ### Resources
 
 Building Web Reputation Systems - Randy Farmer [https://www.youtube.com/watch?v=Yn7e0J9m6rE](https://www.youtube.com/watch?v=Yn7e0J9m6rE)
-
-
-
 
