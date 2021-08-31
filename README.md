@@ -10,9 +10,9 @@ It was started on 29th June 2021 and is maintained by under the benevolent dicta
 
 ## F6: Catalyst value onboarding Ekphrasis - Academic GitBook
 
-### Ideasscale
+### Ideascale
 
-[https://cardano.ideascale.com/a/dtd/Ekphrasis-Academic-GitBook/369556-48088](https://cardano.ideascale.com/a/dtd/Ekphrasis-Academic-GitBook/369556-48088)
+{% embed url="https://cardano.ideascale.com/a/dtd/Ekphrasis-Academic-GitBook/369556-48088" %}
 
 ### **Proposal**
 
