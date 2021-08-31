@@ -10,21 +10,25 @@ It was started on 29th June 2021 and is maintained by under the benevolent dicta
 
 ## F6: Catalyst value onboarding Ekphrasis - Academic GitBook
 
-**Proposal**
+### Ideasscale
+
+[https://cardano.ideascale.com/a/dtd/Ekphrasis-Academic-GitBook/369556-48088](https://cardano.ideascale.com/a/dtd/Ekphrasis-Academic-GitBook/369556-48088)
+
+### **Proposal**
 
 The aim of this proposal is to fund editorship from November 2021 to January 2022. This assumes a single editor who collates academic materials relevant to Cardano and writes one article or commentary per month.
 
- **Sustainability**
+###  **Sustainability**
 
 QA-DAO \(https://stephen-rowan.gitbook.io/quality-assurance-dao/\) which is the GitHub Organization where the _Ekphrasis - Academic GitBook_ lives is seeking GitHub sponsorship \(pending\) and will also explore StakePool Operator sponsorship. The aim being to become independent of Project Catalyst funding. As it takes time to build up sufficient sponsorship - this proposal seeks to fill the gap.
 
-**Editorship**
+### **Editorship**
 
 Whilst the Ekphrasis - Academic GitBook content is open-source the Editorship is currently restricted. The reason for this is the organizational overhead involved in sharing the editor role and soliciting and reviewing submissions from the community.
 
 A portion of the budget is set aside for up to 5 contributors to the GitBook \(shared access\) with a view to transition to a shared model. Collaboration and partnerships are sought to help fulfill this outcome. 
 
-**Budget**
+### **Budget**
 
 _NB : These time estimates are based on tracking the time spent_
 
