@@ -4,6 +4,12 @@ description: Chief Scientist, IOHK
 
 # Prof. Aggelos Kiayias
 
+## SoK: Blockchain Governance
+
+#### 19th January 2022
+
+{% embed url="https://arxiv.org/pdf/2201.07188.pdf" %}
+
 ## IOHK research team update with chief scientist Prof. Aggelos Kiayias
 
 #### 28th June, 2021
