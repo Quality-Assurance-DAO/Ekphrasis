@@ -36,3 +36,7 @@
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
+
+## January 2021
+
+* [January 2021](january-2021/january-2021.md)
