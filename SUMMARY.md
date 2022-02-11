@@ -34,3 +34,7 @@
 ## September 2021
 
 * [WADA - Diversify Voting Influence](september-2021/wada-diversify-voting-influence.md)
+
+## October 2021
+
+* [Page 1](october-2021/page-1.md)
