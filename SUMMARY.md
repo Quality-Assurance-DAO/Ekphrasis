@@ -36,3 +36,7 @@
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
+
+## June 2021
+
+* [Page 1](june-2021/page-1.md)
