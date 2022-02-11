@@ -24,12 +24,9 @@
 * [Tracking effort and merit in Cardano Working Group Meetings](tracking-effort-and-merit-in-cardano/tracking-effort-and-merit-in-cardano-working-group-meetings.md)
 * [SourceCred](tracking-effort-and-merit-in-cardano/sourcecred.md)
 
-## Philosophy
+## June 2021
 
 * [Cardano community](philosophy/cardano-community.md)
-
-## Game Theory
-
 * [Catalyst Community](game-theory/untitled.md)
 
 ## January 2021
@@ -37,6 +34,6 @@
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
 
-## June 2021
 
-* [Page 1](june-2021/page-1.md)
+
+
