@@ -13,6 +13,15 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
+
+## October 2021
+
+* [Diversity-Voting-Influence. F4 : Final report](october-2021/diversity-voting-influence.md)
+
+## September 2021
+
+* [WADA - Diversify Voting Influence](september-2021/wada-diversify-voting-influence.md)
+
 ## July 2021
 
 * [GraphDAO-Intro to Primitives](daos-distributed-autonomous-organization/cardano-community.md)
@@ -29,12 +38,3 @@
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
-
-## September 2021
-
-* [WADA - Diversify Voting Influence](september-2021/wada-diversify-voting-influence.md)
-
-## October 2021
-
-* [Diversity-Voting-Influence. F4 : Final report](october-2021/diversity-voting-influence.md)
-* [Page 1](october-2021/page-1.md)
