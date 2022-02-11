@@ -26,14 +26,10 @@
 
 ## June 2021
 
-* [Cardano community](philosophy/cardano-community.md)
+* [Charles Hoskinson, Favorite Philosophers](philosophy/cardano-community.md)
 * [Catalyst Community](game-theory/untitled.md)
 
 ## January 2021
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
-
-
-
-
