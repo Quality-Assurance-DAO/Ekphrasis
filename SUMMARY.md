@@ -16,7 +16,7 @@
 
 ## July 2021
 
-* [Catalyst Community](daos-distributed-autonomous-organization/cardano-community.md)
+* [GraphDAO-Intro to Primitives](daos-distributed-autonomous-organization/cardano-community.md)
 * [General reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
 * [Tracking effort and merit in Cardano Working Group Meetings](tracking-effort-and-merit-in-cardano/tracking-effort-and-merit-in-cardano-working-group-meetings.md)
 * [SourceCred](tracking-effort-and-merit-in-cardano/sourcecred.md)
@@ -30,6 +30,3 @@
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
-
-
-
