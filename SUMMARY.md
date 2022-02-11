@@ -2,7 +2,7 @@
 
 * [Ekphrasis](README.md)
 
-## Governance
+## Sources
 
 * [Charles Hoskinson](governance/charles-hoskinson.md)
 * [Dr. Mihaela Ulieru](governance/mihaela-ulieru.md)
@@ -14,30 +14,31 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
-## DAOs - Distributed Autonomous Organization
+## July 2021
+
+### DAOs - Distributed Autonomous Organization
 
 * [Catalyst Community](daos-distributed-autonomous-organization/cardano-community.md)
 * [General reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
 
-## Tracking effort and merit in Cardano
+### Tracking effort and merit in Cardano
 
 * [Tracking effort and merit in Cardano Working Group Meetings](tracking-effort-and-merit-in-cardano/tracking-effort-and-merit-in-cardano-working-group-meetings.md)
 * [SourceCred](tracking-effort-and-merit-in-cardano/sourcecred.md)
 
-## Philosophy
+## June 2021
+
+### Philosophy
 
 * [Cardano community](philosophy/cardano-community.md)
 
-## Game Theory
+### Game Theory
 
 * [Catalyst Community](game-theory/untitled.md)
 
-## Metadata
+## January 2021
+
+### Metadata
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
-
-## NFTs
-
-* [Credentials](nfts/credentials.md)
-
