@@ -33,4 +33,4 @@
 
 ## September 2021
 
-* [Page 1](september-2021/page-1.md)
+* [WADA - Diversify Voting Influence](september-2021/wada-diversify-voting-influence.md)
