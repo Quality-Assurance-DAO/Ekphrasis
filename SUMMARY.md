@@ -7,7 +7,6 @@
 * [Charles Hoskinson](governance/charles-hoskinson.md)
 * [Dr. Mihaela Ulieru](governance/mihaela-ulieru.md)
 * [Catalyst Community](governance/catalyst-community.md)
-* [Diversity-Voting-Influence. F4 : Final report](governance/diversity-voting-influence.md)
 
 ## IOHK research team
 
@@ -37,4 +36,5 @@
 
 ## October 2021
 
+* [Diversity-Voting-Influence. F4 : Final report](october-2021/diversity-voting-influence.md)
 * [Page 1](october-2021/page-1.md)
