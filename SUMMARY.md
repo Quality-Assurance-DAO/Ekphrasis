@@ -41,3 +41,7 @@
 ## January 2022
 
 * [Page 1](january-2022/page-1.md)
+
+## February 2022
+
+* [Page 2](february-2022/page-2.md)
