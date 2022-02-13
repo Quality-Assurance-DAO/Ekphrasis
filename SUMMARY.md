@@ -19,7 +19,7 @@
 
 ## January 2022
 
-* [January 2022](january-2022/page-1.md)
+* [SoK: Blockchain Governance](january-2022/page-1.md)
 
 ## October 2021
 

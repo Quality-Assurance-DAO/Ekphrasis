@@ -1,7 +1,7 @@
-# January 2022
+---
+description: 'Prof. Aggelos Kiayias & Philip Lazos - SoK: Blockchain Governance'
+---
 
-## Prof. Aggelos Kiayias
-
-### SoK: Blockchain Governance
+# SoK: Blockchain Governance
 
 {% embed url="https://arxiv.org/pdf/2201.07188.pdf" %}
