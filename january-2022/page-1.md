@@ -1,8 +1,7 @@
-## 19th January 2022
+# January 2022
 
-Prof. Aggelos Kiayias
+## Prof. Aggelos Kiayias
 
-SoK: Blockchain Governance
-
+### SoK: Blockchain Governance
 
 {% embed url="https://arxiv.org/pdf/2201.07188.pdf" %}

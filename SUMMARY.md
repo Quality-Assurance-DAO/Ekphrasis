@@ -19,7 +19,7 @@
 
 ## January 2022
 
-* [Page 1](january-2022/page-1.md)
+* [January 2022](january-2022/page-1.md)
 
 ## October 2021
 
