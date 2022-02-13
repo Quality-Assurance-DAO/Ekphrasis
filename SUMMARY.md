@@ -13,7 +13,6 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
-
 ## October 2021
 
 * [Diversity-Voting-Influence. F4 : Final report](october-2021/diversity-voting-influence.md)
@@ -38,3 +37,7 @@
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
+
+## January 2022
+
+* [Page 1](january-2022/page-1.md)
