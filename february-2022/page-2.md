@@ -96,7 +96,19 @@ A blockchain governance system satisfies pseudonymity if no participant is requi
 
 A blockchain governance system is coercion-resistant if whenever a decision-making process is held, a  participant can deceive the adversary into thinking that they have behaved as instructed, when the participant has in fact made an input according to their own intentions. In Catalyst the authors assess the system as somewhat coercion resistant. The ballot itself cannot be decrypted by the voter – so there is nothing to coerce.
 
+## Security properties: B) Verifiability
 
+![](<../.gitbook/assets/2022-02-17 (6).png>)
+
+The second property, verifiability complements the prior property of confidentiality by going in the opposite direction and making sure that any voting inputs can be independently verified from the voter to the tally.
+
+### Definition 4 (End-to-End Verifiability).&#x20;
+
+This property rests on **Definition 4 (End-to-End Verifiability).** A blockchain governance system is verifiable if whenever a decision-making process takes place, participants are able to verify their inputs were properly tallied and independent observers are able to verify that inputs from eligible participants were properly tallied.
+
+In Catalyst the result or tally of the vote can be independently verified and a voter can verify they have voted a particular way as long as they retain the means to decrypt their vote.
+
+Outside of voting, verifiability can also be seen to be relevant to the “proof of life” onboarding process of a funded proposer or the debate over whether identities of Community Advisors should be known. A balance always needs to be drawn here between incentives for contribution (being funded as a proposer or rewarded for CA work) and the security that Secrecy & Pseudonymity may provide to a contributor.
 
 
 
