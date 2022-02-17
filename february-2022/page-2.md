@@ -241,3 +241,190 @@ Please consider delegating to [QADAO pool ](https://adapools.org/pool/e8fb1e898f
 
 Also check out [General Properties of Blockchain Governance ](https://youtu.be/TKJDjwyAz4A)by [ADAO](https://www.theadadao.com) on their YouTube channel.
 
+## Comments
+
+19:33:19 From Tevo Saks : I will be taking notes on Miro Board after presentation: https://miro.com/app/board/uXjVOMES8sU=/&#x20;
+
+19:34:17 From Tevo Saks : https://arxiv.org/pdf/2201.07188v2.pdf&#x20;
+
+19:36:47 From Tevo Saks : Information System Management: https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf&#x20;
+
+19:43:17 From Tevo Saks : Social Choice Theory: https://plato.stanford.edu/entries/social-choice/&#x20;
+
+19:43:32 From Heinz Gassner : Tevo, are these slides available ?&#x20;
+
+19:43:41 From Heinz Gassner : I will need to leave soon&#x20;
+
+19:44:13 From Tevo Saks : yes, if you doubleclick on the slide picture you get the link&#x20;
+
+19:44:26 From Tevo Saks : But here is the link: https://docs.google.com/presentation/d/1kfKrqdZB8v4oN2WY\_nqDlGNB60s4u6iZjvpUKu5AQLU/edit&#x20;
+
+19:44:53 From Heinz Gassner : @TEvo&#x20;
+
+19:44:59 From Heinz Gassner : Thanks&#x20;
+
+19:46:05 From Heinz Gassner : Very interesting, but need to leave …&#x20;
+
+19:46:26 From Tevo Saks : iz ok, its recorded :D plan your time as you see fit&#x20;
+
+19:46:37 From Tevo Saks : thx for joining&#x20;
+
+19:48:56 From Jeremy B : late to the room, was there a link to the article Stephen is discussing?&#x20;
+
+19:49:17 From Tevo Saks : https://miro.com/app/board/uXjVOMES8sU=/&#x20;
+
+19:49:22 From Tevo Saks : you can find all the links here&#x20;
+
+19:49:31 From Jeremy B : 👍&#x20;
+
+19:49:34 From Tevo Saks : including the presentation
+
+19:50:20 From Harris Warren : Thanks Stephen for such great coverage of this research. 🙏&#x20;
+
+19:50:38 From Harris Warren : I need to run.&#x20;
+
+19:51:05 From mike jarmon : Run well! Good stuff… Tx&#x20;
+
+19:51:39 From Tevo Saks : Open Question: Should we do large scale survey related to assessing Catalyst Governance Properties?&#x20;
+
+19:54:31 From Stephen Whitenstall : https://docs.google.com/presentation/d/1kfKrqdZB8v4oN2WY\_nqDlGNB60s4u6iZjvpUKu5AQLU/edit?usp=sharing&#x20;
+
+19:55:27 From Dan Verowski : thanks for the pres Stephen and Tevo for facilitating. got to go, see u later (;&#x20;
+
+19:57:13 From Stephen Whitenstall : Thanks Dan and Harris&#x20;
+
+19:59:27 From Nick Smith : Thanks everyone. Gotta run to a 12 oclock meeting. Very interesting stuff, def going to dig in to this deeper.&#x20;
+
+19:59:38 From Stephen Whitenstall : Thanks Nick&#x20;
+
+20:07:17 From Sofi H : because of communication...&#x20;
+
+20:07:44 From Sofi H : The message was shared upfront in TH to downvote&#x20;
+
+20:20:28 From Tevo Saks : J P, all the info you might not need :D https://miro.com/app/board/uXjVOMES8sU=/&#x20;
+
+20:20:38 From Özgür Yaşar Akyar : Thanks for the meeting. We are learning each day and excited to see where all this evolve… Warm greetings from Turkey. Lets build better system together&#x20;
+
+20:20:54 From Tevo Saks : Turkey ftw&#x20;
+
+20:25:54 From J P : Decentralized Consortium Fund&#x20;
+
+20:26:06 From Curtis Myers : Tevo, I love your game wall! Off topic&#x20;
+
+20:27:27 From Tevo Saks : you seen nothing yet :D its 6th of the games I guess.&#x20;
+
+20:28:02 From Curtis Myers : Jealous, I have a good amount of games. But no one to play with, haha. I still have unopened boxes&#x20;
+
+20:28:06 From Tevo Saks : I like play trough all kinds of game mechanics&#x20;
+
+20:28:27 From Curtis Myers : Very valuable brain exercises IMO&#x20;
+
+20:28:31 From Tevo Saks : some of the games are unopened too xD but yes finding players is not an easy task&#x20;
+
+20:28:47 From Tevo Saks : harder than getting a volunteer group in Catalyst to do free work for community :D&#x20;
+
+20:29:02 From Curtis Myers : hahaha 😂&#x20;
+
+20:31:31 From Curtis Myers : Skepticism is a good approach to everything. As long as bias doesn't play a role. I have lots of faith in you Kenric!&#x20;
+
+20:31:32 From Sofi H : I feel the same, bit unsure about the route, but also dont want to just judge from the sideline XD&#x20;
+
+20:32:26 From J P : CoI&#x20;
+
+20:32:47 From J P : d-rep&#x20;
+
+20:33:21 From Tevo Saks : I speculate it will have positive impact, because we will see representatives, compared to unknown influencers influencing decision making&#x20;
+
+20:33:49 From Tevo Saks : and we prolly gona analyze the decisions made by reps, because that's what we do, we analyze everything :D&#x20;
+
+20:34:18 From Tevo Saks : which will lead to the liquid democracy research we need&#x20;
+
+20:34:37 From Curtis Myers : Good view point Tevo. Right now is not optimal. But clarity can still be provide a negative impact, however I think this is progress regardless&#x20;
+
+20:35:25 From Quasarito Salads : would like to explore governance through the lens of actor network theory and removing voting altogether&#x20;
+
+20:36:44 From J P : It seems like one would delegate their voting power to another person&#x20;
+
+20:36:46 From Quasarito Salads : or represent the wen Lambos!!!!!!!! LFG&#x20;
+
+20:38:12 From Quasarito Salads : or, stop voting&#x20;
+
+20:38:40 From Quasarito Salads : voting is a wolf in sheeps pants&#x20;
+
+20:39:43 From Quasarito Salads : Here's voting and compromise for you&#x20;
+
+20:39:45 From Quasarito Salads : https://en.wikipedia.org/wiki/Three-fifths\_Compromise&#x20;
+
+20:41:56 From Quasarito Salads : let's get voting off the pedestal&#x20;
+
+20:42:25 From Quasarito Salads : that's actor network theory, thank you Sofih&#x20;
+
+20:44:20 From Quasarito Salads : Voting power is not power, it's a means of control.&#x20;
+
+20:45:32 From Quasarito Salads : https://docs.google.com/document/d/1Z2qLzGbLQxLgfDKqnTZFTL3IM28V8uUykptng0p5jbE/edit&#x20;
+
+20:46:21 From J P : Sorry all, I must drop off. Thanks for the discussion&#x20;
+
+20:46:24 From Quasarito Salads : voting power and paying whales voter rewards is a framework of the repressive state apparatus.&#x20;
+
+20:46:29 From Stephen Whitenstall : Thanks JP&#x20;
+
+20:47:35 From Quasarito Salads : what's the percentage of wallets below 10K ada? percentage over 1M ada?&#x20;
+
+20:48:28 From Quasarito Salads : but the voting rewards are reduced so that's a silver lining&#x20;
+
+20:49:03 From Quasarito Salads : on a zoom call with google forms? why not? isn't this the zoom governance room?&#x20;
+
+20:49:53 From Tevo Saks : session is kinda over, but Miro notes for new people: https://miro.com/app/board/uXjVOMES8sU=/&#x20;
+
+20:50:11 From Jonathan Adjei : Tx&#x20;
+
+20:50:21 From Stephen Whitenstall : Like Arrows Impossibility Theorem&#x20;
+
+20:50:39 From Quasarito Salads : correct, different voting for different things, pick your governance, assigned the system/method&#x20;
+
+20:50:52 From Stephen Whitenstall : But ranking systems are not the only option&#x20;
+
+20:51:46 From Stephen Whitenstall : or meritocratic suffrage&#x20;
+
+20:52:04 From Quasarito Salads : these intangibles love pontifications&#x20;
+
+20:54:13 From Stephen Whitenstall : https://vitalik.ca/general/2017/12/17/voting.html&#x20;
+
+20:54:34 From Quasarito Salads : the crowd always prevails, and slips&#x20;
+
+20:54:38 From Quasarito Salads : splits&#x20;
+
+20:54:46 From Sofi H : https://www.youtube.com/watch?v=sJcqNEyTUwg&#x20;
+
+20:55:05 From Stephen Whitenstall : Link to presentation for latecomers - https://docs.google.com/presentation/d/1kfKrqdZB8v4oN2WY\_nqDlGNB60s4u6iZjvpUKu5AQLU/edit?usp=sharing&#x20;
+
+20:55:20 From Sofi H : A brief version of why there is no one voting system to rule them all&#x20;
+
+21:00:16 From Tevo Saks : well I got distracted, so I stopped taking notes when voting discussions started. I'm danzo for day&#x20;
+
+21:03:17 From John Wellesz : Will we still have the option to vote directly for a proposal while delegating for other proposals we abstain?&#x20;
+
+21:04:05 From Jonathan Adjei : @John .. I asked Harris earlier and he said yes You can choose how much of your voting weight to delegate,&#x20;
+
+21:04:18 From Daniel Ribar : Yes, that is right.&#x20;
+
+21:04:25 From Tomi Astikainen : I could delegate about 20 kg.&#x20;
+
+21:04:26 From Kenric Nelson : @John interesting question; I assume the delegation is of your “coins”; and thus all the voting of those coins&#x20;
+
+21:04:41 From Tevo Saks : 😅&#x20;
+
+21:04:47 From Daniel Ribar : You will be able to split it - it’s not zero sum game like today all or no voting power.&#x20;
+
+21:04:50 From Kenric Nelson : @JA, but not per proposal&#x20;
+
+21:05:09 From Jonathan Adjei : Right ... yes&#x20;
+
+21:05:47 From John Wellesz : I mean that I delegated 100% of my coins to a set of dreps I trust but I really want to vote yes or no to a particular proposal while still delegating for all the others proposal for which I trust my dReps&#x20;
+
+21:06:22 From Kenric Nelson : Given that you’ll have public representatives; the hardest problem of identity is solved. So will options of saturated voting power and or quadratic voting be considered?&#x20;
+
+21:08:22 From Kenric Nelson : Another side of Sofi’s point is that with the treasury growing, there may be more of a need to have multiple programs rather than one program&#x20;
+
+21:17:15 From Nori Nishigaya : The Catalyst Circle writing proposals to fund them so they can write more proposals to them you is kind of silly. Granted, its not 100% of their time, but it’s not a trivial amount either.
