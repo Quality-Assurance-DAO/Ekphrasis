@@ -120,6 +120,10 @@ The Authors refer specifically to Kenneth Arrow who published a paper, then a bo
 
 I will come back to Arrow shortly but now lets look at an example of Pareto efficiency in the context of Catalyst.
 
+### Definition 5. Pareto efficient
+
+A blockchain governance system is Pareto efficient if whenever a decision-making process is held, alternative X cannot win if there exists another alternative Y that is preferred by at least one participant and no participant prefers X over Y.
+
 ### Pareto efficiency
 
 ![](<../.gitbook/assets/2022-02-17 (8).png>)
