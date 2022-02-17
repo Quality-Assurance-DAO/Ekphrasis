@@ -110,5 +110,48 @@ In Catalyst the result or tally of the vote can be independently verified and a 
 
 Outside of voting, verifiability can also be seen to be relevant to the “proof of life” onboarding process of a funded proposer or the debate over whether identities of Community Advisors should be known. A balance always needs to be drawn here between incentives for contribution (being funded as a proposer or rewarded for CA work) and the security that Secrecy & Pseudonymity may provide to a contributor.
 
+## C) Pareto Efficiency
 
+### Background
 
+![](<../.gitbook/assets/2022-02-17 (7).png>)
+
+There is a lot packed into the Pareto efficiency section of the authors’ Blockchain properties. Reference is made to the background subject of “Social Choice Theory” which encompasses the study of all collective decision processes and procedures.
+
+Concerns with how individual choices can be aggregated into collective outputs date at least as far back as the Enlightenment when Nicolas de Condorcet examined the effectiveness of majority voting and how irrational majority preferences may emerge.
+
+The Authors refer specifically to Kenneth Arrow who published a paper, then a book Social Choice and Individual Values (1951) which laid the groundwork for modern social choice theory.
+
+I will come back to Arrow shortly but now lets look at an example of Pareto efficiency in the context of Catalyst.
+
+### Pareto efficiency
+
+![](<../.gitbook/assets/2022-02-17 (8).png>)
+
+Pareto efficiency asks that, given all stakeholders’ preferences, the outcome of the governance process cannot be strictly improved vis-\`a-vis these preferences.
+
+In relation to Project Catalyst the authors suggest Pareto Efficiency is only somewhat satisfied. “For example, if the total fund is $200,000 and the three winning proposals have budget $10, $100,000 and $100,000 (in order of popularity) the last proposal will not receive funding.”
+
+### Arrow’s Impossibility Theorem
+
+![](<../.gitbook/assets/2022-02-17 (9).png>)
+
+Returning to the background context.
+
+Like Condorcet, Arrow was concerned with the difficulties of group decisions and the inconsistencies to which they may lead.
+
+Arrow’s Impossibility Theorem showed that even mild conditions of reasonableness could not be satisfied by any social choice procedure that identifies a social ordering (or ranking) for each cluster of individual preferences.
+
+Very briefly I will outline Arrow’s Impossibility Theorem only to give a hint of the foundation of modern social choice theory.
+
+#### Arrow’s Impossibility Theorem
+
+With three or more options, no ranked voting electoral system can convert the preferences of individuals into a community-wide (complete and transitive) ranking whilst also meeting the following set of criteria:
+
+•Unrestricted domain (which means the universality of the ranking of preferences – that they will always be reproduced under the same conditions)
+
+•Non-dictatorship (That no one voter dictates preferences or all other voters mimic one voter)
+
+•Pareto efficiency (that there is unanimity of preferences, what any individual prefers is always reflected in the societal preference order).
+
+•Independence of irrelevant alternatives (that a choice between A & B for example should not be affected by an alternative C).
