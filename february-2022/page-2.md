@@ -190,3 +190,20 @@ The authors conclude that sustainable participation is satisfied in Catalyst as 
 
 I would suggest here that not all parties have been rewarded for participation historically in Catalyst. Specifically the group dubbed Toolmakers & Maintainers who provide administrative, organizational and documentation services that are only intermittently rewarded through a completive funding process.
 
+
+
+## F) Liveness
+
+![](<../.gitbook/assets/2022-02-17 (12).png>)
+
+The crucial ability of the system to produce outputs expediently is captured by Liveness property.
+
+### Definition 9. liveness
+
+A blockchain governance system satisfies liveness if it is capable of incorporating an input of urgency from the stakeholders and then being capable of acting on it in the sense that if an issue is deemed to be urgent according to\
+some function, then the decision making procedure is capable of terminating within a reasonable amount of time, which is a function of the urgency of the matter.
+
+The authors conclude that liveness is not satisfied as even though Catalyst funds can be released in accordance with a proposal’s progress, there is no direct mechanism to take urgent action for immediate release.
+
+Whether liveness is required in Catalyst relates to debates over the timeliness of funds. This issue has been identified and has led to initiatives such as the Rapid Funding Mechanism Challenge and to emerging community treasuries and stakepool networks.
+
