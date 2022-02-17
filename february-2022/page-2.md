@@ -151,3 +151,42 @@ With three or more options, no ranked voting electoral system can convert the pr
 •Pareto efficiency (that there is unanimity of preferences, what any individual prefers is always reflected in the societal preference order).
 
 •Independence of irrelevant alternatives (that a choice between A & B for example should not be affected by an alternative C).
+
+## D) Accountability - Incentive properties
+
+![](<../.gitbook/assets/2022-02-17 (10).png>)
+
+The next property Accountability requires that all stakeholders are held accountable for the input they provide to the system.
+
+### Definition 6. Accountability
+
+A blockchain governance system satisfies the property of accountability if whenever participants bring in a change, they are held individually responsible for it in a clearly defined way by the platform.
+
+The authors conclude that in respect of accountability in Catalyst there are no explicit, on or off-chain, penalties. They note that :
+
+•Proposers need to submit periodic progress reports about their projects to keep receiving funding.•Similarly, community advisors and veteran community advisors can be penalized for poor reviews or absence.•But as these are either centralized or community-driven without clearly described mechanisms, accountability is mostly not satisfied.
+
+
+
+## E) Sustainability - Incentive properties
+
+![](<../.gitbook/assets/2022-02-17 (11).png>)
+
+The Sustainability properties address the issue of whether appropriate incentives are provided for the system to evolve constructively and to the stakeholders for providing meaningful input.
+
+### Definition 7 (Sustainable Development).&#x20;
+
+A blockchain governance system sustains development if it incentivises, via monetary rewards or otherwise, participants who develop successful improvement proposals for the platform.
+
+The authors conclude that sustainable development is satisfied in Catalyst through the funding process. Although there is no explicit incentive or reward given to the proposing group or individual, it is the responsibility of the proposer to request the amount which represents the value of their work.
+
+I would suggest here that simply assuming the proposer will request the value of their work is an insufficient guarantee of their capability in budgeting and whether they are granted sufficient funds.
+
+### Definition 8 (Sustainable Participation).&#x20;
+
+A blockchain governance system sustains participation if it incentivises, via monetary rewards or otherwise, participants who participate in the decision-making process of the platform
+
+The authors conclude that sustainable participation is satisfied in Catalyst as all parties are rewarded for participating in the governance process and to an extent receive larger rewards for additional effort (e.g. community advisors and review quality).
+
+I would suggest here that not all parties have been rewarded for participation historically in Catalyst. Specifically the group dubbed Toolmakers & Maintainers who provide administrative, organizational and documentation services that are only intermittently rewarded through a completive funding process.
+
