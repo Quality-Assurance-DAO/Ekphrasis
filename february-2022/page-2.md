@@ -54,7 +54,27 @@ In this context different governing mechanisms may take the form of 1) off-chain
 
 But these mechanisms themselves are no guarantee against community division. If consensus fails then one part of the community can adopt a change they see as beneficial to themselves leaving another part of the community behind.
 
+![](<../.gitbook/assets/2022-02-17 (4).png>)
 
+### Approach / Methodology
+
+The approach the paper “SoK: Blockchain Governance” takes is to “derive a set of properties, that are drawn from general governance principles and election theory\
+and then interpret them to the blockchain governance setting.”
+
+### Sources
+
+The sources the authors draw on include Council of Europe technical standards for e-voting, the Federal Election Commission’s Voting Systems Standards as well as blockchain specific standards.
+
+### Evaluate a range of blockchain platforms
+
+The authors go on to evaluate a range of blockchain platforms against those properties identifying their strengths and weaknesses. For the sake of brevity and focus I will not be covering the entirety of this section today. But rather on the Authors assessment of Project Catalyst.
+
+### Related Work
+
+A paper referred to in Related Work is also worth exploring –
+
+Defining Blockchain Governance: A Framework for Analysis and Comparison ([https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf](https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf)) which takes an open source approach and defines blockchain governance as ”the means of achieving the direction, control, and coordination of stakeholders within the context of a given blockchain project to\
+which they jointly contribute”.
 
 
 
