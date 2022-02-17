@@ -72,7 +72,7 @@ A paper referred to in Related Work is also worth exploring –
 Defining Blockchain Governance: A Framework for Analysis and Comparison ([https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf](https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf)) which takes an open source approach and defines blockchain governance as ”the means of achieving the direction, control, and coordination of stakeholders within the context of a given blockchain project to\
 which they jointly contribute”.
 
-## Security properties: A) Confidentiality
+## A) Confidentiality - Security properties
 
 ![](<../.gitbook/assets/2022-02-17 (5).png>)
 
@@ -92,7 +92,7 @@ A blockchain governance system satisfies pseudonymity if no participant is requi
 
 A blockchain governance system is coercion-resistant if whenever a decision-making process is held, a  participant can deceive the adversary into thinking that they have behaved as instructed, when the participant has in fact made an input according to their own intentions. In Catalyst the authors assess the system as somewhat coercion resistant. The ballot itself cannot be decrypted by the voter – so there is nothing to coerce.
 
-## Security properties: B) Verifiability
+## B) Verifiability - Security properties
 
 ![](<../.gitbook/assets/2022-02-17 (6).png>)
 
