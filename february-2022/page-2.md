@@ -4,11 +4,7 @@ description: Blockchain Governance Principles
 
 # Blockchain Governance Principles
 
-## Recording Placeholder
-
-#### Recording Placeholder
-
-
+{% embed url="https://youtu.be/QEoQFesgUnc" %}
 
 ## Blockchain Governance Principles
 
