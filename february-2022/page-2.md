@@ -34,7 +34,25 @@ Prof [Aggelos Kiayias](https://iohk.io/en/team/aggelos-kiayias) is Chief scienti
 
 Further details can found by following the links to their IOHK profiles.
 
+## Overview
 
+![](<../.gitbook/assets/2022-02-17 (3).png>)
+
+### The Social Choice Theory context
+
+The paper “SoK: Blockchain Governance” published on 19th January 2022 provides a useful entry point into Blockchain Governance. The Authors focus is on voting systems. But the paper also hints at the broader context and references Social Choice Theory which addresses the more general governance challenge of aggregating individual preferences into societal preferences.
+
+### Challenges of decentralised nature of blockchain governance
+
+As the authors point out in their introduction, the decentralised nature of blockchain governance introduces new challenges where the diverse needs and preferences of participants will not always align. Therefore a degree of stability is sought to balance these diverse needs and to mitigate division.
+
+### Off-chain & on-chain governance
+
+In this context different governing mechanisms may take the form of 1) off-chain governance which is centralized in the trust invested in core developers or key contributors and 2) the voting mechanisms of on-chain governance which can be more transparent and inclusive.&#x20;
+
+### Community division
+
+But these mechanisms themselves are no guarantee against community division. If consensus fails then one part of the community can adopt a change they see as beneficial to themselves leaving another part of the community behind.
 
 
 
