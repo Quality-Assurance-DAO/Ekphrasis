@@ -207,3 +207,37 @@ The authors conclude that liveness is not satisfied as even though Catalyst fund
 
 Whether liveness is required in Catalyst relates to debates over the timeliness of funds. This issue has been identified and has led to initiatives such as the Rapid Funding Mechanism Challenge and to emerging community treasuries and stakepool networks.
 
+## G) Suffrage
+
+![](<../.gitbook/assets/2022-02-17 (13).png>)
+
+The final property concerns participation eligibility; Decision making systems can produce legitimate outcomes provided they are inclusive — a property that we capture by different aspects of Suffrage suitably adapted to the blockchain setting.
+
+In the author’s assessment since voting eligibility depends on only having at least 500 ADA, token-based suffrage is satisfied.
+
+There are no guaranteed voting rights based on previous positive contributions.
+
+However, community advisors and veteran community advisors can affect the outcome of the votes through their reviews.
+
+So the authors argue that meritocratic suffrage is slightly satisfied.
+
+## Summary
+
+![](<../.gitbook/assets/2022-02-17 (14).png>)
+
+So to conclude here is a table of the Authors’ assessment of Governance properties in relation to Catalyst.
+
+And I have added a column of my own assessments to the right.
+
+I will leave it to you to consider your own assessment of these properties and how they are defined and framed.
+
+## Thank You
+
+![](<../.gitbook/assets/2022-02-17 (15).png>)
+
+This presentation is funded by Project Catalyst in the form of the [Fund 7 Q](https://cardano.ideascale.com/c/idea/382334)[ADAO Ekphrasis ](https://cardano.ideascale.com/c/idea/382334)[GitBook](https://cardano.ideascale.com/c/idea/382334)[ proposal ](https://cardano.ideascale.com/c/idea/382334)which received a CA assessment score of 4.89 and was successfully voted for by 197 unique wallets last week.
+
+Please consider delegating to [QADAO pool ](https://adapools.org/pool/e8fb1e898f1d3d9e219b784a080793d65153abf9dd0ab35a698cdcee)which is part of the [Ryuuki](https://twitter.com/RyuukiNetwork) Community Stakepool Network.
+
+Also check out [General Properties of Blockchain Governance ](https://youtu.be/TKJDjwyAz4A)by [ADAO](https://www.theadadao.com) on their YouTube channel.
+
