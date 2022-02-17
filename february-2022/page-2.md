@@ -76,7 +76,25 @@ A paper referred to in Related Work is also worth exploring –
 Defining Blockchain Governance: A Framework for Analysis and Comparison ([https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf](https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf)) which takes an open source approach and defines blockchain governance as ”the means of achieving the direction, control, and coordination of stakeholders within the context of a given blockchain project to\
 which they jointly contribute”.
 
+## Security properties: A) Confidentiality
 
+![](<../.gitbook/assets/2022-02-17 (5).png>)
+
+The first Blockchain Governance property has to do with the confidentiality of stakeholder involvement. How participation in governance is secured and verified.&#x20;
+
+The Authors define the confidentially property as follows :
+
+### **Definition 1 (Type 1: Secrecy).**&#x20;
+
+A blockchain governance system satisfies secrecy if whenever a decision-making process is held, an adversary cannot guess the input of any participant better than an adversarial algorithm whose only inputs are the overall tally and, if the adversary is a participant, the adversary’s input. In Catalyst the authors assess this as mostly secret.
+
+### **Definition 2 (Type 2: Pseudonymity).**&#x20;
+
+A blockchain governance system satisfies pseudonymity if no participant is required to reveal their real-life identity to participate in the decision-making processes. In Catalyst Pseudonymity is assured by voter participation with a wallet address.
+
+### **Definition 3.  Coercion-resistant.**&#x20;
+
+A blockchain governance system is coercion-resistant if whenever a decision-making process is held, a  participant can deceive the adversary into thinking that they have behaved as instructed, when the participant has in fact made an input according to their own intentions. In Catalyst the authors assess the system as somewhat coercion resistant. The ballot itself cannot be decrypted by the voter – so there is nothing to coerce.
 
 
 
