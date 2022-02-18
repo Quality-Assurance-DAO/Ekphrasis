@@ -86,11 +86,15 @@ The Authors define the confidentially property as follows :
 
 ### **Definition 1 (Type 1: Secrecy).**
 
-> _A blockchain governance system satisfies secrecy if whenever a decision-making process is held, an adversary cannot guess the input of any participant better than an adversarial algorithm whose only inputs are the overall tally and, if the adversary is a participant, the adversary’s input. In Catalyst the authors assess this as mostly secret._
+> _A blockchain governance system satisfies secrecy if whenever a decision-making process is held, an adversary cannot guess the input of any participant better than an adversarial algorithm whose only inputs are the overall tally and, if the adversary is a participant, the adversary’s input._&#x20;
+>
+> _In Catalyst the authors assess this as mostly secret._
 
 ### **Definition 2 (Type 2: Pseudonymity).**
 
-> _A blockchain governance system satisfies pseudonymity if no participant is required to reveal their real-life identity to participate in the decision-making processes. In Catalyst Pseudonymity is assured by voter participation with a wallet address._
+> _A blockchain governance system satisfies pseudonymity if no participant is required to reveal their real-life identity to participate in the decision-making processes._&#x20;
+>
+> _In Catalyst Pseudonymity is assured by voter participation with a wallet address._
 
 ### **Definition 3. Coercion-resistant.**
 
