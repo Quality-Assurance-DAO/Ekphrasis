@@ -40,7 +40,7 @@ Further details can found by following the links to their IOHK profiles.
 
 ### The Social Choice Theory context
 
-The paper “SoK: Blockchain Governance” published on 19th January 2022 provides a useful entry point into Blockchain Governance. The Authors focus is on voting systems. But the paper also hints at the broader context and references Social Choice Theory which addresses the more general governance challenge of aggregating individual preferences into societal preferences.
+The paper “_SoK: Blockchain Governance_” published on 19th January 2022 provides a useful entry point into Blockchain Governance. The Authors focus is on voting systems. But the paper also hints at the broader context and references Social Choice Theory which addresses the more general governance challenge of aggregating individual preferences into societal preferences.
 
 ### Challenges of decentralised nature of blockchain governance
 
@@ -58,8 +58,7 @@ But these mechanisms themselves are no guarantee against community division. If 
 
 ### Approach / Methodology
 
-The approach the paper “SoK: Blockchain Governance” takes is to “derive a set of properties, that are drawn from general governance principles and election theory\
-and then interpret them to the blockchain governance setting.”
+The approach the paper “_SoK: Blockchain Governance_” takes is to “_derive a set of properties, that are drawn from general governance principles and election theory and then interpret them to the blockchain governance setting._”
 
 ### Sources
 
@@ -73,8 +72,7 @@ The authors go on to evaluate a range of blockchain platforms against those prop
 
 A paper referred to in Related Work is also worth exploring –
 
-Defining Blockchain Governance: A Framework for Analysis and Comparison ([https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf](https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf)) which takes an open source approach and defines blockchain governance as ”the means of achieving the direction, control, and coordination of stakeholders within the context of a given blockchain project to\
-which they jointly contribute”.
+**Defining Blockchain Governance: A Framework for Analysis and Comparison** ([https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf](https://slingerjansen.files.wordpress.com/2020/03/defining-blockchain-governance-a-framework-for-analysis-and-comparison.pdf)) which takes an open source approach and defines blockchain governance as ”the means of achieving the direction, control, and coordination of stakeholders within the context of a given blockchain project to which they jointly contribute”.
 
 ## A) Confidentiality - Security properties
 
@@ -134,7 +132,7 @@ A blockchain governance system is Pareto efficient if whenever a decision-making
 
 Pareto efficiency asks that, given all stakeholders’ preferences, the outcome of the governance process cannot be strictly improved vis-\`a-vis these preferences.
 
-In relation to Project Catalyst the authors suggest Pareto Efficiency is only somewhat satisfied. “For example, if the total fund is $200,000 and the three winning proposals have budget $10, $100,000 and $100,000 (in order of popularity) the last proposal will not receive funding.”
+In relation to Project Catalyst the authors suggest Pareto Efficiency is only somewhat satisfied. “_For example, if the total fund is $200,000 and the three winning proposals have budget $10, $100,000 and $100,000 (in order of popularity) the last proposal will not receive funding.”_
 
 ### Arrow’s Impossibility Theorem
 
@@ -172,7 +170,11 @@ A blockchain governance system satisfies the property of accountability if whene
 
 The authors conclude that in respect of accountability in Catalyst there are no explicit, on or off-chain, penalties. They note that :
 
-•Proposers need to submit periodic progress reports about their projects to keep receiving funding.•Similarly, community advisors and veteran community advisors can be penalized for poor reviews or absence.•But as these are either centralized or community-driven without clearly described mechanisms, accountability is mostly not satisfied.
+•Proposers need to submit periodic progress reports about their projects to keep receiving funding.
+
+•Similarly, community advisors and veteran community advisors can be penalized for poor reviews or absence.
+
+•But as these are either centralized or community-driven without clearly described mechanisms, accountability is mostly not satisfied.
 
 
 
@@ -196,7 +198,7 @@ A blockchain governance system sustains participation if it incentivises, via mo
 
 The authors conclude that sustainable participation is satisfied in Catalyst as all parties are rewarded for participating in the governance process and to an extent receive larger rewards for additional effort (e.g. community advisors and review quality).
 
-I would suggest here that not all parties have been rewarded for participation historically in Catalyst. Specifically the group dubbed Toolmakers & Maintainers who provide administrative, organizational and documentation services that are only intermittently rewarded through a completive funding process.
+I would suggest here that not all parties have been rewarded for participation historically in Catalyst. Specifically the group dubbed Toolmakers & Maintainers who provide administrative, organizational and documentation services that are only intermittently rewarded through a competitive funding process.
 
 
 
