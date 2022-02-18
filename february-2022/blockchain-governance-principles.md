@@ -106,13 +106,11 @@ The second property, verifiability complements the prior property of confidentia
 
 ### Definition 4 (End-to-End Verifiability).
 
-This property rests on **Definition 4 (End-to-End Verifiability).**&#x20;
-
-A blockchain governance system is verifiable if whenever a decision-making process takes place, participants are able to verify their inputs were properly tallied and independent observers are able to verify that inputs from eligible participants were properly tallied.
+This property rests on **Definition 4 (End-to-End Verifiability).** _A blockchain governance system is verifiable if whenever a decision-making process takes place, participants are able to verify their inputs were properly tallied and independent observers are able to verify that inputs from eligible participants were properly tallied._
 
 In Catalyst the result or tally of the vote can be independently verified and a voter can verify they have voted a particular way as long as they retain the means to decrypt their vote.
 
-Outside of voting, verifiability can also be seen to be relevant to the “proof of life” onboarding process of a funded proposer or the debate over whether identities of Community Advisors should be known. A balance always needs to be drawn here between incentives for contribution (being funded as a proposer or rewarded for CA work) and the security that Secrecy & Pseudonymity may provide to a contributor.
+Outside of voting, verifiability can also be seen to be relevant to the “_proof of life_” onboarding process of a funded proposer or the debate over whether identities of Community Advisors should be known. A balance always needs to be drawn here between incentives for contribution (being funded as a proposer or rewarded for CA work) and the security that Secrecy & Pseudonymity may provide to a contributor.
 
 ## C) Pareto Efficiency
 
@@ -124,13 +122,13 @@ There is a lot packed into the Pareto efficiency section of the authors’ Block
 
 Concerns with how individual choices can be aggregated into collective outputs date at least as far back as the Enlightenment when Nicolas de Condorcet examined the effectiveness of majority voting and how irrational majority preferences may emerge.
 
-The Authors refer specifically to Kenneth Arrow who published a paper, then a book Social Choice and Individual Values (1951) which laid the groundwork for modern social choice theory.
+The Authors refer specifically to Kenneth Arrow who published a paper, then a book **Social Choice and Individual Values (1951)** which laid the groundwork for modern social choice theory.
 
 I will come back to Arrow shortly but now lets look at an example of Pareto efficiency in the context of Catalyst.
 
 ### Definition 5. Pareto efficient
 
-A blockchain governance system is Pareto efficient if whenever a decision-making process is held, alternative X cannot win if there exists another alternative Y that is preferred by at least one participant and no participant prefers X over Y.
+_A blockchain governance system is Pareto efficient if whenever a decision-making process is held, alternative X cannot win if there exists another alternative Y that is preferred by at least one participant and no participant prefers X over Y._
 
 ### Pareto efficiency
 
@@ -185,7 +183,7 @@ The Sustainability properties address the issue of whether appropriate incentive
 
 ### Definition 7 (Sustainable Development).
 
-A blockchain governance system sustains development if it incentivises, via monetary rewards or otherwise, participants who develop successful improvement proposals for the platform.
+_A blockchain governance system sustains development if it incentivises, via monetary rewards or otherwise, participants who develop successful improvement proposals for the platform._
 
 The authors conclude that sustainable development is satisfied in Catalyst through the funding process. Although there is no explicit incentive or reward given to the proposing group or individual, it is the responsibility of the proposer to request the amount which represents the value of their work.
 
@@ -193,7 +191,7 @@ I would suggest here that simply assuming the proposer will request the value of
 
 ### Definition 8 (Sustainable Participation).
 
-A blockchain governance system sustains participation if it incentivises, via monetary rewards or otherwise, participants who participate in the decision-making process of the platform
+_A blockchain governance system sustains participation if it incentivises, via monetary rewards or otherwise, participants who participate in the decision-making process of the platform_
 
 The authors conclude that sustainable participation is satisfied in Catalyst as all parties are rewarded for participating in the governance process and to an extent receive larger rewards for additional effort (e.g. community advisors and review quality).
 
@@ -207,8 +205,7 @@ The crucial ability of the system to produce outputs expediently is captured by 
 
 ### Definition 9. liveness
 
-A blockchain governance system satisfies liveness if it is capable of incorporating an input of urgency from the stakeholders and then being capable of acting on it in the sense that if an issue is deemed to be urgent according to\
-some function, then the decision making procedure is capable of terminating within a reasonable amount of time, which is a function of the urgency of the matter.
+_A blockchain governance system satisfies liveness if it is capable of incorporating an input of urgency from the stakeholders and then being capable of acting on it in the sense that if an issue is deemed to be urgent according to some function, then the decision making procedure is capable of terminating within a reasonable amount of time, which is a function of the urgency of the matter_.
 
 The authors conclude that liveness is not satisfied as even though Catalyst funds can be released in accordance with a proposal’s progress, there is no direct mechanism to take urgent action for immediate release.
 
@@ -218,15 +215,17 @@ Whether liveness is required in Catalyst relates to debates over the timeliness 
 
 ![](<../.gitbook/assets/2022-02-17 (13).png>)
 
-The final property concerns participation eligibility; Decision making systems can produce legitimate outcomes provided they are inclusive — a property that we capture by different aspects of Suffrage suitably adapted to the blockchain setting.
+The final property concerns participation eligibility :
 
-In the author’s assessment since voting eligibility depends on only having at least 500 ADA, token-based suffrage is satisfied.
+_Decision making systems can produce legitimate outcomes provided they are inclusive — a property that we capture by different aspects of Suffrage suitably adapted to the blockchain setting._
+
+In the author’s assessment since voting eligibility depends on only having at least 500 ADA, **token-based suffrage is satisfied**.
 
 There are no guaranteed voting rights based on previous positive contributions.
 
 However, community advisors and veteran community advisors can affect the outcome of the votes through their reviews.
 
-So the authors argue that meritocratic suffrage is slightly satisfied.
+So the authors argue that **meritocratic suffrage is slightly satisfie**d.
 
 ## Summary
 
