@@ -15,7 +15,7 @@
 
 ## February 2022
 
-* [Blockchain Governance Principles](february-2022/page-2.md)
+* [Blockchain Governance Principles](february-2022/blockchain-governance-principles.md)
 
 ## January 2022
 
