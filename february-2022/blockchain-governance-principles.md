@@ -152,13 +152,13 @@ Very briefly I will outline Arrow’s Impossibility Theorem only to give a hint 
 
 With three or more options, no ranked voting electoral system can convert the preferences of individuals into a community-wide (complete and transitive) ranking whilst also meeting the following set of criteria:
 
-•Unrestricted domain (which means the universality of the ranking of preferences – that they will always be reproduced under the same conditions)
+- Unrestricted domain (which means the universality of the ranking of preferences – that they will always be reproduced under the same conditions)
 
-•Non-dictatorship (That no one voter dictates preferences or all other voters mimic one voter)
+- Non-dictatorship (That no one voter dictates preferences or all other voters mimic one voter)
 
-•Pareto efficiency (that there is unanimity of preferences, what any individual prefers is always reflected in the societal preference order).
+- Pareto efficiency (that there is unanimity of preferences, what any individual prefers is always reflected in the societal preference order).
 
-•Independence of irrelevant alternatives (that a choice between A & B for example should not be affected by an alternative C).
+- Independence of irrelevant alternatives (that a choice between A & B for example should not be affected by an alternative C).
 
 ## D) Accountability - Incentive properties
 
@@ -172,11 +172,11 @@ A blockchain governance system satisfies the property of accountability if whene
 
 The authors conclude that in respect of accountability in Catalyst there are no explicit, on or off-chain, penalties. They note that :
 
-•Proposers need to submit periodic progress reports about their projects to keep receiving funding.
+- Proposers need to submit periodic progress reports about their projects to keep receiving funding.
 
-•Similarly, community advisors and veteran community advisors can be penalized for poor reviews or absence.
+- Similarly, community advisors and veteran community advisors can be penalized for poor reviews or absence.
 
-•But as these are either centralized or community-driven without clearly described mechanisms, accountability is mostly not satisfied.
+- But as these are either centralized or community-driven without clearly described mechanisms, accountability is mostly not satisfied.
 
 
 
