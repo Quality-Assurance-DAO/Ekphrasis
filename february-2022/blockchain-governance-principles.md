@@ -94,7 +94,7 @@ The Authors define the confidentially property as follows :
 
 ### **Definition 3. Coercion-resistant.**
 
-> _A blockchain governance system is coercion-resistant if whenever a decision-making process is held, a participant can deceive the adversary into thinking that they have behaved as instructed, when the participant has in fact made an input according to their own intentions._&#x20;
+> _A blockchain governance system is coercion-resistant if whenever a decision-making process is held, a participant can deceive the adversary into thinking that they have behaved as instructed, when the participant has in fact made an input according to their own intentions._
 
 In Catalyst the authors assess the system as somewhat coercion resistant. The ballot itself cannot be decrypted by the voter – so there is nothing to coerce.
 
@@ -106,7 +106,7 @@ The second property, verifiability complements the prior property of confidentia
 
 ### Definition 4 (End-to-End Verifiability).
 
-This property rests on **Definition 4 (End-to-End Verifiability).**&#x20;
+This property rests on **Definition 4 (End-to-End Verifiability).**
 
 > _A blockchain governance system is verifiable if whenever a decision-making process takes place, participants are able to verify their inputs were properly tallied and independent observers are able to verify that inputs from eligible participants were properly tallied._
 
@@ -197,7 +197,7 @@ I would suggest here that simply assuming the proposer will request the value of
 
 The authors conclude that sustainable participation is satisfied in Catalyst as all parties are rewarded for participating in the governance process and to an extent receive larger rewards for additional effort (e.g. community advisors and review quality).
 
-I would suggest here that not all parties have been rewarded for participation historically in Catalyst. Specifically the group dubbed Toolmakers & Maintainers who provide administrative, organizational and documentation services that are only intermittently rewarded through a competitive funding process.
+I would suggest here that not all parties have been rewarded for participation historically in Catalyst. Specifically the group dubbed **Toolmakers & Maintainers** who provide administrative, organizational and documentation services that are only intermittently rewarded through a competitive funding process.
 
 ## F) Liveness
 
@@ -211,22 +211,23 @@ The crucial ability of the system to produce outputs expediently is captured by 
 
 The authors conclude that liveness is not satisfied as even though Catalyst funds can be released in accordance with a proposal’s progress, there is no direct mechanism to take urgent action for immediate release.
 
-Whether liveness is required in Catalyst relates to debates over the timeliness of funds. This issue has been identified and has led to initiatives such as the Rapid Funding Mechanism Challenge and to emerging community treasuries and stakepool networks.
+Whether liveness is required in Catalyst relates to debates over the timeliness of funds. This issue has been identified and has led to initiatives such as the **Rapid Funding Mechanism Challenge** and to emerging community treasuries and stakepool networks.
 
 ## G) Suffrage
 
 ![](<../.gitbook/assets/2022-02-17 (13).png>)
 
 The final property concerns participation eligibility:
+
 > _Decision making systems can produce legitimate outcomes provided they are inclusive — a property that we capture by different aspects of Suffrage suitably adapted to the blockchain setting._
 
-In the author’s assessment since voting eligibility depends on only having at least 500 ADA, token-based suffrage is satisfied.
+In the author’s assessment since voting eligibility depends on only having at least 500 ADA, **token-based suffrage** is satisfied.
 
 There are no guaranteed voting rights based on previous positive contributions.
 
 However, community advisors and veteran community advisors can affect the outcome of the votes through their reviews.
 
-So the authors argue that meritocratic suffrage is slightly satisfied.
+So the authors argue that **meritocratic suffrage** is slightly satisfied.
 
 ## Summary
 
