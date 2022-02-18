@@ -1,5 +1,7 @@
 ---
-description: Blockchain Governance Principles
+description: >-
+  Blockchain Governance Principles & Catalyst : An overview of Prof Aggelos
+  Kiayias & Philip Lazos recent paper. Stephen Whitenstall
 ---
 
 # Blockchain Governance Principles
