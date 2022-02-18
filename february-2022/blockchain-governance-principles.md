@@ -86,13 +86,13 @@ The Authors define the confidentially property as follows :
 
 ### **Definition 1 (Type 1: Secrecy).**
 
-> _A blockchain governance system satisfies secrecy if whenever a decision-making process is held, an adversary cannot guess the input of any participant better than an adversarial algorithm whose only inputs are the overall tally and, if the adversary is a participant, the adversary’s input._&#x20;
+> _A blockchain governance system satisfies secrecy if whenever a decision-making process is held, an adversary cannot guess the input of any participant better than an adversarial algorithm whose only inputs are the overall tally and, if the adversary is a participant, the adversary’s input._
 
 In Catalyst the authors assess this as mostly secret.
 
 ### **Definition 2 (Type 2: Pseudonymity).**
 
-> _A blockchain governance system satisfies pseudonymity if no participant is required to reveal their real-life identity to participate in the decision-making processes._&#x20;
+> _A blockchain governance system satisfies pseudonymity if no participant is required to reveal their real-life identity to participate in the decision-making processes._
 
 In Catalyst Pseudonymity is assured by voter participation with a wallet address.
 
@@ -215,7 +215,7 @@ The crucial ability of the system to produce outputs expediently is captured by 
 
 The authors conclude that liveness is not satisfied as even though Catalyst funds can be released in accordance with a proposal’s progress, there is no direct mechanism to take urgent action for immediate release.
 
-Whether liveness is required in Catalyst relates to debates over the timeliness of funds. This issue has been identified and has led to initiatives such as the **Rapid Funding Mechanism Challenge** and to emerging community treasuries and stakepool networks.
+Whether liveness is required in Catalyst relates to debates over the timeliness of funds. This issue has been identified and has led to initiatives such as the [**Rapid Funding Mechanism Challenge**](https://cardano.ideascale.com/c/campaigns/26236/about) and to emerging community treasuries and stakepool networks.
 
 ## G) Suffrage
 
