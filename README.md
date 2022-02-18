@@ -6,12 +6,16 @@ coverY: 0
 
 # Ekphrasis
 
+{% hint style="info" %}
+Now funded by Project Catalyst - Thank You for your support !
+{% endhint %}
+
 This GitBook is a repository of academic and philosophical content across the wider Cardano community. From IOHK, Project Catalyst and University of Edinburgh as well as many other sources.
 
 It was started on 29th June 2021 and is maintained by under the benevolent dictatorship of Stephen Whitenstall, ([QADAO](https://quality-assurance-dao.github.io)).
 
-### F7: Miscellaneous Challenge - Ekphrasis Gitbook
+### Supported by Project Catalyst
 
-### Ideascale
+[Ekphrasis Gitbook](https://cardano.ideascale.com/c/idea/382334) was voted for in Project Catalyst Fund 7: Miscellaneous Challenge
 
 {% embed url="https://cardano.ideascale.com/c/idea/382334" %}
