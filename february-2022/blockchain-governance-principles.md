@@ -4,6 +4,10 @@ description: Blockchain Governance Principles
 
 # Blockchain Governance Principles
 
+{% hint style="info" %}
+[This project](https://cardano.ideascale.com/c/idea/382334) is now funded by Project Catalyst - Thank You for your support !
+{% endhint %}
+
 {% embed url="https://youtu.be/QEoQFesgUnc" %}
 
 ## Blockchain Governance Principles
