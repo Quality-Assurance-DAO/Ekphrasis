@@ -45,3 +45,7 @@
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
+
+## September 2018
+
+* [Autonomous Economic Agents](september-2018/autonomous-economic-agents.md)
