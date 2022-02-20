@@ -46,6 +46,10 @@
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
 
+## March 2020
+
+* [What Makes The Cardano Blockchain Treasury System Special?](march-2020/what-makes-the-cardano-blockchain-treasury-system-special.md)
+
 ## February 2019
 
 * [A Treasury System for Cryptocurrencies](february-2019/a-treasury-system-for-cryptocurrencies.md)
@@ -53,7 +57,3 @@
 ## September 2018
 
 * [Autonomous Economic Agents](september-2018/autonomous-economic-agents.md)
-
-## March 2020
-
-* [What Makes The Cardano Blockchain Treasury System Special?](march-2020/what-makes-the-cardano-blockchain-treasury-system-special.md)
