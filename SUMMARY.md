@@ -47,10 +47,6 @@
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
 
-***
-
-* [Project Catalyst and Voltaire bring power to the people](project-catalyst-and-voltaire-bring-power-to-the-people.md)
-
 ## March 2020
 
 * [What Makes The Cardano Blockchain Treasury System Special?](march-2020/what-makes-the-cardano-blockchain-treasury-system-special.md)
@@ -62,3 +58,7 @@
 ## September 2018
 
 * [Autonomous Economic Agents](september-2018/autonomous-economic-agents.md)
+
+## September 2020
+
+* [Project Catalyst and Voltaire bring power to the people](september-2020/project-catalyst-and-voltaire-bring-power-to-the-people.md)
