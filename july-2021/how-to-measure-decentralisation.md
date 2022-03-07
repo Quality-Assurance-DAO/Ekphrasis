@@ -41,3 +41,7 @@ description: 'Devometrics: How to Measure Decentralisation? A Review of the Lite
 #### Stake pools will soon be able to test automated peer-to-peer connections
 
 {% embed url="https://iohk.io/en/blog/posts/2021/05/11/cardano-decentralization-continues" %}
+
+### What is the Nakamoto Coefficient of Cardano?
+
+{% embed url="https://cardano.stackexchange.com/questions/4699/what-is-the-nakamoto-coefficient-of-cardano" %}
