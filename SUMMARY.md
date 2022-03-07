@@ -32,6 +32,7 @@
 
 ## July 2021
 
+* [How to Measure Decentralisation?](july-2021/how-to-measure-decentralisation.md)
 * [GraphDAO-Intro to Primitives](daos-distributed-autonomous-organization/cardano-community.md)
 * [DAOs - Reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
 * [Tracking effort and merit in Cardano Working Group Meetings](tracking-effort-and-merit-in-cardano/tracking-effort-and-merit-in-cardano-working-group-meetings.md)
