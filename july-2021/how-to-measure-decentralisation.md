@@ -29,3 +29,9 @@ description: 'Devometrics: How to Measure Decentralisation? A Review of the Lite
 #### An approach to quantifying decentralization of the Ethereum network over time
 
 {% embed url="https://consensys.net/research/measuring-blockchain-decentralization" %}
+
+### How decentralized is Cardano? <a href="#26dc" id="26dc"></a>
+
+#### Comparing Bitcoin and Cardano <a href="#038f" id="038f"></a>
+
+{% embed url="https://cardanojournal.com/decentralization-is-at-the-heart-of-cardano-160" %}
