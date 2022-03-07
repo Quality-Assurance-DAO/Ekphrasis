@@ -35,3 +35,9 @@ description: 'Devometrics: How to Measure Decentralisation? A Review of the Lite
 #### Comparing Bitcoin and Cardano <a href="#038f" id="038f"></a>
 
 {% embed url="https://cardanojournal.com/decentralization-is-at-the-heart-of-cardano-160" %}
+
+### Cardano decentralization continues: insights into our P2P deployment
+
+#### Stake pools will soon be able to test automated peer-to-peer connections
+
+{% embed url="https://iohk.io/en/blog/posts/2021/05/11/cardano-decentralization-continues" %}
