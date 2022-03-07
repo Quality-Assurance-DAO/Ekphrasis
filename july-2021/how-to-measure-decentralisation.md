@@ -15,3 +15,11 @@ description: 'Devometrics: How to Measure Decentralisation? A Review of the Lite
 ### The De/Centralisation Dataset
 
 {% embed url="https://de-centralisation.org" %}
+
+### To Get Serious About Decentralization, We Need to Measure It
+
+{% embed url="https://www.coindesk.com/business/2020/05/29/to-get-serious-about-decentralization-we-need-to-measure-it" %}
+
+### DQ: Two approaches to measure the degree of decentralization of blockchain <a href="#screen-reader-main-title" id="screen-reader-main-title"></a>
+
+{% embed url="https://www.sciencedirect.com/science/article/pii/S2405959521000977" %}
