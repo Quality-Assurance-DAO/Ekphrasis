@@ -23,3 +23,9 @@ description: 'Devometrics: How to Measure Decentralisation? A Review of the Lite
 ### DQ: Two approaches to measure the degree of decentralization of blockchain <a href="#screen-reader-main-title" id="screen-reader-main-title"></a>
 
 {% embed url="https://www.sciencedirect.com/science/article/pii/S2405959521000977" %}
+
+### Measuring Blockchain Decentralization
+
+#### An approach to quantifying decentralization of the Ethereum network over time
+
+{% embed url="https://consensys.net/research/measuring-blockchain-decentralization" %}
