@@ -52,6 +52,10 @@
 
 * [Project Catalyst and Voltaire bring power to the people](project-catalyst-and-voltaire-bring-power-to-the-people.md)
 
+## July 2020
+
+* [Democratic approach to funding Cardano’s long-term development](july-2020/democratic-approach-to-funding-cardanos-long-term-development.md)
+
 ## March 2020
 
 * [What Makes The Cardano Blockchain Treasury System Special?](march-2020/what-makes-the-cardano-blockchain-treasury-system-special.md)
@@ -63,7 +67,3 @@
 ## September 2018
 
 * [Autonomous Economic Agents](september-2018/autonomous-economic-agents.md)
-
-## July 2020
-
-* [Democratic approach to funding Cardano’s long-term development](july-2020/democratic-approach-to-funding-cardanos-long-term-development.md)
