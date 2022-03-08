@@ -21,6 +21,7 @@
 ## January 2022
 
 * [SoK: Blockchain Governance](january-2022/page-1.md)
+* [How to nurture a listening culture in Catalyst ?](january-2022/how-to-nurture-a-listening-culture-in-catalyst.md)
 
 ## December 2021
 
