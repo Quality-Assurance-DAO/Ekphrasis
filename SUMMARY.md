@@ -22,6 +22,10 @@
 
 * [SoK: Blockchain Governance](january-2022/page-1.md)
 
+## December 2021
+
+* [Antifragile Success criteria](december-2021/antifragile-success-criteria.md)
+
 ## October 2021
 
 * [Diversity-Voting-Influence. F4 : Final report](october-2021/diversity-voting-influence.md)
@@ -47,10 +51,6 @@
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
-
-## December 2021
-
-* [Antifragile Success criteria](december-2021/antifragile-success-criteria.md)
 
 ## September 2020
 
