@@ -63,3 +63,7 @@
 ## September 2018
 
 * [Autonomous Economic Agents](september-2018/autonomous-economic-agents.md)
+
+## July 2020
+
+* [Democratic approach to funding Cardano’s long-term development](july-2020/democratic-approach-to-funding-cardanos-long-term-development.md)
