@@ -48,6 +48,10 @@
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
 * [Metadata Discussions](metadata/metadata-discussions.md)
 
+## December 2021
+
+* [Antifragile Success criteria](december-2021/antifragile-success-criteria.md)
+
 ## September 2020
 
 * [Project Catalyst and Voltaire bring power to the people](project-catalyst-and-voltaire-bring-power-to-the-people.md)
@@ -67,7 +71,3 @@
 ## September 2018
 
 * [Autonomous Economic Agents](september-2018/autonomous-economic-agents.md)
-
-## December 2021
-
-* [Antifragile Success criteria](december-2021/antifragile-success-criteria.md)
