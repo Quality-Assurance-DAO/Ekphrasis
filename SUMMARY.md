@@ -67,3 +67,7 @@
 ## September 2018
 
 * [Autonomous Economic Agents](september-2018/autonomous-economic-agents.md)
+
+## December 2021
+
+* [Antifragile Success criteria](december-2021/antifragile-success-criteria.md)
