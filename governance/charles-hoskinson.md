@@ -6,7 +6,7 @@ description: Charles Hoskinson governance content
 
 ## Profile
 
-Charles Hoskinson, CEO & founder of IOHK
+[Charles Hoskinson, CEO & founder of IOHK](https://iohk.io/en/team/charles-hoskinson)
 
 ## Some Musings about the Roadmap <a href="#some-musings-about-the-roadmap" id="some-musings-about-the-roadmap"></a>
 
