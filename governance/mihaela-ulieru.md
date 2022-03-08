@@ -6,7 +6,7 @@ description: Strategic Impact Leader, IOHK
 
 ## Profile
 
-Dr. Mihaela Ulieru, Strategic Impact Leader, IOHK
+[Dr. Mihaela Ulieru, Strategic Impact Leader, IOHK](https://iohk.io/en/team/mihaela-ulieru)
 
 ## Technology for a Fractured World
 
