@@ -21,6 +21,7 @@
 ## January 2022
 
 * [SoK: Blockchain Governance](january-2022/page-1.md)
+* [Catalyst through the lens of the Cynefin Framework](january-2022/catalyst-through-the-lens-of-the-cynefin-framework.md)
 * [How to nurture a listening culture in Catalyst ?](january-2022/how-to-nurture-a-listening-culture-in-catalyst.md)
 
 ## December 2021

@@ -4,7 +4,7 @@ description: A Catalyst After Town Hall Presentation & Discussion. 12th January 
 
 # How to nurture a listening culture in Catalyst ?
 
-More research for the Fund 7 Community Governance Oversight Proposal
+Research for the Fund 7 Community Governance Oversight Proposal
 
 {% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst" %}
 
