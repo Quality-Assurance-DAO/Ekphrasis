@@ -78,7 +78,4 @@
 
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
-
-***
-
-* [Reporting](reporting.md)
+* [Reporting](fund-7-reporting/reporting.md)
