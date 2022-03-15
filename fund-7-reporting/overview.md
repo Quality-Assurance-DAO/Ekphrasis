@@ -10,12 +10,6 @@ Documentation of philosophical debate and discussion around Cardano requires sup
 
 Resource the documentation of philosophical debate and discussion around Cardano.
 
-### Tags
-
-Summarize your solution to the problem
-
-Resource the documentation of philosophical debate and discussion around Cardano.
-
 ## Timeline
 
 ### November 2021
