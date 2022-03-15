@@ -2,9 +2,19 @@
 
 ## Overview
 
+### Problem statement
 
+Documentation of philosophical debate and discussion around Cardano requires support to be sustainable.
 
+### Summarize your solution to the problem
 
+Resource the documentation of philosophical debate and discussion around Cardano.
+
+### Tags
+
+Summarize your solution to the problem
+
+Resource the documentation of philosophical debate and discussion around Cardano.
 
 ## Timeline
 
