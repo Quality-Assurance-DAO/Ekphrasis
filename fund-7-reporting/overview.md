@@ -14,4 +14,15 @@ Resource the documentation of philosophical debate and discussion around Cardano
 
 ### November 2021
 
-Submission of [Ekphrasis Gitbook](https://cardano.ideascale.com/c/idea/382334) proposal in Fund 7 [Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26248/stage/all/ideas/unspecified)
+Submission of [Ekphrasis Gitbook](https://cardano.ideascale.com/c/idea/382334) proposal in Fund 7 [Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26248/stage/all/ideas/unspecified)&#x20;
+
+### February 2022
+
+Proposal successfully voted for & funded
+
+### March 2022
+
+#### March 24th - First Reports due&#x20;
+
+
+
