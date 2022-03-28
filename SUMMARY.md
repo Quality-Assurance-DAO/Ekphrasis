@@ -6,7 +6,6 @@
 
 * [Charles Hoskinson](governance/charles-hoskinson.md)
 * [Dr. Mihaela Ulieru](governance/mihaela-ulieru.md)
-* [Catalyst Community](governance/catalyst-community.md)
 * [Vitalik Buterin](sources/vitalik-buterin.md)
 
 ## IOHK research team
