@@ -61,7 +61,6 @@
 
 * [Democratic approach to funding Cardano’s long-term development](july-2020/democratic-approach-to-funding-cardanos-long-term-development.md)
 * [Make a better staking decision](july-2020/make-a-better-staking-decision.md)
-* [Page 1](july-2020/page-1.md)
 
 ## March 2020
 
