@@ -50,8 +50,8 @@
 
 ## March 2021
 
-* [Decentralization](march-2021/decentralization.md)
-* [Decentralized Governance](march-2021/decentralized-governance.md)
+* [Decentralization](march-2021/decentralization/README.md)
+  * [Decentralized Governance](march-2021/decentralization/decentralized-governance.md)
 
 ## January 2021
 
