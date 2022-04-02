@@ -48,6 +48,10 @@
 * [Charles Hoskinson, Favorite Philosophers](philosophy/cardano-community.md)
 * [Catalyst Community](game-theory/untitled.md)
 
+## March 2021
+
+* [Decentralization](march-2021/decentralization.md)
+
 ## January 2021
 
 * [IOHK Metadata workshop](metadata/iohk-metadata-workshop.md)
@@ -79,7 +83,3 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
-
-## Group 1
-
-* [Decentralization](group-1/decentralization.md)
