@@ -79,3 +79,7 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
+
+## Group 1
+
+* [Decentralization](group-1/decentralization.md)
