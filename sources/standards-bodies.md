@@ -21,3 +21,9 @@ The **InterWork Alliance**, an initiative of the [**Global Blockchain Business C
 Enables multiple parties to define a common language, behaviors, and properties for a token of value that can be used or exchanged.
 
 ## Blockchain Maturity Model (BMM)
+
+{% embed url="https://gbaglobal.org/bmm" %}
+
+he Blockchain Maturity Model (BMM) is an assessment tool and development roadmap established by the GBA [**Standards & Certifications Working Group**](https://gbaglobal.org/gba-staging/groups/standards/).
+
+The BMM is intended to describe the expectations of any blockchain solution to be a trusted solution. It includes the following capability areas:
