@@ -27,3 +27,16 @@ Enables multiple parties to define a common language, behaviors, and properties 
 he Blockchain Maturity Model (BMM) is an assessment tool and development roadmap established by the GBA [**Standards & Certifications Working Group**](https://gbaglobal.org/gba-staging/groups/standards/).
 
 The BMM is intended to describe the expectations of any blockchain solution to be a trusted solution. It includes the following capability areas:
+
+* Governance
+* Identity Management
+* Immutability
+* Node Ubiquity
+* Performance
+* Privacy
+* Resilience
+* Security
+* Reliability
+* Sustainability
+
+{% embed url="https://www.dropbox.com/s/iowrm38vkdw1ecs/00%20Blockchain%20Maturity%20Model%20v0.9.docx?dl=0" %}
