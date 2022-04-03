@@ -7,6 +7,7 @@
 * [Charles Hoskinson](governance/charles-hoskinson.md)
 * [Dr. Mihaela Ulieru](governance/mihaela-ulieru.md)
 * [Vitalik Buterin](sources/vitalik-buterin.md)
+* [Standards Bodies](sources/standards-bodies.md)
 
 ## IOHK research team
 
