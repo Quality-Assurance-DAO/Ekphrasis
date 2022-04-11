@@ -80,6 +80,10 @@
 
 * [Autonomous Economic Agents](september-2018/autonomous-economic-agents.md)
 
+***
+
+* [Democracy, Redistribution, and Political Participation](democracy-redistribution-and-political-participation.md)
+
 ## Fund 7 Reporting
 
 * [Overview](fund-7-reporting/overview.md)
