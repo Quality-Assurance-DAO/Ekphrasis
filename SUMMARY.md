@@ -89,3 +89,7 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
+
+## April 2022
+
+* [Decentralization Vulnerable in Cardano Catalyst: dReps](april-2022/decentralization-vulnerable-in-cardano-catalyst-dreps.md)
