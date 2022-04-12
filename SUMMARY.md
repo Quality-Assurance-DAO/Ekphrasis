@@ -14,6 +14,10 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
+## April 2022
+
+* [Decentralization Vulnerable in Cardano Catalyst: dReps](april-2022/decentralization-vulnerable-in-cardano-catalyst-dreps.md)
+
 ## February 2022
 
 * [Blockchain Governance Principles](february-2022/blockchain-governance-principles.md)
@@ -89,7 +93,3 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
-
-## April 2022
-
-* [Decentralization Vulnerable in Cardano Catalyst: dReps](april-2022/decentralization-vulnerable-in-cardano-catalyst-dreps.md)
