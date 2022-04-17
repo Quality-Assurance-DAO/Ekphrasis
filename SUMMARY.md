@@ -66,6 +66,7 @@
 ## September 2020
 
 * [Project Catalyst and Voltaire bring power to the people](project-catalyst-and-voltaire-bring-power-to-the-people.md)
+* [Project Catalyst; introducing our first public fund for Cardano community innovation](september-2020/project-catalyst-introducing-our-first-public-fund-for-cardano-community-innovation.md)
 
 ## July 2020
 
