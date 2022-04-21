@@ -8,6 +8,7 @@
 * [Dr. Mihaela Ulieru](governance/mihaela-ulieru.md)
 * [Vitalik Buterin](sources/vitalik-buterin.md)
 * [Standards Bodies](sources/standards-bodies.md)
+* [Journals / Organisations](sources/journals-organisations.md)
 
 ## IOHK research team
 
