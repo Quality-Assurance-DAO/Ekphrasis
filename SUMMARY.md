@@ -17,6 +17,7 @@
 
 ## April 2022
 
+* [A new chapter for Radicalzchange](april-2022/a-new-chapter-for-radicalzchange.md)
 * [Pool Splitting Behaviour and Equilibrium Properties in Cardano’s Rewards Scheme](april-2022/pool-splitting-behaviour-and-equilibrium-properties-in-cardanos-rewards-scheme.md)
 * [Decentralization Vulnerable in Cardano Catalyst: dReps](april-2022/decentralization-vulnerable-in-cardano-catalyst-dreps.md)
 
