@@ -15,6 +15,10 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
+## May 2022
+
+* [Building Tools for DAOs on Cardano](may-2022/building-tools-for-daos-on-cardano.md)
+
 ## April 2022
 
 * [A new chapter for Radicalzchange](april-2022/a-new-chapter-for-radicalzchange.md)
@@ -97,7 +101,3 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
-
-## May 2022
-
-* [Building Tools for DAOs on Cardano](may-2022/building-tools-for-daos-on-cardano.md)
