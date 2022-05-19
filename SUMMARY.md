@@ -17,6 +17,7 @@
 
 ## May 2022
 
+* [Drip The Vote - The First Cardano On-Chain Vote Using A Native Asset](may-2022/drip-the-vote-the-first-cardano-on-chain-vote-using-a-native-asset.md)
 * [Building Tools for DAOs on Cardano](may-2022/building-tools-for-daos-on-cardano.md)
 
 ## April 2022
