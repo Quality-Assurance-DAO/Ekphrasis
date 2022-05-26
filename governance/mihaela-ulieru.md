@@ -8,7 +8,7 @@ description: Strategic Impact Leader, IOHK
 
 [Dr. Mihaela Ulieru, Strategic Impact Leader, IOHK](https://iohk.io/en/team/mihaela-ulieru)
 
-[https://theimpactinstitute.org/](https://theimpactinstitute.org)
+[https://theimpactinstitute.org/](https://theimpactinstitute.org/)
 
 ## Technology for a Fractured World
 

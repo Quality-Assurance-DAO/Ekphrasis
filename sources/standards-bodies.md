@@ -12,7 +12,7 @@ GBBC is dedicated to furthering adoption of blockchain through engaging regulato
 
 {% embed url="https://interwork.org" %}
 
-The **InterWork Alliance**, an initiative of the [**Global Blockchain Business Council (GBBC)**](https://gbbcouncil.org), empowers organizations to adopt and use token-powered services in their day-to-day operations, across use cases and networks, bringing inclusivity to globally distributed applications.
+The **InterWork Alliance**, an initiative of the [**Global Blockchain Business Council (GBBC)**](https://gbbcouncil.org/), empowers organizations to adopt and use token-powered services in their day-to-day operations, across use cases and networks, bringing inclusivity to globally distributed applications.
 
 ### IWA Token Taxonomy Framework
 
