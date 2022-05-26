@@ -102,3 +102,7 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
+
+## February 2018
+
+* [An Introduction to Liquid Democracy](february-2018/an-introduction-to-liquid-democracy.md)
