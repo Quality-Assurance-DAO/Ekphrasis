@@ -8,6 +8,8 @@ description: 'Prof. Aggelos Kiayias & Philip Lazos - SoK: Blockchain Governance'
 
 #### 19th January 2022
 
+[Link](https://arxiv.org/abs/2201.07188)
+
 {% embed url="https://arxiv.org/pdf/2201.07188.pdf" %}
 
 
