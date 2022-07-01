@@ -15,6 +15,10 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
+## June 2022
+
+* [Roadmap and Governance](june-2022/roadmap-and-governance.md)
+
 ## May 2022
 
 * [Drip The Vote - The First Cardano On-Chain Vote Using A Native Asset](may-2022/drip-the-vote-the-first-cardano-on-chain-vote-using-a-native-asset.md)
@@ -106,7 +110,3 @@
 ## February 2018
 
 * [An Introduction to Liquid Democracy](february-2018/an-introduction-to-liquid-democracy.md)
-
-## June 2022
-
-* [Roadmap and Governance](june-2022/roadmap-and-governance.md)
