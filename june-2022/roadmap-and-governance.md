@@ -26,6 +26,14 @@ Vasil \[Hard Fork] is under way we forked the test net. As of July 3rd the test 
 
 [01:46](https://youtu.be/MwP-omMwd3A?t=106)
 
+There are four tracks running concurrently.
+
+### The Shelley Clean-up
+
+01:47
+
+Partial delegation, Proxy keys, Peer to peer and Genesis.
+
 
 
 
