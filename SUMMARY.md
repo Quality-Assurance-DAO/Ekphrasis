@@ -106,3 +106,7 @@
 ## February 2018
 
 * [An Introduction to Liquid Democracy](february-2018/an-introduction-to-liquid-democracy.md)
+
+## June 2022
+
+* [Roadmap and Governance](june-2022/roadmap-and-governance.md)
