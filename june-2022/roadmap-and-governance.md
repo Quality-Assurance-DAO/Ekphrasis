@@ -16,11 +16,11 @@ This is a summary with inserted explanations and references.
 
 Lots of stuff going on in the markets reflecting the macro \[macro economic conditions]. Bear markets are good for building. Time for getting things done
 
-## Screen share
+## Vasil&#x20;
 
 [00:57](https://youtu.be/MwP-omMwd3A?t=57)&#x20;
 
-
+Vasil \[Hard Fork] is under way we forked the test net.
 
 
 
