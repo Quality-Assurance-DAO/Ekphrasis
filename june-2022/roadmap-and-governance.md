@@ -94,7 +94,6 @@ When Cardano was started the original intent was three entities -
 
 There has been lots of back and forth. The CF (Cardano Foundation) of the Michael Parsons era&#x20;
 
-![https://twitter.com/CardanoStiftung/status/1062384674390073345?s=20\&t=3metSqbeK9bLEO3AS16PyA](<../.gitbook/assets/Screenshot 2022-07-02 141600.png>)
 
 
 
@@ -167,3 +166,6 @@ See - 8.1 Input Endorsers
 Oct. 12, 2018
 
 {% embed url="https://cryptobriefing.com/cardano-leaders-split-with-foundation-demand-chairman-resigns/" %}
+
+
+![https://twitter.com/CardanoStiftung/status/1062384674390073345?s=20\&t=3metSqbeK9bLEO3AS16PyA](<../.gitbook/assets/Screenshot 2022-07-02 141600.png>)
