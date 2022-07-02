@@ -79,3 +79,13 @@ _Plutus Application Backend_
 ### Mithril: a stronger and lighter blockchain for better efficiency
 
 {% embed url="https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/" %}
+
+### Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol
+
+See - 8.1 Input Endorsers
+
+{% embed url="https://eprint.iacr.org/2016/889.pdf" %}
+
+### What are input endorsers and how do they make Cardano more scalable?
+
+{% embed url="https://cardano.stackexchange.com/questions/4626/what-are-input-endorsers-and-how-do-they-make-cardano-more-scalable" %}
