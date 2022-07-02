@@ -146,7 +146,7 @@ A nice halfway house \[compromise] is to have a CIP committee that controls an M
 
 What do we mean by a merit based members organization ? Merit and Members organization.&#x20;
 
-Well either you pay or you work.
+Well either you pay or you work. Either you do something or you contribute some funding.
 
 ## References
 
