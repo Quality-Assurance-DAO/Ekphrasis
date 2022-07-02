@@ -240,7 +240,9 @@ Oct. 12, 2018
 
 ### Pairwise disjoint sets
 
-We can proceed with the definition of a disjoint set to any group of sets. A collection of sets is pairwise disjoint if any two sets in the collection are disjoint. It is also known as mutually disjoint sets.
+**Disjoint sets** are those sets whose intersection with each other results in a null set.
+
+A collection of sets is pairwise disjoint if any two sets in the collection are disjoint. It is also known as mutually disjoint sets.
 
 Let P be the set of any collection of sets and A and B.
 
