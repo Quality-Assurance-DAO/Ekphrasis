@@ -154,7 +154,7 @@ You have to allow a set of people in the ecosystem to grow and evolve to a point
 
 That is effectively what the dReps (Delegated Representatives), SPOs (Stakepool operators) and the dApp developers are. Alongside people who take a community role. So we have the Ambassador program, 1000 plus dApps projects, 3000 Stake Pool Operators and a large corps of dReps are forming.
 
-These are not pairwise disjoint sets \[mathematical analogy see pairwise disjoint sets] , there is an overlap, and that is a good thing.
+These are not pairwise disjoint sets \[mathematical analogy - see pairwise disjoint sets] , there is an overlap, and that is a good thing.
 
 ## References
 
@@ -237,3 +237,16 @@ Oct. 12, 2018
 #### Cardano Treasury with Kevin Hammond - A Catalyst Town Hall Presentation on the Cardano Treasury with an After Town Hall Q\&A
 
 {% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/parameters/governance-parameters/cardano-treasury-with-kevin-hammond#who-is-making-the-governance-decisions" %}
+
+### Pairwise disjoint sets
+
+We can proceed with the definition of a disjoint set to any group of sets. A collection of sets is pairwise disjoint if any two sets in the collection are disjoint. It is also known as mutually disjoint sets.
+
+Let P be the set of any collection of sets and A and B.
+
+i.e. A, B ∈ P. Then, P is known as pairwise disjoint if and only if A ≠ B. Therefore, A ∩ B = ϕ
+
+**Examples:**
+
+* P = { {1}, {2, 3}, {4, 5, 6} } is a pairwise disjoint set.
+* P = { {1, 2}, {2, 3} } is not pairwise disjoint, since we have 2 as the common element in two sets.
