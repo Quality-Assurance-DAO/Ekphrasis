@@ -134,6 +134,8 @@ To allow for people to consent to this we want to move to a Bicameral Model \[[B
 
 After the [Vasil ](roadmap-and-governance.md#vasil)hard fork, the next hard fork combinator will be a special type of update proposal (written to the [CIP ](roadmap-and-governance.md#cardanoimprovementproposalscips)standard) that will go to ADA holders to vote on. And then it gets signed by the [CIP ](roadmap-and-governance.md#cardanoimprovementproposalscips)committee.
 
+The update keys were connected to the three entities of the [Tripartite Governance Structure](roadmap-and-governance.md#tripartite-governance-structure).
+
 
 
 
