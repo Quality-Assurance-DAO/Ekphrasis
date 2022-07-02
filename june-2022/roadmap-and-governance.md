@@ -136,7 +136,9 @@ After the [Vasil ](roadmap-and-governance.md#vasil)hard fork, the next hard fork
 
 The update keys \[[update keys](roadmap-and-governance.md#update-keys)] were connected to the three entities of the [Tripartite Governance Structure](roadmap-and-governance.md#tripartite-governance-structure)  (Cardano Foundation, emurgo and IOHK).
 
-The intent was always to create a decentrailsed update system. We wrote a paper \[Source ?] with a European Union Horizon 2020 grant to explore how to do that. And there is a lot of technical complexity in it.
+The intent was always to create a decentralized update system. We wrote a paper \[Source ?] with a European Union Horizon 2020 grant to explore how to do that. And there is a lot of technical complexity in it.
+
+A nice halfway house \[compromise] is to have a CIP committee that controls an M of N set of keys that they cannot sign without approval from ADA holders.
 
 
 
