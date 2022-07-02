@@ -92,7 +92,7 @@ When Cardano was started the original intent was three entities -
 
 **IOHK** - would take care of technical
 
-There has been lots of back and forth. The CF (Cardano Foundation) of the Michael Parsons era was challenging ([References](roadmap-and-governance.md#michael-parsons-era))
+There has been lots of back and forth. The CF (Cardano Foundation) of the Michael Parsons era was challenging ([Michael Parsons era](roadmap-and-governance.md#michael-parsons-era)).
 
 ## References
 
