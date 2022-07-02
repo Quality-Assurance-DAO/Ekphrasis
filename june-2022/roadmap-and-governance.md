@@ -154,6 +154,8 @@ You have to allow a set of people in the ecosystem to grow and evolve to a point
 
 That is effectively what the dReps (Delegated Representatives), SPOs (Stakepool operators) and the dApp developers are. Alongside people who take a community role. So we have the Ambassador program, 1000 plus dApps projects, 3000 Stake Pool Operators and a large corps of dReps are forming.
 
+These are not pairwise disjoint sets \[mathematical analogy see pairwise disjoint sets] , there is an overlap, and that is a good thing.
+
 ## References
 
 ### The Cardano Roadmap
