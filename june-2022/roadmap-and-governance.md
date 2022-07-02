@@ -150,6 +150,8 @@ Well either you pay or you work. Either you do something or you contribute some 
 
 Pretty simple and easy to understand.
 
+You have to allow a set of people in the ecosystem to grow and evolve to a point where they are capable of participating.
+
 ## References
 
 ### The Cardano Roadmap
