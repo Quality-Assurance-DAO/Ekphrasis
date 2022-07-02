@@ -42,13 +42,19 @@ Partial delegation, Proxy keys, Peer to peer and Genesis.
 
 [02:17](https://youtu.be/MwP-omMwd3A?t=137)
 
+{% hint style="info" %}
+[https://roadmap.cardano.org/en/goguen/](https://roadmap.cardano.org/en/goguen/)
+{% endhint %}
+
 Vasil is the first Goguen clean-up hard fork. Better [PAB ](https://plutus-apps.readthedocs.io/en/latest/plutus/explanations/pab.html)\[Plutus Application Backend] documentation. Optimizations of the language.
 
 ### Basho
 
 [02:54](https://youtu.be/MwP-omMwd3A?t=174)
 
-
+{% hint style="info" %}
+[https://roadmap.cardano.org/en/basho/](https://roadmap.cardano.org/en/basho/)
+{% endhint %}
 
 ## References
 
