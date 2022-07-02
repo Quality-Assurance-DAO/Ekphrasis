@@ -62,7 +62,7 @@ Sidechains. Paper coming out August 2022 explain how we upgrade OPST to do quoru
 
 &#x20;[Input Endorsers ](https://cardano.stackexchange.com/questions/4626/what-are-input-endorsers-and-how-do-they-make-cardano-more-scalable)\["The core idea of input endorsers is to separate transaction selection from block production."]. Work in summer on Input Endorsers official specification will rely heavily on Mithril and it's UTXO \[[Unspent Transaction Output](https://docs.cardano.org/plutus/eutxo-explainer)].
 
-
+## Scalability and interoperability
 
 These three things together, along with the work we are doing on Hydra. Is a starting point for true scalability and interoperability. The sidechain idea of Mithril is really the foundation of interoperability.
 
