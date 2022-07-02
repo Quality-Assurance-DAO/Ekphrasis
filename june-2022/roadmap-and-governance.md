@@ -127,7 +127,7 @@ Other committees - related to growth and adoption.
 
 A CIP (Cardano Improvement Process) committee.
 
-These committees will make decisions about the Roadmap
+These committees will make decisions about the Roadmap, suggestions for CIPs (Cardano Improvement Process), Strategy and other things.
 
 ## References
 
