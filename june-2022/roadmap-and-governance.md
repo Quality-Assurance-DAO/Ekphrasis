@@ -20,7 +20,7 @@ Lots of stuff going on in the markets reflecting the macro \[macro economic cond
 
 [00:57](https://youtu.be/MwP-omMwd3A?t=57)&#x20;
 
-Vasil \[Hard Fork] is under way we forked the test net. As of July 3rd the test net will be running Version 1.35 which will run until the end of July 2022.
+Vasil \[Hard Fork] is under way we forked the test net. As of July 3rd the test net will be running Version 1.35 which will run until the end of July 2022. Input Endorsers \[The core idea of input endorsers is to separate transaction selection from block production]
 
 ## What next ?
 
