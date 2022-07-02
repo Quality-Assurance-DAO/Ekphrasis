@@ -66,7 +66,7 @@ Sidechains. Paper coming out August 2022 explain how we upgrade OPST to do quoru
 
 [03:46](https://youtu.be/MwP-omMwd3A?t=226)
 
-These three things together, along with the work we are doing on [Hydra](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/). Is a starting point for true scalability and interoperability. The sidechain idea of Mithril is really the foundation of interoperability. Hydra is really a dApp accelerator. And backfills in the micro transactions use case. Input Endorsers gets rid of any consensus bottlenecks in the system. Everything is network constrained so super high TPS \[Transaction per second].
+These three things together, along with the work we are doing on [Hydra](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/). Is a starting point for true scalability and interoperability. The sidechain idea of Mithril is really the foundation of interoperability. Hydra is really a dApp accelerator. And backfills in the micro transactions use case. Input Endorsers gets rid of any consensus bottlenecks in the system. Everything is network constrained - so super high TPS \[Transaction per second].
 
 ### Voltaire
 
@@ -133,3 +133,7 @@ See - 8.1 Input Endorsers
 ### About hard forks
 
 {% embed url="https://docs.cardano.org/core-concepts/about-hard-forks" %}
+
+### Cardano Improvement Proposals <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
+
+{% embed url="https://cips.cardano.org/" %}
