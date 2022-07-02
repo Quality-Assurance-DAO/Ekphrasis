@@ -215,3 +215,9 @@ Oct. 12, 2018
 ### Bicameralism
 
 {% embed url="https://en.wikipedia.org/wiki/Bicameralism" %}
+
+### Update keys&#x20;
+
+#### Cardano Treasury with Kevin Hammond - A Catalyst Town Hall Presentation on the Cardano Treasury with an After Town Hall Q\&A
+
+{% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/parameters/governance-parameters/cardano-treasury-with-kevin-hammond#who-is-making-the-governance-decisions" %}
