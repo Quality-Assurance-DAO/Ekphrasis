@@ -42,7 +42,7 @@ Partial delegation, Proxy keys, Peer to peer and Genesis.
 
 [02:17](https://youtu.be/MwP-omMwd3A?t=137)
 
-Vasil is the first Goguen clean-up hard fork.
+Vasil is the first Goguen clean-up hard fork. Better PAB documentation.
 
 ## References
 
@@ -56,5 +56,9 @@ June 20th 2022
 
 {% embed url="https://iohk.io/en/blog/posts/2022/06/20/vasil-upgrade-the-state-of-play/" %}
 
+### What is the PAB?
 
+_Plutus Application Backend_
+
+{% embed url="https://plutus-apps.readthedocs.io/en/latest/plutus/explanations/pab.html" %}
 
