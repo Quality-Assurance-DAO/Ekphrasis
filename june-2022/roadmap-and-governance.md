@@ -172,3 +172,9 @@ Oct. 12, 2018
 {% embed url="https://cryptobriefing.com/cardano-leaders-split-with-foundation-demand-chairman-resigns/" %}
 
 ![https://twitter.com/CardanoStiftung/status/1062384674390073345?s=20\&t=3metSqbeK9bLEO3AS16PyA](<../.gitbook/assets/Screenshot 2022-07-02 141600.png>)
+
+### Dirk Hohndel, Chief Open Source Officer
+
+#### Dirk Hohndel Joins Cardano Foundation as Chief Open Source Officer
+
+{% embed url="https://cardanofoundation.org/en/news/dirk-hohndel-joins-cardano-foundation-as-chief-open-source-officer/" %}
