@@ -113,9 +113,15 @@ The CF (Cardano Foundation) hired [Dirk Hohndel](https://cardanofoundation.org/e
 
 There are about 50 people from the CF (Cardano Foundation) & IO (Input Output Global) who have been working since February 2022 on the construction of this members based organization.
 
-There will be an announcement about the specfic structure of the members based organisation in September 2022.
+There will be an announcement about the specific structure of the members based organization in September 2022.
 
+This organization will have -&#x20;
 
+A governance steering committee (GSC).
+
+A technical steering committe (TSC).
+
+Other committees - related to growth and adoption.
 
 ## References
 
