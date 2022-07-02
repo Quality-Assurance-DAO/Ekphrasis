@@ -111,6 +111,8 @@ Members are defined by merit.
 
 The CF (Cardano Foundation) hired [Dirk Hohndel](https://cardanofoundation.org/en/news/dirk-hohndel-joins-cardano-foundation-as-chief-open-source-officer/) who is a legend in the open source software community. He is co-founder of the [Linux Foundation](https://www.linuxfoundation.org/)&#x20;
 
+### Steering committees
+
 There are about 50 people from the CF (Cardano Foundation) & IO (Input Output Global) who have been working since February 2022 on the construction of this members based organization.
 
 There will be an announcement about the specific structure of the members based organization in September 2022.
@@ -123,7 +125,9 @@ A technical steering committe (TSC).
 
 Other committees - related to growth and adoption.
 
-A CIP (Cardano Improvement Process) committe
+A CIP (Cardano Improvement Process) committee.
+
+These committees will make decisions about the Roadmap
 
 ## References
 
