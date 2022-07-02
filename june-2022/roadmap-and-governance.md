@@ -7,7 +7,8 @@ description: Charles Hoskinson on the Cardano Roadmap and Governance. 30th June 
 {% embed url="https://youtu.be/MwP-omMwd3A" %}
 
 {% hint style="info" %}
-This is a summary with inserted explanations and references.
+This is a summary with inserted explanations and references.\
+[Ekphrasis GitBook](https://cardano.ideascale.com/c/idea/382334) is funded by Project Catalyst.
 {% endhint %}
 
 ## Beginning
