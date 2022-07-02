@@ -86,11 +86,13 @@ The question of protocol governance and the bureaucracy behind updates. Things l
 
 When Cardano was started the original intent was three entities -
 
-**Cardano Foundation** - would take of governance
+**Cardano Foundation** (CF) - would take of governance
 
 **Emurgo** - would take care of ecosystem growth
 
 **IOHK** - would take care of technical&#x20;
+
+There has been lots of back and forth. The CF (Cardano Foundation) of the Michael Parsons era&#x20;
 
 
 
