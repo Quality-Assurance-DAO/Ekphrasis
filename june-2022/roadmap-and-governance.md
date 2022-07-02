@@ -94,6 +94,16 @@ When Cardano was started the original intent was three entities -
 
 There has been lots of back and forth. The CF (Cardano Foundation) of the Michael Parsons era was challenging ([Michael Parsons era](roadmap-and-governance.md#michael-parsons-era)). We can litigate the past and talk about these things, but the long and short of it \[_idiom - to sum up_] is that \[governance] structure has not been perfect.
 
+### Members based organization&#x20;
+
+[06:48](https://youtu.be/MwP-omMwd3A?t=408)
+
+The particular thing I wanted to see built over the past few years was a members-based organization.
+
+
+
+
+
 ## References
 
 ### The Cardano Roadmap
