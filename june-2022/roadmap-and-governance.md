@@ -69,7 +69,7 @@ Sidechains. Paper coming out August 2022 explain how we upgrade OPST to do quoru
 
 These three things together, along with the work we are doing on [Hydra](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/). Is a starting point for true scalability and interoperability. The sidechain idea of Mithril is really the foundation of interoperability. Hydra is really a dApp accelerator. And backfills in the micro transactions use case. Input Endorsers gets rid of any consensus bottlenecks in the system. Everything is network constrained - so super high TPS \[Transaction per second].
 
-### Voltaire
+## Voltaire
 
 [04:39](https://youtu.be/MwP-omMwd3A?t=279)
 
@@ -105,7 +105,7 @@ Earlier this year we had a long conversation with CF (Cardano Foundation) in a s
 
 Members are defined by merit.
 
-## Dirk Hohndel, Chief Open Source Officer
+### Dirk Hohndel, Chief Open Source Officer
 
 The CF (Cardano Foundation) hired [Dirk Hohndel](https://cardanofoundation.org/en/news/dirk-hohndel-joins-cardano-foundation-as-chief-open-source-officer/) who is a legend in the open source software community. He is co-founder of the [Linux Foundation](https://www.linuxfoundation.org/)&#x20;
 
