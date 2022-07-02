@@ -95,7 +95,7 @@ When Cardano was started the original intent was three entities -
 
 There has been lots of back and forth. The CF (Cardano Foundation) of the Michael Parsons era was challenging ([Michael Parsons era](roadmap-and-governance.md#michael-parsons-era)). We can litigate the past and talk about these things, but the long and short of it \[_idiom - to sum up_] is that \[governance] structure has not been perfect.
 
-### Members based organization&#x20;
+### Members based organization
 
 [06:48](https://youtu.be/MwP-omMwd3A?t=408)
 
@@ -109,7 +109,7 @@ Members are defined by merit.
 
 [07:36](https://youtu.be/MwP-omMwd3A?t=457)
 
-The CF (Cardano Foundation) hired [Dirk Hohndel](https://cardanofoundation.org/en/news/dirk-hohndel-joins-cardano-foundation-as-chief-open-source-officer/) who is a legend in the open source software community. He is co-founder of the [Linux Foundation](https://www.linuxfoundation.org/)&#x20;
+The CF (Cardano Foundation) hired [Dirk Hohndel](https://cardanofoundation.org/en/news/dirk-hohndel-joins-cardano-foundation-as-chief-open-source-officer/) who is a legend in the open source software community. He is co-founder of the [Linux Foundation](https://www.linuxfoundation.org/)
 
 ### Steering committees
 
@@ -117,14 +117,24 @@ There are about 50 people from the CF (Cardano Foundation) & IO (Input Output Gl
 
 There will be an announcement about the specific structure of the members based organization in September 2022.
 
-This organization will have -&#x20;
+This organization will have -
 
-- A governance steering committee (GSC).
-- A technical steering committe (TSC).
-- Other committees - related to growth and adoption.
-- A CIP (Cardano Improvement Process) committee.
+* A governance steering committee (GSC).
+* A technical steering committe (TSC).
+* Other committees - related to growth and adoption.
+* A CIP (Cardano Improvement Process) committee.
 
 These committees will make decisions about the [Roadmap](https://roadmap.cardano.org/en/), suggestions for [CIPs ](roadmap-and-governance.md#cardanoimprovementproposalscips)(Cardano Improvement Process), strategy and other things.
+
+### Bicameral Model
+
+[08:57](https://youtu.be/MwP-omMwd3A?t=537)
+
+To allow for people to consent to this we want to move to a Bicameral Model \[[Bicameralism](https://en.wikipedia.org/wiki/Bicameralism)]
+
+
+
+
 
 ## References
 
@@ -197,3 +207,7 @@ Oct. 12, 2018
 ### Linux Foundation
 
 {% embed url="https://www.linuxfoundation.org/" %}
+
+### Bicameralism
+
+{% embed url="https://en.wikipedia.org/wiki/Bicameralism" %}
