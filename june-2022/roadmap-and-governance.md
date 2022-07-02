@@ -72,7 +72,7 @@ These three things together, along with the work we are doing on [Hydra](https:/
 
 [04:39](https://youtu.be/MwP-omMwd3A?t=279)
 
-Voltaire is interesting. We have a lot of programs like [Catalyst ](https://cardano.ideascale.com/a/index)where there is just about to be a massive surge in voting. There is going to be the voting center, dReps and how to link Catalyst to mainnet.
+Voltaire is interesting. We have a lot of programs like [Catalyst ](https://cardano.ideascale.com/a/index)where there is just about to be a massive surge in voting. There is going to be the voting center, [dReps ](https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/)and how to link Catalyst to mainnet.
 
 
 
@@ -119,3 +119,7 @@ See - 8.1 Input Endorsers
 ### Hydra – Cardano’s solution for ultimate Layer 2 scalability
 
 {% embed url="https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/" %}
+
+### Introducing the Concept of Delegate Representatives (dReps)
+
+{% embed url="https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/" %}
