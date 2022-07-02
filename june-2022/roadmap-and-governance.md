@@ -56,6 +56,8 @@ Vasil is the first Goguen clean-up hard fork. Better [PAB ](https://plutus-apps.
 [https://roadmap.cardano.org/en/basho/](https://roadmap.cardano.org/en/basho/)
 {% endhint %}
 
+Sidechains. Mithril
+
 ## References
 
 ### The Cardano Roadmap
@@ -74,3 +76,6 @@ _Plutus Application Backend_
 
 {% embed url="https://plutus-apps.readthedocs.io/en/latest/plutus/explanations/pab.html" %}
 
+### Mithril: a stronger and lighter blockchain for better efficiency
+
+{% embed url="https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/" %}
