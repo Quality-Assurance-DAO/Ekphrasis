@@ -159,3 +159,11 @@ See - 8.1 Input Endorsers
 ### Cardano Improvement Proposals <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
 
 {% embed url="https://cips.cardano.org/" %}
+
+### Michael Parsons era&#x20;
+
+#### Cardano Leaders Split With Foundation, Demand Chairman Resigns
+
+Oct. 12, 2018
+
+{% embed url="https://cryptobriefing.com/cardano-leaders-split-with-foundation-demand-chairman-resigns/" %}
