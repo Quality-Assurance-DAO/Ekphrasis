@@ -76,7 +76,9 @@ Voltaire is interesting. We have a lot of programs like [Catalyst ](https://card
 
 ### &#x20;Protocol governance
 
-The question of protocol governance and the bureaucracy behind updates.
+The question of protocol governance and the bureaucracy behind updates. Things like - initiation of the [hard fork combinator](https://docs.cardano.org/core-concepts/about-hard-forks) ,&#x20;
+
+
 
 
 
