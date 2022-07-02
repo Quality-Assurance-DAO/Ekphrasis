@@ -109,6 +109,8 @@ Members are defined by merit.
 
 The CF (Cardano Foundation) hired [Dirk Hohndel](https://cardanofoundation.org/en/news/dirk-hohndel-joins-cardano-foundation-as-chief-open-source-officer/) who is a legend in the open source software community. He is co-founder of the [Linux Foundation](https://www.linuxfoundation.org/)&#x20;
 
+There are about 50 people who work between the CF (Cardano Foundation) & IO (Input Output Global)
+
 
 
 ## References
