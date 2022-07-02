@@ -89,3 +89,7 @@ See - 8.1 Input Endorsers
 ### What are input endorsers and how do they make Cardano more scalable?
 
 {% embed url="https://cardano.stackexchange.com/questions/4626/what-are-input-endorsers-and-how-do-they-make-cardano-more-scalable" %}
+
+### Sidechains explained: Cardano's answer to scalability and interoperability
+
+{% embed url="https://youtu.be/BoywCpnv8uk" %}
