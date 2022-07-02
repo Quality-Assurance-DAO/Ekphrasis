@@ -140,9 +140,13 @@ The intent was always to create a decentralized update system. We wrote a paper 
 
 A nice halfway house \[compromise] is to have a CIP committee that controls an M of N set of keys that they cannot sign without approval from ADA holders. They write an update proposal and take it to the ADA holders. The ADA holder approve it and then the CIP committee can sign the proposals.
 
+### Pay or play
 
+[10:31](https://youtu.be/MwP-omMwd3A?t=631)
 
+What do we mean by a merit based members organization ? Merit and Members organization.&#x20;
 
+Well you either pay or play.
 
 ## References
 
