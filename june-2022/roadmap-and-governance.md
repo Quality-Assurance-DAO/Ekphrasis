@@ -119,13 +119,10 @@ There will be an announcement about the specific structure of the members based 
 
 This organization will have -&#x20;
 
-A governance steering committee (GSC).
-
-A technical steering committe (TSC).
-
-Other committees - related to growth and adoption.
-
-A CIP (Cardano Improvement Process) committee.
+- A governance steering committee (GSC).
+- A technical steering committe (TSC).
+- Other committees - related to growth and adoption.
+- A CIP (Cardano Improvement Process) committee.
 
 These committees will make decisions about the [Roadmap](https://roadmap.cardano.org/en/), suggestions for [CIPs ](roadmap-and-governance.md#cardanoimprovementproposalscips)(Cardano Improvement Process), strategy and other things.
 
