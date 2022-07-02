@@ -107,7 +107,7 @@ Members are defined by merit.
 
 ### Dirk Hohndel, Chief Open Source Officer
 
-07:36
+[07:36](https://youtu.be/MwP-omMwd3A?t=457)
 
 The CF (Cardano Foundation) hired [Dirk Hohndel](https://cardanofoundation.org/en/news/dirk-hohndel-joins-cardano-foundation-as-chief-open-source-officer/) who is a legend in the open source software community. He is co-founder of the [Linux Foundation](https://www.linuxfoundation.org/)&#x20;
 
