@@ -32,6 +32,10 @@ There are four tracks running concurrently.
 
 01:47
 
+{% hint style="info" %}
+[https://roadmap.cardano.org/en/shelley/](https://roadmap.cardano.org/en/shelley/)
+{% endhint %}
+
 Partial delegation, Proxy keys, Peer to peer and Genesis.
 
 ### Goguen
@@ -46,7 +50,11 @@ Partial delegation, Proxy keys, Peer to peer and Genesis.
 
 {% embed url="https://roadmap.cardano.org/en/" %}
 
+### Vasil upgrade - the state of play
 
+June 20th 2022
+
+{% embed url="https://iohk.io/en/blog/posts/2022/06/20/vasil-upgrade-the-state-of-play/" %}
 
 
 
