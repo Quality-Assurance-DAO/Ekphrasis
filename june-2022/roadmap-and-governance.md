@@ -123,6 +123,8 @@ A technical steering committe (TSC).
 
 Other committees - related to growth and adoption.
 
+A CIP (Cardano Improvement Process) committe
+
 ## References
 
 ### The Cardano Roadmap
