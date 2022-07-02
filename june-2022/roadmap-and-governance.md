@@ -130,7 +130,7 @@ These committees will make decisions about the [Roadmap](https://roadmap.cardano
 
 [08:57](https://youtu.be/MwP-omMwd3A?t=537)
 
-To allow for people to consent to this we want to move to a Bicameral Model \[[Bicameralism](https://en.wikipedia.org/wiki/Bicameralism)]
+To allow for people to consent to this we want to move to a Bicameral Model \[[Bicameralism](https://en.wikipedia.org/wiki/Bicameralism)]. The Bicameral Model says that the bureaucracy proposes and the ADA holder votes.
 
 
 
