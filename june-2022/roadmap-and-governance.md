@@ -132,7 +132,7 @@ These committees will make decisions about the [Roadmap](https://roadmap.cardano
 
 To allow for people to consent to this we want to move to a Bicameral Model \[[Bicameralism](https://en.wikipedia.org/wiki/Bicameralism)]. The Bicameral Model says that the bureaucracy proposes and the ADA holder votes.
 
-After the [Vasil ](roadmap-and-governance.md#vasil)hard fork, the next hhard fork combinator will be a special type of update proposal (written to the [CIP ](roadmap-and-governance.md#cardanoimprovementproposalscips)standard) that will go to ADA holders to vote on.
+After the [Vasil ](roadmap-and-governance.md#vasil)hard fork, the next hard fork combinator will be a special type of update proposal (written to the [CIP ](roadmap-and-governance.md#cardanoimprovementproposalscips)standard) that will go to ADA holders to vote on. And then it gets signed by the [CIP ](roadmap-and-governance.md#cardanoimprovementproposalscips)committee.
 
 
 
