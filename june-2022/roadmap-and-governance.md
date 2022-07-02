@@ -129,3 +129,7 @@ See - 8.1 Input Endorsers
 ### Introducing the Concept of Delegate Representatives (dReps)
 
 {% embed url="https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/" %}
+
+### About hard forks
+
+{% embed url="https://docs.cardano.org/core-concepts/about-hard-forks" %}
