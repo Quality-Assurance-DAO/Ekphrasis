@@ -72,7 +72,7 @@ These three things together, along with the work we are doing on [Hydra](https:/
 
 [04:39](https://youtu.be/MwP-omMwd3A?t=279)
 
-
+Voltaire is interesting. We have a lot of programs like Catalyst where there is just about to be a massive surge in voting.
 
 
 
