@@ -16,9 +16,9 @@ This is a summary with inserted explanations and references.
 
 Lots of stuff going on in the markets reflecting the macro \[macro economic conditions]. Bear markets are good for building. Time for getting things done
 
-## Vasil&#x20;
+## Vasil
 
-[00:57](https://youtu.be/MwP-omMwd3A?t=57)&#x20;
+[00:57](https://youtu.be/MwP-omMwd3A?t=57)
 
 Vasil \[Hard Fork] is under way we forked the test net. As of July 3rd the test net will be running Version 1.35 which will run until the end of July 2022. Input Endorsers \[The core idea of input endorsers is to separate transaction selection from block production]
 
@@ -58,9 +58,9 @@ Vasil is the first Goguen clean-up hard fork. Better [PAB ](https://plutus-apps.
 
 Sidechains. Paper coming out August 2022 explain how we upgrade OPST to do quorum sampling.
 
-&#x20;[Mithril ](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/)\[protocol acts as a stake-based threshold signature scheme allowing for transparent, secure, and lightweight stake leveraging]. Is under construction with a two week release cadence.
+[Mithril ](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/)\[protocol acts as a stake-based threshold signature scheme allowing for transparent, secure, and lightweight stake leveraging]. Is under construction with a two week release cadence.
 
-&#x20;[Input Endorsers ](https://cardano.stackexchange.com/questions/4626/what-are-input-endorsers-and-how-do-they-make-cardano-more-scalable)\["The core idea of input endorsers is to separate transaction selection from block production."]. Work in summer on Input Endorsers official specification will rely heavily on Mithril and it's UTXO \[[Unspent Transaction Output](https://docs.cardano.org/plutus/eutxo-explainer)].
+[Input Endorsers ](https://cardano.stackexchange.com/questions/4626/what-are-input-endorsers-and-how-do-they-make-cardano-more-scalable)\["The core idea of input endorsers is to separate transaction selection from block production."]. Work in summer on Input Endorsers official specification will rely heavily on Mithril and it's UTXO \[[Unspent Transaction Output](https://docs.cardano.org/plutus/eutxo-explainer)].
 
 ### Scalability and interoperability
 
@@ -74,7 +74,7 @@ These three things together, along with the work we are doing on [Hydra](https:/
 
 Voltaire is interesting. We have a lot of programs like [Catalyst ](https://cardano.ideascale.com/a/index)where there is just about to be a massive surge in voting. There is going to be the voting center, [dReps ](https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/)and how to link Catalyst to mainnet (so it overlaps with some of the Basho agenda). Right now its running as a permissioned sidechain.
 
-### &#x20;Protocol governance
+### Protocol governance
 
 [05:37](https://youtu.be/MwP-omMwd3A?t=337)
 
@@ -90,22 +90,9 @@ When Cardano was started the original intent was three entities -
 
 **Emurgo** - would take care of ecosystem growth
 
-**IOHK** - would take care of technical&#x20;
+**IOHK** - would take care of technical
 
-There has been lots of back and forth. The CF (Cardano Foundation) of the Michael Parsons era&#x20;
-
-
-
-
-
-
-
-
-
-
-
-
-
+There has been lots of back and forth. The CF (Cardano Foundation) of the Michael Parsons era was challenging ([References](roadmap-and-governance.md#michael-parsons-era))
 
 ## References
 
@@ -159,13 +146,12 @@ See - 8.1 Input Endorsers
 
 {% embed url="https://cips.cardano.org/" %}
 
-### Michael Parsons era&#x20;
+### Michael Parsons era
 
 #### Cardano Leaders Split With Foundation, Demand Chairman Resigns
 
 Oct. 12, 2018
 
 {% embed url="https://cryptobriefing.com/cardano-leaders-split-with-foundation-demand-chairman-resigns/" %}
-
 
 ![https://twitter.com/CardanoStiftung/status/1062384674390073345?s=20\&t=3metSqbeK9bLEO3AS16PyA](<../.gitbook/assets/Screenshot 2022-07-02 141600.png>)
