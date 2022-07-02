@@ -86,11 +86,11 @@ The question of protocol governance and the bureaucracy behind updates. Things l
 
 When Cardano was started the original intent was three entities -
 
-**Cardano Foundatio**n - would take of governance
+**Cardano Foundation** - would take of governance
 
 **Emurgo** - would take care of ecosystem growth
 
-**IOG** - would take care of technical&#x20;
+**IOHK** - would take care of technical&#x20;
 
 
 
