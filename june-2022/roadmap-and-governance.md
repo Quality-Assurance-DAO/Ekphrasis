@@ -101,6 +101,8 @@ There has been lots of back and forth. The CF (Cardano Foundation) of the Michae
 
 The particular thing I wanted to see built over the past few years was a members-based organization. That would run the bureaucracy of protocol governance. This was my hope for the CF (Cardano Foundation) but the system & structure in Switzerland is not good for that.
 
+Earlier this year we had a long conversation with CF (Cardano Foundation) in a series of workshops.
+
 
 
 
