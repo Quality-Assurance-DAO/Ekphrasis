@@ -34,13 +34,17 @@ There are four tracks running concurrently.
 
 Partial delegation, Proxy keys, Peer to peer and Genesis.
 
-### Goguan
+### Goguen
 
 [02:17](https://youtu.be/MwP-omMwd3A?t=137)
 
 
 
+## References
 
+### The Cardano Roadmap
+
+{% embed url="https://roadmap.cardano.org/en/" %}
 
 
 
