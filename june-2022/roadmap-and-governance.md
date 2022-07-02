@@ -74,6 +74,10 @@ These three things together, along with the work we are doing on [Hydra](https:/
 
 Voltaire is interesting. We have a lot of programs like [Catalyst ](https://cardano.ideascale.com/a/index)where there is just about to be a massive surge in voting. There is going to be the voting center, [dReps ](https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/)and how to link Catalyst to mainnet (so it overlaps with some of the Basho agenda). Right now its running as a permissioned sidechain.
 
+### &#x20;Protocol governance
+
+The question of protocol governance and the bureaucracy behind updates.
+
 
 
 
