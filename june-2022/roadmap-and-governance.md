@@ -148,6 +148,8 @@ What do we mean by a merit based members organization ? Merit and Members organi
 
 Well either you pay or you work. Either you do something or you contribute some funding.
 
+Pretty simple and easy to understand.
+
 ## References
 
 ### The Cardano Roadmap
