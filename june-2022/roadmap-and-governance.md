@@ -64,7 +64,9 @@ Sidechains. Paper coming out August 2022 explain how we upgrade OPST to do quoru
 
 ## Scalability and interoperability
 
-These three things together, along with the work we are doing on Hydra. Is a starting point for true scalability and interoperability. The sidechain idea of Mithril is really the foundation of interoperability.
+These three things together, along with the work we are doing on Hydra. Is a starting point for true scalability and interoperability. The sidechain idea of Mithril is really the foundation of interoperability. Hydra is really a dApp accelerator.
+
+
 
 
 
