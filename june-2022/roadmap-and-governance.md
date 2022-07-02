@@ -64,7 +64,7 @@ Sidechains. Paper coming out August 2022 explain how we upgrade OPST to do quoru
 
 ## Scalability and interoperability
 
-These three things together, along with the work we are doing on Hydra. Is a starting point for true scalability and interoperability. The sidechain idea of Mithril is really the foundation of interoperability. Hydra is really a dApp accelerator.
+These three things together, along with the work we are doing on [Hydra](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/). Is a starting point for true scalability and interoperability. The sidechain idea of Mithril is really the foundation of interoperability. Hydra is really a dApp accelerator.
 
 
 
@@ -105,3 +105,7 @@ See - 8.1 Input Endorsers
 ### Sidechains explained: Cardano's answer to scalability and interoperability
 
 {% embed url="https://youtu.be/BoywCpnv8uk" %}
+
+### Hydra – Cardano’s solution for ultimate Layer 2 scalability
+
+{% embed url="https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/" %}
