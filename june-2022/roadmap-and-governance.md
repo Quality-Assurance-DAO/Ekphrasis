@@ -178,6 +178,8 @@ You may have noticed that [Sebastien Guillemot](https://www.sebastiengllmt.com/)
 
 I told [Harris Warren](https://iohk.io/en/team/harris-warren) at Project Catalyst that I would like to see three to five more community members become CIP editors paid for completely by the Cardano Blockchain \[Catalyst Treasury].
 
+I'd also like to see 10 to 15 full time engineers working directly for Cardano, paid for by Cardano. This will be a big part of Catalyst Fund 10.
+
 ## References
 
 ### The Cardano Roadmap
