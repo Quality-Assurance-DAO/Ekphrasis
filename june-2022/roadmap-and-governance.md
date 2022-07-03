@@ -308,65 +308,21 @@ So it is a lot of cleanup, as I mentioned, and post Vasil on the code side an en
 
 ## References
 
-### The Cardano Roadmap
-
-{% embed url="https://roadmap.cardano.org/en/" %}
-
-### Vasil upgrade - the state of play
-
-June 20th 2022
-
-{% embed url="https://iohk.io/en/blog/posts/2022/06/20/vasil-upgrade-the-state-of-play/" %}
-
-### What is the PAB?
-
-_Plutus Application Backend_
-
-{% embed url="https://plutus-apps.readthedocs.io/en/latest/plutus/explanations/pab.html" %}
-
-### Mithril: a stronger and lighter blockchain for better efficiency
-
-{% embed url="https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/" %}
-
-### Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol
-
-See - 8.1 Input Endorsers
-
-{% embed url="https://eprint.iacr.org/2016/889.pdf" %}
-
-### What are input endorsers and how do they make Cardano more scalable?
-
-{% embed url="https://cardano.stackexchange.com/questions/4626/what-are-input-endorsers-and-how-do-they-make-cardano-more-scalable" %}
-
-### Sidechains explained: Cardano's answer to scalability and interoperability
-
-{% embed url="https://youtu.be/BoywCpnv8uk" %}
-
-### Hydra – Cardano’s solution for ultimate Layer 2 scalability
-
-{% embed url="https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/" %}
-
-### Introducing the Concept of Delegate Representatives (dReps)
-
-{% embed url="https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/" %}
-
 ### About hard forks
 
 {% embed url="https://docs.cardano.org/core-concepts/about-hard-forks" %}
 
+### Blockchain Technology Laboratory network (Edinburgh University)
+
+{% embed url="https://www.ed.ac.uk/informatics/blockchain" %}
+
+### Bicameralism
+
+{% embed url="https://en.wikipedia.org/wiki/Bicameralism" %}
+
 ### Cardano Improvement Proposals <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
 
 {% embed url="https://cips.cardano.org/" %}
-
-### Michael Parsons era
-
-#### Cardano Leaders Split With Foundation, Demand Chairman Resigns
-
-Oct. 12, 2018
-
-{% embed url="https://cryptobriefing.com/cardano-leaders-split-with-foundation-demand-chairman-resigns/" %}
-
-![https://twitter.com/CardanoStiftung/status/1062384674390073345?s=20\&t=3metSqbeK9bLEO3AS16PyA](<../.gitbook/assets/Screenshot 2022-07-02 141600.png>)
 
 ### Dirk Hohndel, Chief Open Source Officer
 
@@ -378,15 +334,29 @@ Oct. 12, 2018
 
 {% embed url="https://www.linuxfoundation.org/" %}
 
-### Bicameralism
+### Hydra – Cardano’s solution for ultimate Layer 2 scalability
 
-{% embed url="https://en.wikipedia.org/wiki/Bicameralism" %}
+{% embed url="https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/" %}
 
-### Update keys&#x20;
+### Michael Parsons era
 
-#### Cardano Treasury with Kevin Hammond - A Catalyst Town Hall Presentation on the Cardano Treasury with an After Town Hall Q\&A
+#### Cardano Leaders Split With Foundation, Demand Chairman Resigns
 
-{% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/parameters/governance-parameters/cardano-treasury-with-kevin-hammond#who-is-making-the-governance-decisions" %}
+Oct. 12, 2018
+
+{% embed url="https://cryptobriefing.com/cardano-leaders-split-with-foundation-demand-chairman-resigns/" %}
+
+![https://twitter.com/CardanoStiftung/status/1062384674390073345?s=20\&t=3metSqbeK9bLEO3AS16PyA](<../.gitbook/assets/Screenshot 2022-07-02 141600.png>)
+
+### Mithril: a stronger and lighter blockchain for better efficiency
+
+{% embed url="https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/" %}
+
+### Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol
+
+See - 8.1 Input Endorsers
+
+{% embed url="https://eprint.iacr.org/2016/889.pdf" %}
 
 ### Pairwise disjoint sets
 
@@ -403,10 +373,42 @@ i.e. A, B ∈ P. Then, P is known as pairwise disjoint if and only if A ≠ B. T
 * P = { {1}, {2, 3}, {4, 5, 6} } is a pairwise disjoint set.
 * P = { {1, 2}, {2, 3} } is not pairwise disjoint, since we have 2 as the common element in two sets.
 
-### Blockchain Technology Laboratory network (Edinburgh University)
-
-{% embed url="https://www.ed.ac.uk/informatics/blockchain" %}
-
 ### IOHK Research Library
 
 {% embed url="https://iohk.io/en/research/library/" %}
+
+### Introducing the Concept of Delegate Representatives (dReps)
+
+{% embed url="https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/" %}
+
+### Sidechains explained: Cardano's answer to scalability and interoperability
+
+{% embed url="https://youtu.be/BoywCpnv8uk" %}
+
+### The Cardano Roadmap
+
+{% embed url="https://roadmap.cardano.org/en/" %}
+
+### What is the PAB?
+
+_Plutus Application Backend_
+
+{% embed url="https://plutus-apps.readthedocs.io/en/latest/plutus/explanations/pab.html" %}
+
+### What are input endorsers and how do they make Cardano more scalable?
+
+{% embed url="https://cardano.stackexchange.com/questions/4626/what-are-input-endorsers-and-how-do-they-make-cardano-more-scalable" %}
+
+### Update keys&#x20;
+
+#### Cardano Treasury with Kevin Hammond - A Catalyst Town Hall Presentation on the Cardano Treasury with an After Town Hall Q\&A
+
+{% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/parameters/governance-parameters/cardano-treasury-with-kevin-hammond#who-is-making-the-governance-decisions" %}
+
+### Vasil upgrade - the state of play
+
+June 20th 2022
+
+{% embed url="https://iohk.io/en/blog/posts/2022/06/20/vasil-upgrade-the-state-of-play/" %}
+
+
