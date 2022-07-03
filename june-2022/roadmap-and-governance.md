@@ -180,6 +180,13 @@ I told [Harris Warren](https://iohk.io/en/team/harris-warren) at Project Catalys
 
 I'd also like to see 10 to 15 full time engineers working directly for Cardano, paid for by Cardano. This will be a big part of Catalyst Fund 10.
 
+It is time to get a complete group of people that work for Cardano. That is the entire point of the system. With this members based organization it is pretty easy to do that because the members can be directly funded from Project Catalysts after \[the new Challenge] has started. \
+
+
+It is good to have individuals in addition to companies working for Cardano. It creates checks and balances. So if you have the technical abilities to write code or the ability to read scripts then you can be part of that process. Jobs are opening up. Coming very soon before the end of the year.&#x20;
+
+I guess what I'm trying to convey is that it is a lot of cleanup.
+
 ## References
 
 ### The Cardano Roadmap
