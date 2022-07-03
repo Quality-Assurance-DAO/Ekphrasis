@@ -164,6 +164,14 @@ If you look at that set \[of people in the ecosystem] that is a very large group
 
 \[Our model will be] the work Dirk Hohndel did at the [Linux Foundation](https://www.linuxfoundation.org/) which runs over 140 plus projects from [Kubernetes](https://kubernetes.io/), to [Node ](https://nodejs.org/en/)to cryptocurrency projects like Fabric, the entire [Hyperledger ](https://www.hyperledger.org/)group, even an Ethereum node called [Besu](https://besu.hyperledger.org/en/stable/). So there is a lot of decentralization there. And there is a lot of organizational wisdom in these types of models. And that is basically what we're pursuing.
 
+In September 2022 we will have the first setup. Between now and September in July and August 2022 we are going to set up a website for signups.&#x20;
+
+And then either you pay the membership fee to the \[member] organization, or you contribute some sort of work or both.&#x20;
+
+
+
+That's one side of it. Another side is we need to get more people working for Cardano.
+
 ## References
 
 ### The Cardano Roadmap
