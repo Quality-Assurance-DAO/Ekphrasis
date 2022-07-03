@@ -160,6 +160,8 @@ If you look at that set \[of people in the ecosystem] that is a very large group
 
 ### How will you run effective committees?
 
+[12:00](https://youtu.be/MwP-omMwd3A?t=720)
+
 \[Our model will be] the work Dirk Hohndel did at the [Linux Foundation](https://www.linuxfoundation.org/) which runs over 140 plus projects from [Kubernetes](https://kubernetes.io/), to [Node ](https://nodejs.org/en/)to cryptocurrency projects like Fabric, the entire [Hyperledger ](https://www.hyperledger.org/)group, even an Ethereum node called [Besu](https://besu.hyperledger.org/en/stable/). So there is a lot of decentralization there. And there is a lot of organizational wisdom in these types of models. And that is basically what we're pursuing.
 
 ## References
