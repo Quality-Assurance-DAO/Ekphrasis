@@ -218,7 +218,7 @@ Some legacy has to be removed and cleaned up, some training wheels have to be cl
 
 We need a North Star. So what is our North Star, our guiding light, behind these types of things? Well, the North Star is this concept of decentralization. That is one of them. There are many North stars. But decentralization is the big one that I think we can tackle this year.&#x20;
 
-So we are setting up something called the **Edinburgh decentralization index**, it's going to be based at University of Edinburgh ([Blockchain Technology Laboratory network](https://www.ed.ac.uk/informatics/blockchain)). And obviously, it's going to measure decentralization of cryptocurrencies.
+So we are setting up something called the **Edinburgh decentralization index**, it's going to be based at University of Edinburgh ([Blockchain Technology Laboratory network](https://www.ed.ac.uk/informatics/blockchain) & [IOHK Research Library](https://iohk.io/en/research/library/)). And obviously, it's going to measure decentralization of cryptocurrencies.
 
 ## References
 
@@ -316,3 +316,11 @@ i.e. A, B ∈ P. Then, P is known as pairwise disjoint if and only if A ≠ B. T
 
 * P = { {1}, {2, 3}, {4, 5, 6} } is a pairwise disjoint set.
 * P = { {1, 2}, {2, 3} } is not pairwise disjoint, since we have 2 as the common element in two sets.
+
+### Blockchain Technology Laboratory network (Edinburgh University)
+
+{% embed url="https://www.ed.ac.uk/informatics/blockchain" %}
+
+### IOHK Research Library
+
+{% embed url="https://iohk.io/en/research/library/" %}
