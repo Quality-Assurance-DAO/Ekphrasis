@@ -220,6 +220,8 @@ We need a North Star. So what is our North Star, our guiding light, behind these
 
 So we are setting up something called the **Edinburgh decentralization index (EDI)**, it's going to be based at University of Edinburgh ([Blockchain Technology Laboratory network](https://www.ed.ac.uk/informatics/blockchain) & [IOHK Research Library](https://iohk.io/en/research/library/)). And obviously, it's going to measure decentralization of cryptocurrencies.
 
+\[In this GitBook see also [How to Measure Decentralisation?](../july-2021/how-to-measure-decentralisation.md)]
+
 ## References
 
 ### The Cardano Roadmap
