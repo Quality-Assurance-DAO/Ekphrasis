@@ -8,6 +8,7 @@ description: Charles Hoskinson on the Cardano Roadmap and Governance. 30th June 
 
 {% hint style="info" %}
 This is a summary with inserted explanations and references.\
+The english is simplified in places to ease translation.\
 Transcriptions are funded by [QA-DAO Transcription Service](https://cardano.ideascale.com/c/idea/383492).
 {% endhint %}
 
@@ -186,6 +187,18 @@ It is time to get a complete group of people that work for Cardano. That is the 
 It is good to have individuals in addition to companies working for Cardano. It creates checks and balances. So if you have the technical abilities to write code or the ability to read scripts then you can be part of that process. Jobs are opening up. Coming very soon before the end of the year.&#x20;
 
 I guess what I'm trying to convey is that it is a lot of cleanup.
+
+### Major inflection point
+
+[14:47](https://youtu.be/MwP-omMwd3A?t=887)
+
+It has gotten to the juncture \[to the point] where we are about to have a major inflection point \[change] where this structure \[Tripartite Governance Structure] is gone.
+
+There has been an enormous amount of learning along the way. I would have done things very differently if I got to do the project again. But, to be fair, we had to live through seven years of history. And, we had to go through a lot of events to get to this point.&#x20;
+
+The fact that we are now about to see the existence of a massive members based organization, that is going to provide proper representation of the community for roadmap, strategy etc. and has a consent component from voting is pretty exciting to me.&#x20;
+
+A lot of good people are working on this, and I can't wait to make the announcement September 2022. I will be at some event for that. I cannot say anything about it right now. I have signed a mutual NDA (non disclosure agreement) with the Cardano Foundation.
 
 ## References
 
