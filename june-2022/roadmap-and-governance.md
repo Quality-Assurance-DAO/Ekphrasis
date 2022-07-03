@@ -202,6 +202,8 @@ A lot of good people are working on this, and I can't wait to make the announcem
 
 ### House cleaning
 
+[15:57](https://youtu.be/MwP-omMwd3A?t=957)
+
 Some house cleaning is needed in terms of the update committee and that has always been the case. And the proxy keys and partial delegation and so forth.&#x20;
 
 We still are number one for GitHub commits as an ecosystem. The push out \[rollout] of the Vasil Hard Fork even though it is complicated has been pretty seamless.&#x20;
