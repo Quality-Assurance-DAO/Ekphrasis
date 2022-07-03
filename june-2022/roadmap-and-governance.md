@@ -282,13 +282,29 @@ It has been difficult at times. It was a hell of a job getting Shelley out. Ther
 
 \[ ...]
 
+#### Real Fi (Real Finance)
+
 And then I get to the business of Real Fi (real finance), which is what I've always wanted to do.&#x20;
 
 I built Cardano so that I could go and bank the unbanked and get 3 billion people to have a financial operating system that they do not have right now. That's my personal mission.&#x20;
 
 Doesn't have to be yours. Cardano is an open protocol. Anybody can use it any way that they want to use it. I built it for that purpose.&#x20;
 
-And I'd like to spend a big chunk of my life pursuing that but it Get a good foundation for it. And that's what we're doing right now. We're finalizing those last elements of the foundation as an ecosystem. It's a great time to do it. bear markets are where everybody gets much more collaborative, more people are willing to join and work with you. And people will actually pick up the phone. bull markets are crazy. Poaching is at an all time high, people are very hostile, extremely negative languages is used and inhuman things happen. And that's okay. I mean, this is just the nature of the cycles I've been through, I think six of them now. So depending on how you count bulls and bears in the market, so I'm used to it, I'll never quite get used to the arrogant, maximalism and brutal comments that people make, or the betrayals, but I have gotten used to the fact that people behave differently when economic incentives are aligned that way, it is what it is, and you accept it. One thing that's remained constant though bull or bear, the Cardano community is here to stay. And each and every one of you continue whenever asked to step up to the occasion and get it done. So come July and August, websites coming out. And just kind of will have a sketch out of different things that need doing. And if you want to be part of the members based org, we'll go ahead and sign up and then we can roll you over in September, make an announcement of the name of that, how that's going to work the legal structures behind it. A lot of little things you need to be done, like legal wrappers need to be put together and a bunch of little things like that. So it's a lot of cleanup, as I mentioned, and post fossil on the code side and enormous amount of cleanup, technical debt reduction, re architecture. And then obviously we're pushing for a lot of the backlog to kind of work its way through. All right, everybody. Until next time, thank you so much. And I'll talk to you all soon. Cheers.
+#### Bear markets&#x20;
+
+It's a great time to do it. bear markets are where everybody gets much more collaborative, more people are willing to join and work with you. And people will actually pick up the phone. Bull markets are crazy. Poaching is at an all time high, people are very hostile, extremely negative language is used and inhuman things happen.&#x20;
+
+#### Maximalism
+
+&#x20;I'll never quite get used to the arrogant, maximalism and brutal comments that people make, or the betrayals.&#x20;
+
+But I have gotten used to the fact that people behave differently when economic incentives are aligned that way, it is what it is, and you accept it.&#x20;
+
+#### Member based organization legal structures
+
+So come July and August, websites coming out and if you want to be part of the members based organization. Go ahead and sign up and then we can enroll you in September and make an announcement of the name of the organization, how it is going to work and the legal structures behind it. A lot of little things need to be done, like legal wrappers.
+
+So it is a lot of cleanup, as I mentioned, and post Vasil on the code side an enormous amount of cleanup, technical debt reduction, re-architecture. And then we are pushing for a lot of the backlog to of work its way through.&#x20;
 
 ## References
 
