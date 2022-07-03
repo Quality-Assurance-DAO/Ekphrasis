@@ -224,11 +224,11 @@ So we are setting up something called the **Edinburgh decentralization index (ED
 
 Throughout the summer, papers are going to be written, a lab is going to be set up governed by the University of Edinburgh. And the team at the lab is going to start with [Bitcoin](https://bitcoin.org/en/), then [Ethereum ](https://ethereum.org/en/)and then move on to Cardano.&#x20;
 
-They will keep going and create a decentralisation index and we do not know where we are going to fall on this index.
+They will keep going and create a decentralization index and we do not know where we are going to fall on this index.
 
-Some of \[the decentralisation score] might be great, some of it may not be so great. It will be aggregated together and we will get a score.
+Some of \[the decentralization score] might be great, some of it may not be so great. It will be aggregated together and we will get a score.
 
-&#x20;Then the government steering committee of the open source program can make an agenda and strategy of how do we improve \[the decentralisation score].&#x20;
+&#x20;Then the [government steering committee](roadmap-and-governance.md#steering-committees) of the open source program \[[members based organisation](roadmap-and-governance.md#members-based-organization)] can make an agenda and strategy of how do we improve \[the decentralization score].&#x20;
 
 You have to have a collection of North Stars, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience, some of that is effectiveness and cost, some of that is utility. We did our best with the initial Cardano roadmap to try to balance all of these different types of concerns.
 
