@@ -222,6 +222,10 @@ So we are setting up something called the **Edinburgh decentralization index (ED
 
 \[In this GitBook see also [How to Measure Decentralisation?](../july-2021/how-to-measure-decentralisation.md)]
 
+Throughout the summer, papers are going to be written, a lab is going to be set up governed by the University of Edinburgh. And the team at the lab is going to start with [Bitcoin](https://bitcoin.org/en/), then [Ethereum ](https://ethereum.org/en/)and then move on to Cardano.&#x20;
+
+And keep going and actually create an index, well, we don't know where we're gonna fall on this index. Some of it might be great, some of it may not be so great, it'll aggregate together and we'll get a score. What's cool is then the government steering committee of the open source program can make an agenda and strategy of how do we improve that? How do we make that better. So you really have to have a collection of North Stars, you have to have a collection, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience. Some of that is effectiveness and cost. Some of that is using utility. And we did our best, with the initial roadmap to try to balance all of these different types of concerns
+
 ## References
 
 ### The Cardano Roadmap
