@@ -268,7 +268,27 @@ If you want to be part of it, a website is coming, Signups are coming. And we wo
 
 We wll do our best to try to provide objective guiding stars, like decentralization, which is a foundational one.
 
+### The moon landing of the blockchain ecosystem
 
+[22:07](https://youtu.be/MwP-omMwd3A?t=1328)
+
+We are all on this journey together. From an idea in 2015, on a whiteboard to this technological Leviathan. Cardano has really been the moon landing of the blockchain ecosystem. We wrote more than 100 papers. So much code brought together a global movement. Some of the brightest people in the world have worked on this project or continue to work on this project. And we paid homage to great people along the way like [Voltaire](https://en.wikipedia.org/wiki/Voltaire), and [Basho](https://en.wikipedia.org/wiki/Matsuo\_Bash%C5%8D).
+
+We tried to stay true to some basic concepts and principles about a desire to increasingly decentralize and build up a group of people that are going to be here for a long time.&#x20;
+
+&#x20;believe we have the strongest community of any cryptocurrency and we'll continue to have the strongest community because people really get the intention and where we're going.&#x20;
+
+It has been difficult at times. It was a hell of a job getting Shelley out. There was a lot of work there. And Goguen hasn't exactly been the easiest of things.&#x20;
+
+\[ ...]
+
+And then I get to the business of Real Fi (real finance), which is what I've always wanted to do.&#x20;
+
+I built Cardano so that I could go and bank the unbanked and get 3 billion people to have a financial operating system that they do not have right now. That's my personal mission.&#x20;
+
+Doesn't have to be yours. Cardano is an open protocol. Anybody can use it any way that they want to use it. I built it for that purpose.&#x20;
+
+And I'd like to spend a big chunk of my life pursuing that but it Get a good foundation for it. And that's what we're doing right now. We're finalizing those last elements of the foundation as an ecosystem. It's a great time to do it. bear markets are where everybody gets much more collaborative, more people are willing to join and work with you. And people will actually pick up the phone. bull markets are crazy. Poaching is at an all time high, people are very hostile, extremely negative languages is used and inhuman things happen. And that's okay. I mean, this is just the nature of the cycles I've been through, I think six of them now. So depending on how you count bulls and bears in the market, so I'm used to it, I'll never quite get used to the arrogant, maximalism and brutal comments that people make, or the betrayals, but I have gotten used to the fact that people behave differently when economic incentives are aligned that way, it is what it is, and you accept it. One thing that's remained constant though bull or bear, the Cardano community is here to stay. And each and every one of you continue whenever asked to step up to the occasion and get it done. So come July and August, websites coming out. And just kind of will have a sketch out of different things that need doing. And if you want to be part of the members based org, we'll go ahead and sign up and then we can roll you over in September, make an announcement of the name of that, how that's going to work the legal structures behind it. A lot of little things you need to be done, like legal wrappers need to be put together and a bunch of little things like that. So it's a lot of cleanup, as I mentioned, and post fossil on the code side and enormous amount of cleanup, technical debt reduction, re architecture. And then obviously we're pushing for a lot of the backlog to kind of work its way through. All right, everybody. Until next time, thank you so much. And I'll talk to you all soon. Cheers.
 
 ## References
 
