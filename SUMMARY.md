@@ -18,6 +18,7 @@
 ## June 2022
 
 * [Roadmap and Governance](june-2022/roadmap-and-governance.md)
+* [Stake-based Protocol Governance Restrictions (CIP)](june-2022/stake-based-protocol-governance-restrictions-cip.md)
 
 ## May 2022
 
