@@ -246,15 +246,13 @@ We did not play in those waters. And so we did not get bitten by those sharks. B
 
 But there would not have been as much careful thought put into the development model. And we would also be suffering from the many hacks, protocol design flaws and other problems that the cryptocurrency ecosystem is now working its way through. And \[these problems] may actually several major cryptocurrencies. It has already destroyed [Luna ](https://www.terra.money/)and it's destroyed [Celsius ](https://celsius.network/)and more to come as exponential risk continues to scale. So roadmaps are hard.
 
-
-
-### Rare Bloom and  LATAM
+### Rare Bloom
 
 You have to kind of wait for the right people to materialize. And now there are dReps (Delegated Representatives), there is a huge amount of SPOs (Stakepool Operators).&#x20;
 
 In fact, communities going to have a big event in Colorado, the [Rare Bloom](https://www.rarebloom.io/) event, I had nothing to do with putting it on, it might have more than 1000 or 2000 people.&#x20;
 
-Community events just materializing out of thin air happened in Brazil.
+Community events just materializing out of thin air happened in Brazil \[Source ?].
 
 ## References
 
