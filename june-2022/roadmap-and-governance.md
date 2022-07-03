@@ -266,6 +266,8 @@ A resilient ecosystem should have the ability to course correct and get rid of b
 
 If you want to be part of it, a website is coming, Signups are coming. And we woulld love to have you there. If not, vote, your ADA gives you a voice, gives you a vote.&#x20;
 
+We wll do our best to try to provide objective guiding stars, like decentralisation, which is a foundational one.
+
 
 
 ## References
