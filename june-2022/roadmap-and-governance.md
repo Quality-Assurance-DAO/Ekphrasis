@@ -7,7 +7,7 @@ description: Charles Hoskinson on the Cardano Roadmap and Governance. 30th June 
 {% embed url="https://youtu.be/MwP-omMwd3A" %}
 
 {% hint style="info" %}
-This is a summary with inserted explanations and references.\
+This is a summary with inserted explanations, timestamps and references.\
 The english is simplified in places to ease translation.\
 Transcriptions are funded by [QA-DAO Transcription Service](https://cardano.ideascale.com/c/idea/383492).
 {% endhint %}
