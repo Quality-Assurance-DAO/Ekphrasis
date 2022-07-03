@@ -168,9 +168,11 @@ In September 2022 we will have the first setup. Between now and September in Jul
 
 And then either you pay the membership fee to the \[member] organization, or you contribute some sort of work or both.&#x20;
 
+### More people working for Cardano
 
+[13:00](https://youtu.be/MwP-omMwd3A?t=780)
 
-That's one side of it. Another side is we need to get more people working for Cardano.
+Another side is we need to get more people working for Cardano.
 
 ## References
 
