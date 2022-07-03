@@ -200,6 +200,16 @@ The fact that we are now about to see the existence of a massive members based o
 
 A lot of good people are working on this, and I can't wait to make the announcement September 2022. I will be at some event for that. I cannot say anything about it right now. I have signed a mutual NDA (non disclosure agreement) with the Cardano Foundation.
 
+### House cleaning
+
+Some house cleaning is needed in terms of the update committee and that has always been the case. And the proxy keys and partial delegation and so forth.&#x20;
+
+We still are number one for GitHub commits as an ecosystem. The push out \[rollout] of the Vasil Hard Fork even though it is complicated has been pretty seamless.&#x20;
+
+The reality is that Cardano is not controlled by a person, an entity or a collection of entities. It truly is one of the most decentralized of all cryptocurrencies because it has this gigantic super smart community that is working towards an end.&#x20;
+
+Some legacy has to be removed and cleaned up, some training wheels have to be clipped off. Sometimes it takes a little longer than you think. But there is an intent to do it.
+
 ## References
 
 ### The Cardano Roadmap
