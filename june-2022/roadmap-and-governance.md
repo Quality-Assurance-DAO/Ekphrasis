@@ -192,7 +192,7 @@ I guess what I'm trying to convey is that it is a lot of cleanup.
 
 [14:47](https://youtu.be/MwP-omMwd3A?t=887)
 
-It has gotten to the juncture \[to the point] where we are about to have a major inflection point \[change] where this structure \[Tripartite Governance Structure] is gone.
+It has gotten to the juncture \[to the point] where we are about to have a major inflection point \[change] where this structure \[the [Tripartite Governance Structure](roadmap-and-governance.md#tripartite-governance-structure)] is gone.
 
 There has been an enormous amount of learning along the way. I would have done things very differently if I got to do the project again. But, to be fair, we had to live through seven years of history. And, we had to go through a lot of events to get to this point.&#x20;
 
