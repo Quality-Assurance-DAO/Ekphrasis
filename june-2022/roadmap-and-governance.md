@@ -174,7 +174,7 @@ And then either you pay the membership fee to the \[member] organization, or you
 
 Another side is we need to get more people working for Cardano.
 
-You may have noticed that Sebastien Guillemot from DC Spark is now a CIP editor, and his role is covered completely by the Cardano blockchain itself.&#x20;
+You may have noticed that [Sebastien Guillemot](https://www.sebastiengllmt.com/) from [dcSpark ](https://www.dcspark.io/)is now a CIP editor, and his role is covered completely by the Cardano blockchain itself. \[See Fund 8 Catalyst proposal - [CIP Editor time Sebastien for 1year](https://cardano.ideascale.com/c/idea/400716)]
 
 So I told Harris over at the catalyst project, I said, you know, I'd really like to see three to five more community members become SIP editors who are paid for completely by the Cardano. Blockchain
 
