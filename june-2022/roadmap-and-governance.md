@@ -228,7 +228,9 @@ They will keep going and create a decentralisation index and we do not know wher
 
 Some of \[the decentralisation score] might be great, some of it may not be so great. It will be aggregated together and we will get a score.
 
-&#x20;What's cool is then the government steering committee of the open source program can make an agenda and strategy of how do we improve that? How do we make that better. So you really have to have a collection of North Stars, you have to have a collection, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience. Some of that is effectiveness and cost. Some of that is using utility. And we did our best, with the initial roadmap to try to balance all of these different types of concerns
+&#x20;Then the government steering committee of the open source program can make an agenda and strategy of how do we improve \[the decentralisation score].&#x20;
+
+You have to have a collection of North Stars, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience, some of that is effectiveness and cost, some of that is utility. We did our best with the initial Cardano roadmap to try to balance all of these different types of concerns.
 
 ## References
 
