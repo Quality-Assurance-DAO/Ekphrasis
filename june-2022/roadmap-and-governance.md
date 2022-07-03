@@ -256,7 +256,7 @@ In fact, communities going to have a big event in Colorado, the [Rare Bloom](htt
 
 Community events just materializing out of thin air happened in Brazil \[Source ?].
 
-
+### Summing up
 
 [20:49](https://youtu.be/MwP-omMwd3A?t=1249)
 
@@ -264,9 +264,9 @@ It would have been nice to have a members based organization five years ago. Tha
 
 A resilient ecosystem should have the ability to course correct and get rid of bad actors, which is what happened. It did, unfortunately, leave us with a legacy structure that was never going to be fit for purpose as a members based organization. So I knew one had to be constructed and embedded inside a structure that made sense.&#x20;
 
-If you want to be part of it, a website is coming, Signups are coming. And we woulld love to have you there. If not, vote, your ADA gives you a voice, gives you a vote.&#x20;
+If you want to be part of it, a website is coming, Signups are coming. And we would love to have you there. If not, vote, your ADA gives you a voice, gives you a vote.&#x20;
 
-We wll do our best to try to provide objective guiding stars, like decentralisation, which is a foundational one.
+We wll do our best to try to provide objective guiding stars, like decentralization, which is a foundational one.
 
 
 
