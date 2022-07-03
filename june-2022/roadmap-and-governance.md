@@ -258,7 +258,7 @@ Community events just materializing out of thin air happened in Brazil \[Source 
 
 
 
-
+[20:49](https://youtu.be/MwP-omMwd3A?t=1249)
 
 It would have been nice to have a members based organization five years ago. That was the intent. But Michael Parsons (former Cardano Foundation Chairman) decided to focus more on his own needs than the community needs.&#x20;
 
