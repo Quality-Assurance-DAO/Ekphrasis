@@ -214,7 +214,9 @@ Some legacy has to be removed and cleaned up, some training wheels have to be cl
 
 ### The Edinburgh decentralization index
 
-nd the community is going to make sure that this gets done. But we need a North Star. And I thought a lot about this because you think about legacy, as you kind of figure finish out things and you just go back to your farm. So what is our North Star our guiding light behind these types of things? Well, the North Star is this concept of decentralization. came, that's one of them. There are many Northstars. But this is the big one that I think we can tackle this year. So we're setting up something called the Edinburgh decentralization index, it's going to be based at University of Edinburgh. And obviously, it's going to measure decentralization of cryptocurrencies.
+We need a North Star. So what is our North Star, our guiding light, behind these types of things? Well, the North Star is this concept of decentralization. That is one of them. There are many North stars. But decentralization is the big one that I think we can tackle this year.&#x20;
+
+So we are setting up something called the **Edinburgh decentralization index**, it's going to be based at University of Edinburgh. And obviously, it's going to measure decentralization of cryptocurrencies.
 
 ## References
 
