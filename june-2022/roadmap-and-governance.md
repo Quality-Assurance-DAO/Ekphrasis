@@ -230,7 +230,19 @@ Some of \[the decentralization score] might be great, some of it may not be so g
 
 &#x20;Then the [government steering committee](roadmap-and-governance.md#steering-committees) of the open source program \[[members based organisation](roadmap-and-governance.md#members-based-organization)] can make an agenda and strategy of how do we improve \[the decentralization score].&#x20;
 
-You have to have a collection of North Stars, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience, some of that is effectiveness and cost, some of that is use and utility. We did our best with the initial Cardano roadmap to try to balance all of these different types of concerns.
+You have to have a collection of North Stars, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience, some of that is effectiveness and cost, some of that is use and utility.&#x20;
+
+### Roadmap and Smart Contracts
+
+We did our best with the initial Cardano roadmap to try to balance all of these different types of concerns.
+
+It did not make everybody happy all the time. For example, being slow to market with smart contracts meant that Cardano missed a lot of the defi stuff that is happening today.
+
+And in 2021, people thought we were horrible and idiots. Now \[being slow to market] seems to actually be a benefit as the defi markets come collapsing down and exponential losses are occurring.&#x20;
+
+We did not play in those waters. And so we did not get bitten by those sharks. But that was out of an abundance of caution and we could have had smart contracts in the ecosystem a little earlier.
+
+But there would not have been as much careful thought put into the development model. And we would also be suffering from the many hacks, protocol design flaws and other problems that the cryptocurrency ecosystem is now working its way through. And \[these problems] may actually several major cryptocurrencies. It has already destroyed [Luna ](https://www.terra.money/)and it's destroyed [Celsius ](https://celsius.network/)and more to come as exponential risk continues to scale. So roadmaps are hard.
 
 ## References
 
