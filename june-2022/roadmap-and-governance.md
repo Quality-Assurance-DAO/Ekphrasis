@@ -156,7 +156,7 @@ That is effectively what the dReps (Delegated Representatives), SPOs (Stakepool 
 
 These are not pairwise disjoint sets \[mathematical analogy - see [pairwise disjoint sets](roadmap-and-governance.md#pairwise-disjoint-sets)] , there is an overlap, and that is a good thing.
 
-If you look at that set \[of people in the ecosystem] that is a very large group of people.
+If you look at that set \[of people in the ecosystem] that is a very large group of people. Okay, take the next step, join a members based organization, there is going to be governance committees, technical steering committees, growth and adoption committees.
 
 ## References
 
