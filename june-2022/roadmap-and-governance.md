@@ -234,6 +234,8 @@ You have to have a collection of North Stars, a constellation of stars, that all
 
 ### Roadmap and Smart Contracts
 
+[18:58](https://youtu.be/MwP-omMwd3A?t=1138)
+
 We did our best with the initial Cardano roadmap to try to balance all of these different types of concerns.
 
 It did not make everybody happy all the time. For example, being slow to market with smart contracts meant that Cardano missed a lot of the [defi ](https://www.investopedia.com/decentralized-finance-defi-5113835)stuff that is happening today.
