@@ -204,13 +204,17 @@ A lot of good people are working on this, and I can't wait to make the announcem
 
 [15:57](https://youtu.be/MwP-omMwd3A?t=957)
 
-Some house cleaning is needed in terms of the update committee and that has always been the case. And the proxy keys and partial delegation and so forth.&#x20;
+Some house cleaning is needed in terms of the update committee and that has always been the case. And the proxy keys (see [update keys](roadmap-and-governance.md#update-keys)) and partial delegation and so forth.&#x20;
 
 We still are number one for GitHub commits as an ecosystem. The push out \[rollout] of the Vasil Hard Fork even though it is complicated has been pretty seamless.&#x20;
 
 The reality is that Cardano is not controlled by a person, an entity or a collection of entities. It truly is one of the most decentralized of all cryptocurrencies because it has this gigantic super smart community that is working towards an end.&#x20;
 
 Some legacy has to be removed and cleaned up, some training wheels have to be clipped off. Sometimes it takes a little longer than you think. But there is an intent to do it.
+
+### The Edinburgh decentralization index
+
+nd the community is going to make sure that this gets done. But we need a North Star. And I thought a lot about this because you think about legacy, as you kind of figure finish out things and you just go back to your farm. So what is our North Star our guiding light behind these types of things? Well, the North Star is this concept of decentralization. came, that's one of them. There are many Northstars. But this is the big one that I think we can tackle this year. So we're setting up something called the Edinburgh decentralization index, it's going to be based at University of Edinburgh. And obviously, it's going to measure decentralization of cryptocurrencies.
 
 ## References
 
