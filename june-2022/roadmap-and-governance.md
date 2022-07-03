@@ -236,7 +236,7 @@ You have to have a collection of North Stars, a constellation of stars, that all
 
 We did our best with the initial Cardano roadmap to try to balance all of these different types of concerns.
 
-It did not make everybody happy all the time. For example, being slow to market with smart contracts meant that Cardano missed a lot of the defi stuff that is happening today.
+It did not make everybody happy all the time. For example, being slow to market with smart contracts meant that Cardano missed a lot of the [defi ](https://www.investopedia.com/decentralized-finance-defi-5113835)stuff that is happening today.
 
 And in 2021, people thought we were horrible and idiots. Now \[being slow to market] seems to actually be a benefit as the defi markets come collapsing down and exponential losses are occurring.&#x20;
 
