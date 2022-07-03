@@ -230,7 +230,7 @@ Some of \[the decentralization score] might be great, some of it may not be so g
 
 &#x20;Then the [government steering committee](roadmap-and-governance.md#steering-committees) of the open source program \[[members based organisation](roadmap-and-governance.md#members-based-organization)] can make an agenda and strategy of how do we improve \[the decentralization score].&#x20;
 
-You have to have a collection of North Stars, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience, some of that is effectiveness and cost, some of that is utility. We did our best with the initial Cardano roadmap to try to balance all of these different types of concerns.
+You have to have a collection of North Stars, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience, some of that is effectiveness and cost, some of that is use and utility. We did our best with the initial Cardano roadmap to try to balance all of these different types of concerns.
 
 ## References
 
