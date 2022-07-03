@@ -248,6 +248,8 @@ But there would not have been as much careful thought put into the development m
 
 ### Rare Bloom
 
+[20:20](https://youtu.be/MwP-omMwd3A?t=1220)
+
 You have to kind of wait for the right people to materialize. And now there are dReps (Delegated Representatives), there is a huge amount of SPOs (Stakepool Operators).&#x20;
 
 In fact, communities going to have a big event in Colorado, the [Rare Bloom](https://www.rarebloom.io/) event, I had nothing to do with putting it on, it might have more than 1000 or 2000 people.&#x20;
