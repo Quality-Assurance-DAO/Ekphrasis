@@ -135,7 +135,7 @@ To allow for people to consent to this we want to move to a Bicameral Model \[[B
 
 After the [Vasil ](roadmap-and-governance.md#vasil)hard fork, the next hard fork combinator will be a special type of update proposal (written to the [CIP ](roadmap-and-governance.md#cardanoimprovementproposalscips)standard) that will go to ADA holders to vote on. And then it gets signed by the [CIP ](roadmap-and-governance.md#cardanoimprovementproposalscips)committee.
 
-The update keys \[[update keys](roadmap-and-governance.md#update-keys)] were connected to the three entities of the [Tripartite Governance Structure](roadmap-and-governance.md#tripartite-governance-structure)  (Cardano Foundation, emurgo and IOHK).
+The update keys \[[update keys](roadmap-and-governance.md#update-keys)] were connected to the three entities of the [Tripartite Governance Structure](roadmap-and-governance.md#tripartite-governance-structure) (Cardano Foundation, emurgo and IOHK).
 
 The intent was always to create a decentralized update system. We wrote a paper \[Source ?] with a European Union Horizon 2020 grant to explore how to do that. And there is a lot of technical complexity in it.
 
@@ -145,7 +145,7 @@ A nice halfway house \[compromise] is to have a CIP committee that controls an M
 
 [10:31](https://youtu.be/MwP-omMwd3A?t=631)
 
-What do we mean by a merit based members organization ? Merit and Members organization.&#x20;
+What do we mean by a merit based members organization ? Merit and Members organization.
 
 Well either you pay or you work. Either you do something or you contribute some funding.
 
@@ -165,9 +165,9 @@ If you look at that set \[of people in the ecosystem] that is a very large group
 
 \[Our model will be] the work Dirk Hohndel did at the [Linux Foundation](https://www.linuxfoundation.org/) which runs over 140 plus projects from [Kubernetes](https://kubernetes.io/), to [Node ](https://nodejs.org/en/)to cryptocurrency projects like Fabric, the entire [Hyperledger ](https://www.hyperledger.org/)group, even an Ethereum node called [Besu](https://besu.hyperledger.org/en/stable/). So there is a lot of decentralization there. And there is a lot of organizational wisdom in these types of models. And that is basically what we're pursuing.
 
-In September 2022 we will have the first setup. Between now and September in July and August 2022 we are going to set up a website for signups.&#x20;
+In September 2022 we will have the first setup. Between now and September in July and August 2022 we are going to set up a website for signups.
 
-And then either you pay the membership fee to the \[member] organization, or you contribute some sort of work or both.&#x20;
+And then either you pay the membership fee to the \[member] organization, or you contribute some sort of work or both.
 
 ### More people working for Cardano
 
@@ -181,10 +181,9 @@ I told [Harris Warren](https://iohk.io/en/team/harris-warren) at Project Catalys
 
 I'd also like to see 10 to 15 full time engineers working directly for Cardano, paid for by Cardano. This will be a big part of Catalyst Fund 10.
 
-It is time to get a complete group of people that work for Cardano. That is the entire point of the system. With this members based organization it is pretty easy to do that because the members can be directly funded from Project Catalysts after \[the new Challenge] has started. \
+It is time to get a complete group of people that work for Cardano. That is the entire point of the system. With this members based organization it is pretty easy to do that because the members can be directly funded from Project Catalysts after \[the new Challenge] has started. \\
 
-
-It is good to have individuals in addition to companies working for Cardano. It creates checks and balances. So if you have the technical abilities to write code or the ability to read scripts then you can be part of that process. Jobs are opening up. Coming very soon before the end of the year.&#x20;
+It is good to have individuals in addition to companies working for Cardano. It creates checks and balances. So if you have the technical abilities to write code or the ability to read scripts then you can be part of that process. Jobs are opening up. Coming very soon before the end of the year.
 
 I guess what I'm trying to convey is that it is a lot of cleanup.
 
@@ -194,9 +193,9 @@ I guess what I'm trying to convey is that it is a lot of cleanup.
 
 It has gotten to the juncture \[to the point] where we are about to have a major inflection point \[change] where this structure \[the [Tripartite Governance Structure](roadmap-and-governance.md#tripartite-governance-structure)] is gone.
 
-There has been an enormous amount of learning along the way. I would have done things very differently if I got to do the project again. But, to be fair, we had to live through seven years of history. And, we had to go through a lot of events to get to this point.&#x20;
+There has been an enormous amount of learning along the way. I would have done things very differently if I got to do the project again. But, to be fair, we had to live through seven years of history. And, we had to go through a lot of events to get to this point.
 
-The fact that we are now about to see the existence of a massive members based organization, that is going to provide proper representation of the community for roadmap, strategy etc. and has a consent component from voting is pretty exciting to me.&#x20;
+The fact that we are now about to see the existence of a massive members based organization, that is going to provide proper representation of the community for roadmap, strategy etc. and has a consent component from voting is pretty exciting to me.
 
 A lot of good people are working on this, and I can't wait to make the announcement September 2022. I will be at some event for that. I cannot say anything about it right now. I have signed a mutual NDA (non disclosure agreement) with the Cardano Foundation.
 
@@ -204,11 +203,11 @@ A lot of good people are working on this, and I can't wait to make the announcem
 
 [15:57](https://youtu.be/MwP-omMwd3A?t=957)
 
-Some house cleaning is needed in terms of the update committee and that has always been the case. And the proxy keys (see [update keys](roadmap-and-governance.md#update-keys)) and partial delegation and so forth.&#x20;
+Some house cleaning is needed in terms of the update committee and that has always been the case. And the proxy keys (see [update keys](roadmap-and-governance.md#update-keys)) and partial delegation and so forth.
 
-We still are number one for GitHub commits as an ecosystem. The push out \[rollout] of the Vasil Hard Fork even though it is complicated has been pretty seamless.&#x20;
+We still are number one for GitHub commits as an ecosystem. The push out \[rollout] of the Vasil Hard Fork even though it is complicated has been pretty seamless.
 
-The reality is that Cardano is not controlled by a person, an entity or a collection of entities. It truly is one of the most decentralized of all cryptocurrencies because it has this gigantic super smart community that is working towards an end.&#x20;
+The reality is that Cardano is not controlled by a person, an entity or a collection of entities. It truly is one of the most decentralized of all cryptocurrencies because it has this gigantic super smart community that is working towards an end.
 
 Some legacy has to be removed and cleaned up, some training wheels have to be clipped off. Sometimes it takes a little longer than you think. But there is an intent to do it.
 
@@ -216,21 +215,23 @@ Some legacy has to be removed and cleaned up, some training wheels have to be cl
 
 [17:00](https://youtu.be/MwP-omMwd3A?t=1021)
 
-We need a North Star. So what is our North Star, our guiding light, behind these types of things? Well, the North Star is this concept of decentralization. That is one of them. There are many North stars. But decentralization is the big one that I think we can tackle this year.&#x20;
+We need a North Star. So what is our North Star, our guiding light, behind these types of things? Well, the North Star is this concept of decentralization. That is one of them. There are many North stars. But decentralization is the big one that I think we can tackle this year.
 
 So we are setting up something called the **Edinburgh decentralization index (EDI)**, it's going to be based at University of Edinburgh ([Blockchain Technology Laboratory network](https://www.ed.ac.uk/informatics/blockchain) & [IOHK Research Library](https://iohk.io/en/research/library/)). And obviously, it's going to measure decentralization of cryptocurrencies.
 
+{% hint style="info" %}
 \[In this GitBook see also [How to Measure Decentralisation?](../july-2021/how-to-measure-decentralisation.md)]
+{% endhint %}
 
-Throughout the summer, papers are going to be written, a lab is going to be set up governed by the University of Edinburgh. And the team at the lab is going to start with [Bitcoin](https://bitcoin.org/en/), then [Ethereum ](https://ethereum.org/en/)and then move on to Cardano.&#x20;
+Throughout the summer, papers are going to be written, a lab is going to be set up governed by the University of Edinburgh. And the team at the lab is going to start with [Bitcoin](https://bitcoin.org/en/), then [Ethereum ](https://ethereum.org/en/)and then move on to Cardano.
 
 They will keep going and create a decentralization index and we do not know where we are going to fall on this index.
 
 Some of \[the decentralization score] might be great, some of it may not be so great. It will be aggregated together and we will get a score.
 
-&#x20;Then the [government steering committee](roadmap-and-governance.md#steering-committees) of the open source program \[[members based organisation](roadmap-and-governance.md#members-based-organization)] can make an agenda and strategy of how do we improve \[the decentralization score].&#x20;
+Then the [government steering committee](roadmap-and-governance.md#steering-committees) of the open source program \[[members based organisation](roadmap-and-governance.md#members-based-organization)] can make an agenda and strategy of how do we improve \[the decentralization score].
 
-You have to have a collection of North Stars, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience, some of that is effectiveness and cost, some of that is use and utility.&#x20;
+You have to have a collection of North Stars, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience, some of that is effectiveness and cost, some of that is use and utility.
 
 ### Roadmap and Smart Contracts
 
@@ -240,7 +241,7 @@ We did our best with the initial Cardano roadmap to try to balance all of these 
 
 It did not make everybody happy all the time. For example, being slow to market with smart contracts meant that Cardano missed a lot of the [defi ](https://www.investopedia.com/decentralized-finance-defi-5113835)stuff that is happening today.
 
-And in 2021, people thought we were horrible and idiots. Now \[being slow to market] seems to actually be a benefit as the defi markets come collapsing down and exponential losses are occurring.&#x20;
+And in 2021, people thought we were horrible and idiots. Now \[being slow to market] seems to actually be a benefit as the defi markets come collapsing down and exponential losses are occurring.
 
 We did not play in those waters. And so we did not get bitten by those sharks. But that was out of an abundance of caution and we could have had smart contracts in the ecosystem a little earlier.
 
@@ -250,9 +251,9 @@ But there would not have been as much careful thought put into the development m
 
 [20:20](https://youtu.be/MwP-omMwd3A?t=1220)
 
-You have to kind of wait for the right people to materialize. And now there are dReps (Delegated Representatives), there is a huge amount of SPOs (Stakepool Operators).&#x20;
+You have to kind of wait for the right people to materialize. And now there are dReps (Delegated Representatives), there is a huge amount of SPOs (Stakepool Operators).
 
-In fact, communities going to have a big event in Colorado, the [Rare Bloom](https://www.rarebloom.io/) event, I had nothing to do with putting it on, it might have more than 1000 or 2000 people.&#x20;
+In fact, communities going to have a big event in Colorado, the [Rare Bloom](https://www.rarebloom.io/) event, I had nothing to do with putting it on, it might have more than 1000 or 2000 people.
 
 Community events just materializing out of thin air happened in Brazil \[Source ?].
 
@@ -260,11 +261,11 @@ Community events just materializing out of thin air happened in Brazil \[Source 
 
 [20:49](https://youtu.be/MwP-omMwd3A?t=1249)
 
-It would have been nice to have a members based organization five years ago. That was the intent. But Michael Parsons (former Cardano Foundation Chairman) decided to focus more on his own needs than the community needs.&#x20;
+It would have been nice to have a members based organization five years ago. That was the intent. But Michael Parsons (former Cardano Foundation Chairman) decided to focus more on his own needs than the community needs.
 
-A resilient ecosystem should have the ability to course correct and get rid of bad actors, which is what happened. It did, unfortunately, leave us with a legacy structure that was never going to be fit for purpose as a members based organization. So I knew one had to be constructed and embedded inside a structure that made sense.&#x20;
+A resilient ecosystem should have the ability to course correct and get rid of bad actors, which is what happened. It did, unfortunately, leave us with a legacy structure that was never going to be fit for purpose as a members based organization. So I knew one had to be constructed and embedded inside a structure that made sense.
 
-If you want to be part of it, a website is coming, Signups are coming. And we would love to have you there. If not, vote, your ADA gives you a voice, gives you a vote.&#x20;
+If you want to be part of it, a website is coming, Signups are coming. And we would love to have you there. If not, vote, your ADA gives you a voice, gives you a vote.
 
 We wll do our best to try to provide objective guiding stars, like decentralization, which is a foundational one.
 
@@ -274,37 +275,37 @@ We wll do our best to try to provide objective guiding stars, like decentralizat
 
 We are all on this journey together. From an idea in 2015, on a whiteboard to this technological Leviathan. Cardano has really been the moon landing of the blockchain ecosystem. We wrote more than 100 papers. So much code brought together a global movement. Some of the brightest people in the world have worked on this project or continue to work on this project. And we paid homage to great people along the way like [Voltaire](https://en.wikipedia.org/wiki/Voltaire), and [Basho](https://en.wikipedia.org/wiki/Matsuo\_Bash%C5%8D).
 
-We tried to stay true to some basic concepts and principles about a desire to increasingly decentralize and build up a group of people that are going to be here for a long time.&#x20;
+We tried to stay true to some basic concepts and principles about a desire to increasingly decentralize and build up a group of people that are going to be here for a long time.
 
-&#x20;believe we have the strongest community of any cryptocurrency and we'll continue to have the strongest community because people really get the intention and where we're going.&#x20;
+believe we have the strongest community of any cryptocurrency and we'll continue to have the strongest community because people really get the intention and where we're going.
 
-It has been difficult at times. It was a hell of a job getting Shelley out. There was a lot of work there. And Goguen hasn't exactly been the easiest of things.&#x20;
+It has been difficult at times. It was a hell of a job getting Shelley out. There was a lot of work there. And Goguen hasn't exactly been the easiest of things.
 
 \[ ...]
 
 #### Real Fi (Real Finance)
 
-And then I get to the business of Real Fi (real finance), which is what I've always wanted to do.&#x20;
+And then I get to the business of Real Fi (real finance), which is what I've always wanted to do.
 
-I built Cardano so that I could go and bank the unbanked and get 3 billion people to have a financial operating system that they do not have right now. That's my personal mission.&#x20;
+I built Cardano so that I could go and bank the unbanked and get 3 billion people to have a financial operating system that they do not have right now. That's my personal mission.
 
-Doesn't have to be yours. Cardano is an open protocol. Anybody can use it any way that they want to use it. I built it for that purpose.&#x20;
+Doesn't have to be yours. Cardano is an open protocol. Anybody can use it any way that they want to use it. I built it for that purpose.
 
-#### Bear markets&#x20;
+#### Bear markets
 
-It's a great time to do it. bear markets are where everybody gets much more collaborative, more people are willing to join and work with you. And people will actually pick up the phone. Bull markets are crazy. Poaching is at an all time high, people are very hostile, extremely negative language is used and inhuman things happen.&#x20;
+It's a great time to do it. bear markets are where everybody gets much more collaborative, more people are willing to join and work with you. And people will actually pick up the phone. Bull markets are crazy. Poaching is at an all time high, people are very hostile, extremely negative language is used and inhuman things happen.
 
 #### Maximalism
 
-&#x20;I'll never quite get used to the arrogant, maximalism and brutal comments that people make, or the betrayals.&#x20;
+I'll never quite get used to the arrogant, maximalism and brutal comments that people make, or the betrayals.
 
-But I have gotten used to the fact that people behave differently when economic incentives are aligned that way, it is what it is, and you accept it.&#x20;
+But I have gotten used to the fact that people behave differently when economic incentives are aligned that way, it is what it is, and you accept it.
 
 #### Member based organization legal structures
 
 So come July and August, websites coming out and if you want to be part of the members based organization. Go ahead and sign up and then we can enroll you in September and make an announcement of the name of the organization, how it is going to work and the legal structures behind it. A lot of little things need to be done, like legal wrappers.
 
-So it is a lot of cleanup, as I mentioned, and post Vasil on the code side an enormous amount of cleanup, technical debt reduction, re-architecture. And then we are pushing for a lot of the backlog to of work its way through.&#x20;
+So it is a lot of cleanup, as I mentioned, and post Vasil on the code side an enormous amount of cleanup, technical debt reduction, re-architecture. And then we are pushing for a lot of the backlog to of work its way through.
 
 ## References
 
@@ -399,7 +400,7 @@ _Plutus Application Backend_
 
 {% embed url="https://cardano.stackexchange.com/questions/4626/what-are-input-endorsers-and-how-do-they-make-cardano-more-scalable" %}
 
-### Update keys&#x20;
+### Update keys
 
 #### Cardano Treasury with Kevin Hammond - A Catalyst Town Hall Presentation on the Cardano Treasury with an After Town Hall Q\&A
 
@@ -410,5 +411,3 @@ _Plutus Application Backend_
 June 20th 2022
 
 {% embed url="https://iohk.io/en/blog/posts/2022/06/20/vasil-upgrade-the-state-of-play/" %}
-
-
