@@ -229,7 +229,7 @@ They will keep going and create a decentralization index and we do not know wher
 
 Some of \[the decentralization score] might be great, some of it may not be so great. It will be aggregated together and we will get a score.
 
-Then the [government steering committee](roadmap-and-governance.md#steering-committees) of the open source program \[[members based organisation](roadmap-and-governance.md#members-based-organization)] can make an agenda and strategy of how do we improve \[the decentralization score].
+Then the governance steering committee of the open source program \[[members based organisation](roadmap-and-governance.md#members-based-organization)] can make an agenda and strategy of how do we improve \[the decentralization score].
 
 You have to have a collection of North Stars, a constellation of stars, that allow you to steer the project in a particular direction. Some of that is decentralization, some of that is resilience, some of that is effectiveness and cost, some of that is use and utility.
 
