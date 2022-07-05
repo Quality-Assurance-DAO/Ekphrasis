@@ -181,7 +181,7 @@ I told [Harris Warren](https://iohk.io/en/team/harris-warren) at Project Catalys
 
 I'd also like to see 10 to 15 full time engineers working directly for Cardano, paid for by Cardano. This will be a big part of Catalyst Fund 10.
 
-It is time to get a complete group of people that work for Cardano. That is the entire point of the system. With this members based organization it is pretty easy to do that because the members can be directly funded from Project Catalysts after \[the new Challenge] has started. \\
+It is time to get a complete group of people that work for Cardano. That is the entire point of the system. With this members based organization it is pretty easy to do that because the members can be directly funded from Project Catalysts after \[the new Challenge] has started.
 
 It is good to have individuals in addition to companies working for Cardano. It creates checks and balances. So if you have the technical abilities to write code or the ability to read scripts then you can be part of that process. Jobs are opening up. Coming very soon before the end of the year.
 
@@ -220,7 +220,7 @@ We need a North Star. So what is our North Star, our guiding light, behind these
 So we are setting up something called the **Edinburgh decentralization index (EDI)**, it's going to be based at University of Edinburgh ([Blockchain Technology Laboratory network](https://www.ed.ac.uk/informatics/blockchain) & [IOHK Research Library](https://iohk.io/en/research/library/)). And obviously, it's going to measure decentralization of cryptocurrencies.
 
 {% hint style="info" %}
-\[In this GitBook see also [How to Measure Decentralisation?](../july-2021/how-to-measure-decentralisation.md)]
+In this GitBook see also [How to Measure Decentralisation?](../july-2021/how-to-measure-decentralisation.md)
 {% endhint %}
 
 Throughout the summer, papers are going to be written, a lab is going to be set up governed by the University of Edinburgh. And the team at the lab is going to start with [Bitcoin](https://bitcoin.org/en/), then [Ethereum ](https://ethereum.org/en/)and then move on to Cardano.
