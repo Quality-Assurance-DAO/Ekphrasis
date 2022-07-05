@@ -58,9 +58,9 @@ Vasil is the first Goguen clean-up hard fork. Better [PAB ](https://plutus-apps.
 [https://roadmap.cardano.org/en/basho/](https://roadmap.cardano.org/en/basho/)
 {% endhint %}
 
-Sidechains. Paper coming out August 2022 explain how we upgrade OPST to do quorum sampling.
+Sidechains. A paper is coming out in August 2022 explaining how we upgrade OPST to do quorum sampling.
 
-[Mithril ](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/)\[protocol acts as a stake-based threshold signature scheme allowing for transparent, secure, and lightweight stake leveraging]. Is under construction with a two week release cadence.
+[Mithril ](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/)\[protocol acts as a stake-based threshold signature scheme allowing for transparent, secure, and lightweight stake leveraging] is under construction with a two week release cadence.
 
 [Input Endorsers ](https://cardano.stackexchange.com/questions/4626/what-are-input-endorsers-and-how-do-they-make-cardano-more-scalable)\["The core idea of input endorsers is to separate transaction selection from block production."]. Work in summer on Input Endorsers official specification will rely heavily on Mithril and it's UTXO \[[Unspent Transaction Output](https://docs.cardano.org/plutus/eutxo-explainer)].
 
