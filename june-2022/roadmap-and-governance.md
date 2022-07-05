@@ -121,7 +121,7 @@ There will be an announcement about the specific structure of the members based 
 This organization will have -
 
 * A governance steering committee (GSC).
-* A technical steering committe (TSC).
+* A technical steering committee (TSC).
 * Other committees - related to growth and adoption.
 * A CIP (Cardano Improvement Process) committee.
 
