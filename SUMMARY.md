@@ -111,3 +111,7 @@
 ## February 2018
 
 * [An Introduction to Liquid Democracy](february-2018/an-introduction-to-liquid-democracy.md)
+
+## July 2022
+
+* [Why and How we SubDAO](july-2022/why-and-how-we-subdao.md)
