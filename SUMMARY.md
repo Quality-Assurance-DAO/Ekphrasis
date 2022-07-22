@@ -15,6 +15,10 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
+## July 2022
+
+* [Why and How we SubDAO](july-2022/why-and-how-we-subdao.md)
+
 ## June 2022
 
 * [Roadmap and Governance](june-2022/roadmap-and-governance.md)
@@ -111,7 +115,3 @@
 ## February 2018
 
 * [An Introduction to Liquid Democracy](february-2018/an-introduction-to-liquid-democracy.md)
-
-## July 2022
-
-* [Why and How we SubDAO](july-2022/why-and-how-we-subdao.md)
