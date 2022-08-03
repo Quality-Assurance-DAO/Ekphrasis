@@ -98,10 +98,6 @@
 
 * [A Treasury System for Cryptocurrencies](february-2019/a-treasury-system-for-cryptocurrencies.md)
 
-## September 2018
-
-* [Autonomous Economic Agents](september-2018/autonomous-economic-agents.md)
-
 ## February 2014
 
 * [Democracy, Redistribution, and Political Participation](february-2014/democracy-redistribution-and-political-participation.md)

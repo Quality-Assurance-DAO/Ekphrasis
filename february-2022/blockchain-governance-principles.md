@@ -183,7 +183,7 @@ The authors conclude that in respect of accountability in Catalyst there are no 
 
 ## E) Sustainability - Incentive properties
 
-![](<../.gitbook/assets/2022-02-17 (11).png>)
+![](<../.gitbook/assets/2022-02-17 (11) (1).png>)
 
 The Sustainability properties address the issue of whether appropriate incentives are provided for the system to evolve constructively and to the stakeholders for providing meaningful input.
 
