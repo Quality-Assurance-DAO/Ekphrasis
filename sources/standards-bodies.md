@@ -1,5 +1,15 @@
 # Standards Bodies
 
+## Regulation
+
+### European Union Regulation
+
+[Proposal for a Regulation of the European Parliament and of the Council on Markets in Crypto-assets](https://data.consilium.europa.eu/doc/document/ST-13198-2022-INIT/en/pdf)&#x20;
+
+{% embed url="https://data.consilium.europa.eu/doc/document/ST-13198-2022-INIT/en/pdf" %}
+
+
+
 ## The Global Blockchain Business Council (GBBC)
 
 {% embed url="https://gbbcouncil.org" %}
