@@ -15,6 +15,10 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
+***
+
+* [Empowering community-driven governance on Cardano](empowering-community-driven-governance-on-cardano.md)
+
 ## July 2022
 
 * [Why and How we SubDAO](july-2022/why-and-how-we-subdao.md)
