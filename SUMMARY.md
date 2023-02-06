@@ -115,3 +115,7 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
+
+## January 2023
+
+* [Decision Making](january-2023/decision-making.md)
