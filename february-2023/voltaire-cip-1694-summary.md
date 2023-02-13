@@ -77,3 +77,26 @@ The **Constitution** (a brief outline of intent) and **The Constitutional Commit
 **Votes** - detail of a vote transaction, the lifecycle of on-chain governance states and epoch boundaries&#x20;
 
 **Delegated Representatives (dReps)** - detail on DRep registration and retirement certificates and a Vote delegation certificate, a New Stake Distribution for DReps and changes to the existing ledger rules
+
+### What motivated this CIP ?
+
+<figure><img src="../.gitbook/assets/CIP-1694-08.png" alt=""><figcaption></figcaption></figure>
+
+The motivation behind CIP-1694 is to address shortcomings in the existing Cardano governance mechanism which modifies parameter values (incl. Hard forks) and transfers ADA between reserves and the treasury. These shortcomings include :
+
+1. no room for active participation of ADA holders
+2. Transfers from treasury can be hard to track ands lack transparency
+3. Hard forks are not sufficiency differentiated from other protocol changes
+4. No clearly defined common vision or guiding principles
+
+### What next ?
+
+<figure><img src="../.gitbook/assets/CIP-1694-09.png" alt=""><figcaption></figcaption></figure>
+
+Discussion and review of the Specification is encouraged across the Cardano community in order to inform appropriate revisions to this governance model.
+
+QA-DAO supports this objective by contributing to the broad communication and explanation of the Specification with this summary and subsequent presentations.
+
+Full documentation of this presentation is available on QA-DAO’s Ekphrasis GitBook
+
+Thank you
