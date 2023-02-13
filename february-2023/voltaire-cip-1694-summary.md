@@ -63,3 +63,17 @@ Any Cardano user will be allowed to submit a governance action which will then b
 The ratified actions will then be enforced on the blockchain through a set of rules.&#x20;
 
 ADA holders can register as DReps or SPOs to either represent themselves or to delegate their vote, with the voting rights based on the amount of ADA held.
+
+### The Specification&#x20;
+
+<figure><img src="../.gitbook/assets/CIP-1694-07.png" alt=""><figcaption></figcaption></figure>
+
+The current specification draft (as of February 2023) documents the following :&#x20;
+
+The Constitution (a brief outline of intent) and The Constitutional Committee - an overview of the combined governance group and its remit&#x20;
+
+Governance Actions - the different types of on-chain events that are governance actions. These include a Motion of no-confidence, New Constitutional Committees and/or quorum size, Updates to the Constitution, Hard-Fork Initiation, Protocol Parameter Changes and Treasury Withdrawals&#x20;
+
+Votes - detail of a vote transaction, the lifecycle of on-chain governance states and epoch boundaries&#x20;
+
+Delegated Representatives (dReps) - detail on DRep registration and retirement certificates and a Vote delegation certificate, a New Stake Distribution for DReps and changes to the existing ledger rules
