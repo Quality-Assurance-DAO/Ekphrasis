@@ -2,7 +2,7 @@
 description: Blockchain Governance on Cardano. The Voltaire era
 ---
 
-# Voltaire CIP-1694
+# Voltaire CIP-1694 Summary
 
 <figure><img src="../.gitbook/assets/CIP-1694-01.png" alt=""><figcaption></figcaption></figure>
 
@@ -35,6 +35,8 @@ QA-DAO is a community organization that provides the following services :&#x20;
 You can support our work by delegating to our Cardano Stakepool QADAO, subscribing to our YouTube channel at https://www.youtube.com/@qadao and follow us on Twitter at @qa\_dao for the latest announcements.
 
 ### Background
+
+<figure><img src="../.gitbook/assets/CIP-1694-04.png" alt=""><figcaption></figcaption></figure>
 
 In November 2022 a Cardano Improvement Proposal (CIP) titled “An On-Chain Decentralized Governance Mechanism for Voltaire” was submitted to the Cardano Foundation’s [“CIPS” GitHub Repository](https://github.com/cardano-foundation/CIPs)
 
