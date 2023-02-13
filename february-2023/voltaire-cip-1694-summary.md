@@ -4,6 +4,8 @@ description: Blockchain Governance on Cardano. The Voltaire era
 
 # Voltaire CIP-1694 Summary
 
+{% embed url="https://youtu.be/fe9XvezpdbI" %}
+
 <figure><img src="../.gitbook/assets/CIP-1694-01.png" alt=""><figcaption></figcaption></figure>
 
 Cardano is a blockchain platform and cryptocurrency that was developed to provide a more secure and sustainable infrastructure for decentralized applications and digital assets. It is based on the proof-of-stake consensus algorithm and utilizes smart contracts, which allow developers to build decentralized applications on the platform.
