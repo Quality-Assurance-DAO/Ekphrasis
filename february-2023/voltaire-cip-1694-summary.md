@@ -43,3 +43,23 @@ You can support our work by delegating to our Cardano Stakepool QADAO, subscribi
 In November 2022 a Cardano Improvement Proposal (CIP) titled “An On-Chain Decentralized Governance Mechanism for Voltaire” was submitted to the Cardano Foundation’s [“CIPS” GitHub Repository](https://github.com/cardano-foundation/CIPs)
 
 From the outset Community Feedback has been sought encouraged by both IOG - [https://twitter.com/IOHK\_Charles/status/1595459431164424195](https://twitter.com/IOHK\_Charles/status/1595459431164424195) and the Cardano Foundation on the Voltaire CIP.
+
+### What is a CIP ? (Cardano Improvement Proposal)
+
+<figure><img src="../.gitbook/assets/CIP-1694-05.png" alt=""><figcaption></figcaption></figure>
+
+A CIP is “formalised design document for the Cardano community and the name of the process by which such documents are produced and listed” - https://cips.cardano.org/ The CIP process itself was defined and agreed in CIP 1 - https://cips.cardano.org/cips/cip1&#x20;
+
+### What is CIP-1694 ?
+
+<figure><img src="../.gitbook/assets/CIP-1694-06.png" alt=""><figcaption></figcaption></figure>
+
+In summary the abstract for CIP-1694 proposes a revision of Cardano’s existing governance (the blockchain).&#x20;
+
+Two new fields will be added to on-chain transactions : 1) governance actions and 2) votes.&#x20;
+
+Any Cardano user will be allowed to submit a governance action which will then be ratified by a constitutional committee, delegated representatives (DReps) and Stakepool operators (SPOs).&#x20;
+
+The ratified actions will then be enforced on the blockchain through a set of rules.&#x20;
+
+ADA holders can register as DReps or SPOs to either represent themselves or to delegate their vote, with the voting rights based on the amount of ADA held.
