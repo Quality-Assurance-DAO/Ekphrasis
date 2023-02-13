@@ -17,7 +17,7 @@
 
 ## February 2023
 
-* [Voltaire CIP-1694](february-2023/voltaire-cip-1694.md)
+* [Voltaire CIP-1694 Summary](february-2023/voltaire-cip-1694-summary.md)
 
 ## January 2023
 
