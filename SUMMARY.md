@@ -15,6 +15,14 @@
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
+## February 2023
+
+* [Voltaire CIP-1694](february-2023/voltaire-cip-1694.md)
+
+## January 2023
+
+* [Decision Making](january-2023/decision-making.md)
+
 ## December 2022
 
 * [Empowering community-driven governance on Cardano](december-2022/empowering-community-driven-governance-on-cardano.md)
@@ -115,7 +123,3 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
-
-## January 2023
-
-* [Decision Making](january-2023/decision-making.md)
