@@ -22,6 +22,8 @@ This presentation by Quality Assurance DAO (QA-DAO) is a summary of CIP-1694.
 
 ### QA-DAO
 
+<figure><img src="../.gitbook/assets/CIP-1694-03.png" alt=""><figcaption></figcaption></figure>
+
 QA-DAO is a community organization that provides the following services :&#x20;
 
 * Documentation and Communication,&#x20;
