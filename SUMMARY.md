@@ -18,6 +18,7 @@
 ## February 2023
 
 * [Voltaire CIP-1694 Summary](february-2023/voltaire-cip-1694-summary.md)
+* [Voltaire CIP-1694 Specification](february-2023/voltaire-cip-1694-specification.md)
 
 ## January 2023
 
