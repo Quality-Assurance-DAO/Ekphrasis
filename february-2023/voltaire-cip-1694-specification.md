@@ -42,7 +42,7 @@ The first or Initial Constitutional Committee is likely to be composed of foundi
 
 The extent of share of participation from the founding entities and how community actors are defined as “key” and selected is not specified.
 
-**Constitutional Committee States**
+#### **Constitutional Committee States**
 
 The Constitutional Committee has two possible states. One, a normal state (i.e. one of confidence) and Two, a state of no-confidence.
 
@@ -54,22 +54,20 @@ The draft specification states the intention to re-use Cardano’s existing "gen
 
 See also - https://research.csiro.au/blockchainpatterns/general-patterns/self-sovereign-identity-patterns/hot-and-cold-wallet-storage/
 
-**Replacement of the Constitutional Committee**
+#### **Replacement of the Constitutional Committee**
 
 The Constitutional Committee can be replaced either&#x20;
 
 * through a specific governance action when in a normal state (ie a state of confidence). This requires the approval of the current Constitutional Committee and the DReps.
-* Or when a state of no-confidence via a specific governance action that requires the approval of the SPOs and the DReps.\
-  \
+* Or when a state of no-confidence via a specific governance action that requires the approval of the SPOs and the DReps.
 
-
-**Size of the Constitutional Committee**
+#### **Size of the Constitutional Committee**
 
 “The size of the Constitutional Committee and its quorum (the number of votes that are required to enact governance actions) is not fixed and can be varied whenever a new committee is installed.”
 
 In this context a quorum is a minimum number of votes required to enact governance actions. In general having a quorum helps to ensure that decisions are made with the participation of a representative group of participants, rather than just a small minority. A similar consideration applies to the size of the Constitutional Committee.
 
-### Governance Actions
+## Governance Actions
 
 A governance action is a blockchain parameter (“on-chain event”) triggered by a time-limited transaction (“has a deadline after which it cannot be enacted”).
 
@@ -87,7 +85,7 @@ The range of governance actions are as follows :&#x20;
 \
 
 
-#### Who can submit a Governance Action ?
+### Who can submit a Governance Action ?
 
 Any Ada holder can submit a governance action to the chain. A deposit of Lovelace is required, which will be returned when the action is finalized (whether it is ratified, has been dropped, or has expired).
 
@@ -95,7 +93,7 @@ The “motion of no-confidence” action is an extreme measure that enables Ada 
 
 In the case of other governance actions, voting takes place, followed by ratification or expiry.
 
-### Votes
+## Votes
 
 A vote takes the form of a transaction on the Cardano blockchain. Each vote transaction consists of -
 
@@ -109,7 +107,7 @@ A vote takes the form of a transaction on the Cardano blockchain. Each vote tran
 \
 
 
-#### Voting Mechanism
+### Voting Mechanism
 
 The key hash will trigger the appropriate signature check on the transaction body according to the existing UTxOW ledger rule.
 
@@ -121,7 +119,7 @@ As soon as a governance action is ratified, voting ends.&#x20;
 
 No further votes are considered or recorded
 
-#### Governance State
+### Governance State
 
 When a governance action is successfully submitted to the chain, its progress will be tracked by the ledger state. In particular, the following will be tracked:
 
@@ -131,17 +129,17 @@ When a governance action is successfully submitted to the chain, its progress wi
 * the rewards address that will receive the deposit when it is returned;
 * the total yes/no/abstain votes of the Constitutional Committee, the DReps or the SPOs for this action.
 
-**Ledger epochs**
+### **Ledger epochs**
 
 An epoch on the Cardano ledger is a time division that regulates the production of blocks as part of a transaction validation process.
 
 (See also - https://developers.cardano.org/docs/stake-pool-course/introduction-to-cardano/#slots-and-epochs)
 
-**Stale Votes**
+### **Stale Votes**
 
 Votes (a vote transaction) from DReps and SPOs may become meaningless as the epoch expiry date is crossed and they become unregistered.  Therefore, all unregistered votes are cancelled before any new votes are considered.
 
-**Changes to the Stake Snapshot**
+### **Changes to the Stake Snapshot**
 
 The stake snapshot changes at each epoch boundary, therefore a new current voting tally must be calculated for each governance action based on the votes that have been cast before any new votes are counted.&#x20;
 
@@ -149,7 +147,7 @@ This avoids the same stake being used two or more times.
 
 Given the status of the governance state this new tally may result in immediate ratification of a governance action.
 
-### Delegated Representatives (DReps)
+## Delegated Representatives (DReps)
 
 “Voltaire” DReps not Project Catalyst dReps
 
@@ -162,11 +160,11 @@ These will comprise DRep registration and retirement certificates and a Vote del
 \
 
 
-**New Stake Distribution for DReps**
+### **New Stake Distribution for DReps**
 
 A new stake distribution for DReps will determine what ADA (Lovelace) transactions are active for voting, whether DReps have a sufficient active voting stake and whether a vote threshold has been met.
 
-**DRep incentives**
+### **DRep incentives**
 
 If DReps are to be compensated for their work corresponding incentive mechanisms will need to be specified with funds coming from the per-epoch treasury allocation.&#x20;
 
@@ -180,7 +178,7 @@ Some options to ensure a manageable number of DReps include:
 
 
 
-**New Parameter Changes**
+## **New Parameter Changes**
 
 New protocol parameters will be needed for the following:
 
@@ -192,8 +190,4 @@ New protocol parameters will be needed for the following:
 \
 
 
-**Changes to the existing ledger rules**
-
-The PPUP transition rule will be rewritten and moved out of the UTxO rule and into the LEDGER rule as a new TALLY rule.\
-\
-It will process the governance actions and the votes, ratify them, and stage governance actions for enactment in
+****
