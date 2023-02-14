@@ -153,6 +153,8 @@ When a governance action is successfully submitted to the chain, its progress wi
 
 ### **Ledger epochs**
 
+<figure><img src="../.gitbook/assets/Spec-15.png" alt=""><figcaption></figcaption></figure>
+
 An epoch on the Cardano ledger is a time division that regulates the production of blocks as part of a transaction validation process.
 
 (See also - https://developers.cardano.org/docs/stake-pool-course/introduction-to-cardano/#slots-and-epochs)
@@ -170,6 +172,8 @@ This avoids the same stake being used two or more times.
 Given the status of the governance state this new tally may result in immediate ratification of a governance action.
 
 ## Delegated Representatives (DReps)
+
+<figure><img src="../.gitbook/assets/Spec-16.png" alt=""><figcaption></figcaption></figure>
 
 “Voltaire” DReps not Project Catalyst dReps
 
