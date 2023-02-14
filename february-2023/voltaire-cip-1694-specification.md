@@ -54,6 +54,8 @@ The extent of share of participation from the founding entities and how communit
 
 #### **Constitutional Committee States**
 
+<figure><img src="../.gitbook/assets/Spec-06.png" alt=""><figcaption></figcaption></figure>
+
 The Constitutional Committee has two possible states. One, a normal state (i.e. one of confidence) and Two, a state of no-confidence.
 
 The state of no-confidence is a kind of fail-safe that prevents the current committee from participating in any governance actions. This state voids any outstanding governance actions and requires a committee replacement to continue the work of governance.
@@ -66,6 +68,8 @@ See also - https://research.csiro.au/blockchainpatterns/general-patterns/self-so
 
 #### **Replacement of the Constitutional Committee**
 
+<figure><img src="../.gitbook/assets/Spec-07.png" alt=""><figcaption></figcaption></figure>
+
 The Constitutional Committee can be replaced either&#x20;
 
 * through a specific governance action when in a normal state (ie a state of confidence). This requires the approval of the current Constitutional Committee and the DReps.
@@ -73,11 +77,15 @@ The Constitutional Committee can be replaced either&#x20;
 
 #### **Size of the Constitutional Committee**
 
+<figure><img src="../.gitbook/assets/Spec-08.png" alt=""><figcaption></figcaption></figure>
+
 “The size of the Constitutional Committee and its quorum (the number of votes that are required to enact governance actions) is not fixed and can be varied whenever a new committee is installed.”
 
 In this context a quorum is a minimum number of votes required to enact governance actions. In general having a quorum helps to ensure that decisions are made with the participation of a representative group of participants, rather than just a small minority. A similar consideration applies to the size of the Constitutional Committee.
 
 ## Governance Actions
+
+<figure><img src="../.gitbook/assets/Spec-09.png" alt=""><figcaption></figcaption></figure>
 
 A governance action is a blockchain parameter (“on-chain event”) triggered by a time-limited transaction (“has a deadline after which it cannot be enacted”).
 
