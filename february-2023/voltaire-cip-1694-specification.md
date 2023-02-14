@@ -91,6 +91,8 @@ A governance action is a blockchain parameter (“on-chain event”) triggered b
 
 An action is ratified once it has gathered enough votes to support it. If it fails to gather sufficient yes votes before its deadline the action expires. Or any action may be dropped subsequent to a motion of no confidence. Once ratified an action is “enacted”.&#x20;
 
+<figure><img src="../.gitbook/assets/Spec-10.png" alt=""><figcaption></figcaption></figure>
+
 The range of governance actions are as follows :&#x20;
 
 * 1\) A Motion of no-confidence creates a state of no-confidence in the current Constitutional Committee causing its dissolution.
@@ -100,10 +102,9 @@ The range of governance actions are as follows :&#x20;
 * 5\) Protocol Parameter Changes - Any changes to one or more protocol parameter excluding major protocol versions or "hard forks"
 * 6\) Treasury Withdrawals,  sub-categorized into small, medium or large withdrawals (based on the amount of Lovelace to be withdrawn).&#x20;
 
-\
-
-
 ### Who can submit a Governance Action ?
+
+<figure><img src="../.gitbook/assets/Spec-11.png" alt=""><figcaption></figcaption></figure>
 
 Any Ada holder can submit a governance action to the chain. A deposit of Lovelace is required, which will be returned when the action is finalized (whether it is ratified, has been dropped, or has expired).
 
@@ -112,6 +113,8 @@ The “motion of no-confidence” action is an extreme measure that enables Ada 
 In the case of other governance actions, voting takes place, followed by ratification or expiry.
 
 ## Votes
+
+<figure><img src="../.gitbook/assets/Spec-12.png" alt=""><figcaption></figcaption></figure>
 
 A vote takes the form of a transaction on the Cardano blockchain. Each vote transaction consists of -
 
@@ -122,10 +125,9 @@ A vote takes the form of a transaction on the Cardano blockchain. Each vote tran
 * a hash of the contents of the URL;
 * a yes/no/abstain vote - abstain in this context is a type of on-chain vote
 
-\
-
-
 ### Voting Mechanism
+
+<figure><img src="../.gitbook/assets/Spec-13.png" alt=""><figcaption></figcaption></figure>
 
 The key hash will trigger the appropriate signature check on the transaction body according to the existing UTxOW ledger rule.
 
@@ -138,6 +140,8 @@ As soon as a governance action is ratified, voting ends.&#x20;
 No further votes are considered or recorded
 
 ### Governance State
+
+<figure><img src="../.gitbook/assets/Spec-14.png" alt=""><figcaption></figcaption></figure>
 
 When a governance action is successfully submitted to the chain, its progress will be tracked by the ledger state. In particular, the following will be tracked:
 
