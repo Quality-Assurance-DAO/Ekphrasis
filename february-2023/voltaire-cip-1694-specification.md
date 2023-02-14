@@ -205,9 +205,9 @@ Some options to ensure a manageable number of DReps include:
 2. An incentive scheme similar to the stake pool reward scheme is used to limit individual rewards.
 3. Some form of a per-epoch randomized sub-committee of DReps which takes stake weight into account.
 
-
-
 ## **New Parameter Changes**
+
+<figure><img src="../.gitbook/assets/Spec-20.png" alt=""><figcaption></figcaption></figure>
 
 New protocol parameters will be needed for the following:
 
