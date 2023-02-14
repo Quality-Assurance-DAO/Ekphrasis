@@ -179,18 +179,21 @@ Given the status of the governance state this new tally may result in immediate 
 
 The functionality of Cardano staking will be extended to provide the ability for an ADA holder to delegate their stake to DReps.
 
+<figure><img src="../.gitbook/assets/Spec-17.png" alt=""><figcaption></figcaption></figure>
+
 DRep Registration will emulate the existing stake delegation mechanisms via a new set of voting certificates.
 
 These will comprise DRep registration and retirement certificates and a Vote delegation certificate. The DRep registration and retirement certificates administer their on-chain identification, information and status.
 
-\
-
-
 ### **New Stake Distribution for DReps**
+
+<figure><img src="../.gitbook/assets/Spec-18.png" alt=""><figcaption></figcaption></figure>
 
 A new stake distribution for DReps will determine what ADA (Lovelace) transactions are active for voting, whether DReps have a sufficient active voting stake and whether a vote threshold has been met.
 
 ### **DRep incentives**
+
+<figure><img src="../.gitbook/assets/Spec-19.png" alt=""><figcaption></figcaption></figure>
 
 If DReps are to be compensated for their work corresponding incentive mechanisms will need to be specified with funds coming from the per-epoch treasury allocation.&#x20;
 
