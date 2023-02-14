@@ -2,11 +2,15 @@
 
 ## A review of the CIP-1694 Specification <a href="#docs-internal-guid-eed982ac-7fff-29ae-0019-b927f9532423" id="docs-internal-guid-eed982ac-7fff-29ae-0019-b927f9532423"></a>
 
+<figure><img src="../.gitbook/assets/Spec-01.png" alt=""><figcaption></figcaption></figure>
+
 In order to achieve these ends of greater decentralization and sustainability Input-Output Global has drafted a Cardano Improvement Proposal, CIP 1694, that outlines “An On-Chain Decentralised Governance Mechanism for Voltaire”.
 
 [https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md)
 
 ## Draft Specification
+
+<figure><img src="../.gitbook/assets/Spec-02.png" alt=""><figcaption></figcaption></figure>
 
 The current specification draft (as of February 2023) documents the following :
 
@@ -17,9 +21,13 @@ The current specification draft (as of February 2023) documents the following :
 
 ## The Constitution and The Constitutional Committee
 
+<figure><img src="../.gitbook/assets/Spec-03.png" alt=""><figcaption></figcaption></figure>
+
 The Constitution and the Constitution Committee form the heart of the On-Chain Decentralized Governance Mechanism.
 
 ### The Constitution
+
+<figure><img src="../.gitbook/assets/Spec-04.png" alt=""><figcaption></figcaption></figure>
 
 \
 The Constitution that will inform and guide the Constitution Committee is kept vague. The Constitution is only referred to as a “an informational document that unambiguously captures the Cardano core values”.
@@ -33,6 +41,8 @@ The intent to store the Constitution off-chain with only a “hash digest value�
 “The Digest/Hash function produces a digital summary of information called a message digest. Message digests provide a digital identifier for a digital document. The message digest produced by the Digest/Hash function is Base64 encoded.” See https://www.ibm.com/docs/en/app-connect-pro/7.5.3?topic=reference-digesthash-function&#x20;
 
 ### The Constitution Committee
+
+<figure><img src="../.gitbook/assets/Spec-05.png" alt=""><figcaption></figcaption></figure>
 
 More detail is provided on the Constitution Committee. The Constitutional Committee represents a set of individuals or entities (authenticated by cryptographic signature) responsible for overseeing governance actions and ensuring that the Constitution is respected.&#x20;
 
