@@ -32,6 +32,20 @@ In the context of the Cardano blockchain stakeholders and community participants
 
 A proposal to transition  the current centralized Treasury management to a more decentralized model is currently in review using the Cardano Improvement Proposal or CIP process. CIP-1694 “An On-Chain Decentralized Governance Mechanism for Voltaire” (https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md), intends to establish a system of delegated representatives and Stake Pool Operators that will vote on blockchain parameters. These parameters include Treasury management, fund distribution and apportionment.
 
+## Paying Challenge Teams
+
+<figure><img src="../.gitbook/assets/Ethic-05 (1).png" alt=""><figcaption></figcaption></figure>
+
+* To date Challenge Teams are asked to onboard proposers (Proof of Life), present the Challenge at a Town Hall and write a final report.
+* At present each Challenge Team receives the same payment amount (or fee) drawn from the Cardano Treasury apportioned to Project Catalyst.&#x20;
+* The number of proposals and support needed will vary per Challenge.  Challenge Teams receive the same payment regardless of the number of proposals, the number and experience of Challenge Team members, the amount of support each proposal may need and the scale of the budgets of proposals in the challenge.
+* In Fund 9 additional funds were made available for approval of milestones in the dApp Challenge. This is meant to cover review of the Statement of Milestones (SOM) and approvals of Proof of Milestones (POM)
+
+\
+
+
+
+
 \
 \
 \
