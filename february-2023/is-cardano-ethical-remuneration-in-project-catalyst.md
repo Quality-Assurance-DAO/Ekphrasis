@@ -71,6 +71,30 @@ Blockchain has the potential either to continue to treat people as resources or 
 
 The Who, What, When, Where and Why of any ethical choice or value judgment is a basic minimum of information required to understand each case. (Aristotle's Nicomachean Ethics).
 
+## QADAO
+
+<figure><img src="../.gitbook/assets/Ethic-08.png" alt=""><figcaption></figcaption></figure>
+
+QA-DAO is a community organization that provides the following services :&#x20;
+
+\
+
+
+* Documentation and Communication,&#x20;
+* Auditing and Oversight,&#x20;
+* Governance and Community Support,&#x20;
+* Facilitation & Co-Production
+* and Project Management and Automation
+
+\
+
+
+You can support our work by delegating to our Cardano Stakepool QADAO, subscribing to our YouTube channel at https://www.youtube.com/@qadao&#x20;
+
+&#x20;and follow us on Twitter at @qa\_dao for the latest announcements.
+
+\
+\
 \
 
 
