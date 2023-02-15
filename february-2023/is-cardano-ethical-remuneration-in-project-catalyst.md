@@ -41,6 +41,19 @@ A proposal to transition  the current centralized Treasury management to a more 
 * The number of proposals and support needed will vary per Challenge.  Challenge Teams receive the same payment regardless of the number of proposals, the number and experience of Challenge Team members, the amount of support each proposal may need and the scale of the budgets of proposals in the challenge.
 * In Fund 9 additional funds were made available for approval of milestones in the dApp Challenge. This is meant to cover review of the Statement of Milestones (SOM) and approvals of Proof of Milestones (POM)
 
+## Factors informing remuneration for Challenge Teams
+
+<figure><img src="../.gitbook/assets/Ethic-06.png" alt=""><figcaption></figcaption></figure>
+
+These factors should inform the overall amount of remuneration for Challenge Teams.
+
+* Number of proposals
+* The number and experience of Challenge Team members - the composition, experience and mentorship required in each team.
+* The amount of support each proposal may need - the work required to engage with each proposal. Some proposers will be more familiar with the process than others.
+* The timing of payments is important to sustain and support participation - A release of payment at each Challenge Team stage (eg onboarding - PoL) would support the people doing the relevant work just completed.
+* The scale of the budget and the expected level of scrutiny
+* The administrative burden or workload - for example time spent on Proof of Life, Presentations, milestone statements (SOM) and proof of completion (POM)
+
 \
 
 
