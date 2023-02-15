@@ -56,19 +56,18 @@ These factors should inform the overall amount of remuneration for Challenge Tea
 
 ## Ethical Implications
 
-\
-
+<figure><img src="../.gitbook/assets/Ethic-07.png" alt=""><figcaption></figcaption></figure>
 
 In the context of decentralized people operations mentioned above, participants being paid for the administration and/or audit of proposals raises issues of trust, accountability and legitimacy that may not be adequately served only by “protocols and algorithms”.
 
 Blockchain has the potential either to continue to treat people as resources or to disrupt this paradigm with decentralized decision making. This includes innovation in deciding levels and share of remuneration. Some factors for assessing the ethical dimension of blockchain governance include -\
 
 
-Capability - How is human flourishing recognised and encouraged ? Virtue Ethics.
+**Capability** - How is human flourishing recognised and encouraged ? Virtue Ethics.
 
-Outcomes - a statistical approach such as crowd sourcing. What causes the greatest good or harm ? Utilitarianism.
+**Outcomes** - a statistical approach such as crowd sourcing. What causes the greatest good or harm ? Utilitarianism.
 
-Social contracts - includes commitments to constitutional values. Where absolute values are agreed upon and enforced. Contractarianism.
+**Social contracts** - includes commitments to constitutional values. Where absolute values are agreed upon and enforced. Contractarianism.
 
 The Who, What, When, Where and Why of any ethical choice or value judgment is a basic minimum of information required to understand each case. (Aristotle's Nicomachean Ethics).
 
