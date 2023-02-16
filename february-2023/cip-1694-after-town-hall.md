@@ -6,6 +6,18 @@ description: With Kenric Nelson (Photrek) & Stephen Whitenstall (QADAO)
 
 {% embed url="https://youtu.be/KiLhhOVXQOg" %}
 
+##
+
+## Links
+
+* A review of the "Voltaire" CIP-1694 Specification - https://youtu.be/OWygSKyv-s8
+* https://quality-assurance-dao.gitbook.io/ekphrasis/february-2023/voltaire-cip-1694-specification
+* Voltaire CIP-1694 Summary - https://quality-assurance-dao.gitbook.io/ekphrasis/february-2023/voltaire-cip-1694-summary
+* CIP-1694 Summary Video - https://youtu.be/fe9XvezpdbI
+* CIP-1694 - https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md
+* CIP-1694 GitHub comments - https://github.com/cardano-foundation/CIPs/pull/380
+* Take part in the discussion on the CF Forum - https://forum.cardano.org/c/governance/general-governance-conversation/217
+
 ## Selected Comments
 
 This is a selection of comments relevant to the topic under discussion. The views of individuals expressed here may change.\
