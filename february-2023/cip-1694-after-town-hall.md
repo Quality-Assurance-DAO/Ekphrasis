@@ -8,6 +8,8 @@ description: With Kenric Nelson (Photrek) & Stephen Whitenstall (QADAO)
 
 ##
 
+A short presentation and subsequent informal introductionary discussion of the "Voltaire" CIP-1694
+
 ## Links
 
 * A review of the "Voltaire" CIP-1694 Specification - https://youtu.be/OWygSKyv-s8
