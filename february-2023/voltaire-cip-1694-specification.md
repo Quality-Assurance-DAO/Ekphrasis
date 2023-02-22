@@ -2,6 +2,8 @@
 
 ## A review of the CIP-1694 Specification <a href="#docs-internal-guid-eed982ac-7fff-29ae-0019-b927f9532423" id="docs-internal-guid-eed982ac-7fff-29ae-0019-b927f9532423"></a>
 
+{% embed url="https://youtu.be/OWygSKyv-s8" %}
+
 <figure><img src="../.gitbook/assets/Spec-01.png" alt=""><figcaption></figcaption></figure>
 
 In order to achieve these ends of greater decentralization and sustainability Input-Output Global has drafted a Cardano Improvement Proposal, CIP 1694, that outlines “An On-Chain Decentralised Governance Mechanism for Voltaire”.
