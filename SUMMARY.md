@@ -19,6 +19,7 @@
 
 * [Voltaire CIP-1694 Summary](february-2023/voltaire-cip-1694-summary.md)
 * [Voltaire CIP-1694 Specification](february-2023/voltaire-cip-1694-specification.md)
+* [CIP-1694 GitHub Administration](february-2023/cip-1694-github-administration.md)
 * [Is Cardano Ethical ? - Remuneration in Project Catalyst](february-2023/is-cardano-ethical-remuneration-in-project-catalyst.md)
 * [CIP-1694 After Town Hall](february-2023/cip-1694-after-town-hall.md)
 * [CIP-1694 Administration on GitHub](february-2023/cip-1694-administration-on-github.md)
