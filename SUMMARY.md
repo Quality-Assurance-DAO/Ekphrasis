@@ -23,6 +23,7 @@
 * [Is Cardano Ethical ? - Remuneration in Project Catalyst](february-2023/is-cardano-ethical-remuneration-in-project-catalyst.md)
 * [CIP-1694 After Town Hall](february-2023/cip-1694-after-town-hall.md)
 * [CIP-1694 Administration on GitHub](february-2023/cip-1694-administration-on-github.md)
+* [ABC of Governance - Decentralisation](february-2023/abc-of-governance-decentralisation.md)
 
 ## January 2023
 
