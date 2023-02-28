@@ -10,6 +10,14 @@
 
 &#x20;00:06
 
+De Tocqueville believed decentralization was important for democracy, as it allowed individuals to have a greater say in their own government.
+
+> "The efforts of individuals combined with society, achieve what the most energetic administration fails to achieve."&#x20;
+
+He recognized potential pitfalls such as lack of coordination and efficiency.&#x20;
+
+> "How can liberty be upheld in great matters among many who have not learned to make use of it in small ones ?"
+
 ## Types of Blockchain Networks
 
 00:45
