@@ -22,6 +22,16 @@ He recognized potential pitfalls such as lack of coordination and efficiency.&#x
 
 00:45
 
+<figure><img src="../.gitbook/assets/decent-01.png" alt=""><figcaption></figcaption></figure>
+
+Blockchain decentralisation is often illustrated by types of network.&#x20;
+
+Centralised networks depend on one node.&#x20;
+
+Decentralised networks are built from a hierarchy of nodes.&#x20;
+
+Distributed networks connect each node equally.
+
 ## Vitalik Buterin, "The Meaning of Decentralisation"
 
 01:03
