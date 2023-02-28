@@ -36,23 +36,23 @@ Distributed networks connect each node equally.
 
 01:03
 
-## Architectural decentralisation
+### Architectural decentralisation
 
 01:13
 
-## Political decentralisation
+### Political decentralisation
 
 01:26
 
-## Logical decentralisation
+### Logical decentralisation
 
 01:36
 
-## Decomposition
+### Decomposition
 
 01:47
 
-## Blockchains - 3 Types of decentralisation
+### Blockchains - 3 Types of decentralisation
 
 01:59
 
@@ -64,11 +64,11 @@ Distributed networks connect each node equally.
 
 02:21
 
-## EDI Decentralisation Layers 1 to 4
+### EDI Decentralisation Layers 1 to 4
 
 02:37
 
-## EDI Decentralisation Layers 5 to 8
+### EDI Decentralisation Layers 5 to 8
 
 03:11
 
