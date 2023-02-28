@@ -1,5 +1,7 @@
 # ABC of Governance - Decentralisation
 
+{% embed url="https://youtu.be/7w_5BQXYJfI" %}
+
 ABC of Governance - Decentralisation - 00:00
 
 Alexis De Tocqueville on Decentralisation - 00:06
@@ -12,9 +14,12 @@ Architectural decentralisation - 01:13
 
 Political decentralisation - 01:26
 
-* Logical decentralisation - 01:36
-* Decomposition - 01:47
-* Blockchains - 3 Types of decentralisation - 01:59
+Logical decentralisation - 01:36
+
+Decomposition - 01:47
+
+Blockchains - 3 Types of decentralisation - 01:59
+
 * How can decentralisation be measured ? - 02:19
 * Edinburgh Decentralisation Index - 02:21
 * EDI Decentralisation Layers 1 to 4 - 02:37
