@@ -31,6 +31,7 @@
 
 ## December 2022
 
+* [Reputation at Stake!](december-2022/reputation-at-stake.md)
 * [Empowering community-driven governance on Cardano](december-2022/empowering-community-driven-governance-on-cardano.md)
 
 ## July 2022
