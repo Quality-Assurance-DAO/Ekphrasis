@@ -83,6 +83,7 @@
 * [DAOs - Reference material](daos-distributed-autonomous-organization/daos-distributed-autonomous-organization.md)
 * [Tracking effort and merit in Cardano Working Group Meetings](tracking-effort-and-merit-in-cardano/tracking-effort-and-merit-in-cardano-working-group-meetings.md)
 * [SourceCred](tracking-effort-and-merit-in-cardano/sourcecred.md)
+* [Proof of Reputation](july-2021/proof-of-reputation.md)
 
 ## June 2021
 
