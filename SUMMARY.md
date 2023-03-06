@@ -14,7 +14,10 @@
 
 * [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
 * [IOHK Research Library](iohk-research-team/iohk-research-library.md)
-* [What is a Governance Action ?](iohk-research-team/what-is-a-governance-action.md)
+
+## March 2023
+
+* [What is a Governance Action ?](march-2023/what-is-a-governance-action.md)
 
 ## February 2023
 
