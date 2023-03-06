@@ -107,4 +107,8 @@ and nothing else for a vote of no confidence
 
 ## Join the discussion ...
 
-Join the discussion on GitHub, the Car dano Forum, Discord, Reddit and Twitter.
+Join the discussion on GitHub, the Cardano Forum, Discord, Reddit and Twitter.
+
+## A QADAO explainer
+
+Thank you for watching CIP 1694, Governance Actions A QADAO explainer
