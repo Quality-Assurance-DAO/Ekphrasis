@@ -60,3 +60,23 @@ Governance actions are ratified and staged for enactment only on an epoch bounda
 An action may be dropped as a result of some higher priority action. Governance actions will expire after a set number of epochs.&#x20;
 
 Staged actions will be enacted on the following epoch boundary.
+
+## Enactment of governance actions
+
+At most one action of each type may be enacted in any given epoch.&#x20;
+
+A successful "Motion of no-confidence", the election of a new Constitutional Committee, or a constitutional change invalidates all other unenacted governance actions, causing them to be immediately dropped.
+
+Enactment of actions in the staging group for the current epoch are prioritized as follows :&#x20;
+
+A motion of no-confidence
+
+A new constitutional committee or quorum size change
+
+Updates to the constitution
+
+A hard fork initiation
+
+Protocol parameter changes
+
+Treasury withdrawals
