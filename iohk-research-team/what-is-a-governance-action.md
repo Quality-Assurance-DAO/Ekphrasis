@@ -13,3 +13,11 @@ A governance action is a blockchain parameter (“on-chain event”) triggered b
 ## Ratifying an action
 
 A governance action is ratified once it has gathered enough votes to support it. If it fails to gather sufficient yes votes before its deadline the action expires. Or any action may be dropped subsequent to a motion of no confidence. Once ratified an action is said to be “enacted”.
+
+## Types of governance actions.
+
+1. A motion of no-confidence - is a motion to create a state of no-confidence in the current Constitutional Committee
+2. New Constitutional Committee and/or quorum size - Changes to the members of the Constitutional Committee and/or to its signature threshold.
+3. Updates to the Constitution - these are modifications to the off-chain Constitution, recorded as an on-chain hash of the text document.
+4. Hard-Fork Initiation - this triggers a non-backwards compatible upgrade of the network and requires a prior software upgrade.
+5. Protocol Parameter Changes - that is, changes to one or more updatable protocol parameters, excluding changes to hard forks.

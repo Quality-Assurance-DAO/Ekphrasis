@@ -17,7 +17,7 @@
 
 ## March 2023
 
-* [What is a Governance Action ?](march-2023/what-is-a-governance-action.md)
+* [What is a Governance Action ?](iohk-research-team/what-is-a-governance-action.md)
 
 ## February 2023
 
