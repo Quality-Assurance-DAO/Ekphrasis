@@ -21,3 +21,20 @@ A governance action is ratified once it has gathered enough votes to support it.
 3. Updates to the Constitution - these are modifications to the off-chain Constitution, recorded as an on-chain hash of the text document.
 4. Hard-Fork Initiation - this triggers a non-backwards compatible upgrade of the network and requires a prior software upgrade.
 5. Protocol Parameter Changes - that is, changes to one or more updatable protocol parameters, excluding changes to hard forks.
+6. Treasury Withdrawals - these are movements from the treasury, sub-categorized into small, medium or large withdrawals.
+
+## Plutocratic voting for governance actions.&#x20;
+
+A motion of no confidence can be voted for by D Reps' and SPOs.&#x20;
+
+A new committee or quorum in a normal state can be voted for by the constitutional committee, D Reps and SPOs.
+
+A new committee or quorum in a state of no confidence can only be voted for by the D Reps and SPOs.
+
+An update to the constitution can be voted for by the constitutional committee, D Reps and SPOs.&#x20;
+
+A hard fork initiation can be voted for by the constitutional committee, D Reps and SPOs.
+
+Protocol parameter changes can be voted for by the constitutional committee, D Reps and SPOs.&#x20;
+
+Treasury withdrawals can be voted for by the constitutional committee, D Reps and SPOs.
