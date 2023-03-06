@@ -1,6 +1,6 @@
 # What is a Governance Action ?
 
-
+{% embed url="https://youtu.be/ro7IRF5rh74" %}
 
 ## “An On-Chain Decentralised Governance Mechanism for Voltaire”
 
@@ -51,3 +51,64 @@ Hard fork initiations have no AVST fallback. In this situation the constitutiona
 
 Normal motions of no confidence, updates to the constitution, protocol parameter changes and treasury withdrawals all have an AVST fallback where SPOs vote.
 
+## Governance Action Lifecycle
+
+The Cardano blockchain splits time into periods called epochs. One epoch lasts approximately 5 days.&#x20;
+
+Governance actions are ratified and staged for enactment only on an epoch boundary.
+
+An action may be dropped as a result of some higher priority action. Governance actions will expire after a set number of epochs.&#x20;
+
+Staged actions will be enacted on the following epoch boundary.
+
+## Enactment of governance actions
+
+At most one action of each type may be enacted in any given epoch.&#x20;
+
+A successful "Motion of no-confidence", the election of a new Constitutional Committee, or a constitutional change invalidates all other unenacted governance actions, causing them to be immediately dropped.
+
+Enactment of actions in the staging group for the current epoch are prioritized as follows :&#x20;
+
+A motion of no-confidence
+
+A new constitutional committee or quorum size change
+
+Updates to the constitution
+
+A hard fork initiation
+
+Protocol parameter changes
+
+Treasury withdrawals
+
+## All Governance Actions will include
+
+A deposit amount
+
+A reward address to receive the repaid deposit
+
+A URL to any metadata that is needed to justify the action
+
+A hash of the contents of this metadata URL.
+
+## Specific Governance Actions will include
+
+For protocol parameter changes - the changed parameters&#x20;
+
+For hard fork initiation - the new major protocol version, which must be one greater than the current version&#x20;
+
+For treasury withdrawals - a map from stake credentials to a positive number of Lovelace&#x20;
+
+For updates to the Constitution - a 32-byte hash digest of the Constitution document
+
+For new Constitutional Committee and changes to the quorum size - a set of key hashes and a positive number that is no greater than the size of the committee
+
+and nothing else for a vote of no confidence
+
+## Join the discussion ...
+
+Join the discussion on GitHub, the Cardano Forum, Discord, Reddit and Twitter.
+
+## A QADAO explainer
+
+Thank you for watching CIP 1694, Governance Actions A QADAO explainer
