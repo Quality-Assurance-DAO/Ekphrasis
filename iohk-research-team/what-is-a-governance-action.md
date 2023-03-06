@@ -49,3 +49,14 @@ AVST Fallbacks operate in the following way. In constitutional committee no-conf
 
 Hard fork initiations have no AVST fallback. In this situation the constitutional committee, d reps' and SPOs all vote.
 
+Normal motions of no confidence, updates to the constitution, protocol parameter changes and treasury withdrawals all have an AVST fallback where SPOs vote.
+
+## Governance Action Lifecycle
+
+The Cardano blockchain splits time into periods called epochs. One epoch lasts approximately 5 days.&#x20;
+
+Governance actions are ratified and staged for enactment only on an epoch boundary.
+
+An action may be dropped as a result of some higher priority action. Governance actions will expire after a set number of epochs.&#x20;
+
+Staged actions will be enacted on the following epoch boundary.
