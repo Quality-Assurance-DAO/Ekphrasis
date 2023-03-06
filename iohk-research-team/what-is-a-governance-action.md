@@ -38,3 +38,7 @@ A hard fork initiation can be voted for by the constitutional committee, D Reps 
 Protocol parameter changes can be voted for by the constitutional committee, D Reps and SPOs.&#x20;
 
 Treasury withdrawals can be voted for by the constitutional committee, D Reps and SPOs.
+
+## Active Voting Stake Thresholds (AVST)
+
+The Active Voting Stake Thresholds (AVST) is the percentage to be used to determine if there is a sufficient active voting stake. This parameter represents the minimum amount of Ada deposit needed to enact a governance action.
