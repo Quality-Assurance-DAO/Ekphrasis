@@ -104,3 +104,7 @@ For updates to the Constitution - a 32-byte hash digest of the Constitution docu
 For new Constitutional Committee and changes to the quorum size - a set of key hashes and a positive number that is no greater than the size of the committee
 
 and nothing else for a vote of no confidence
+
+## Join the discussion ...
+
+Join the discussion on GitHub, the Car dano Forum, Discord, Reddit and Twitter.
