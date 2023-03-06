@@ -47,3 +47,5 @@ The Active Voting Stake Thresholds (AVST) is the percentage to be used to determ
 
 AVST Fallbacks operate in the following way. In constitutional committee no-confidence motions or states there is no AVST fallback. Instead both the d reps' and SPOs vote.
 
+Hard fork initiations have no AVST fallback. In this situation the constitutional committee, d reps' and SPOs all vote.
+
