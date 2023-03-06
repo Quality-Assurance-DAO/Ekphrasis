@@ -90,3 +90,17 @@ A reward address to receive the repaid deposit
 A URL to any metadata that is needed to justify the action
 
 A hash of the contents of this metadata URL.
+
+## Specific Governance Actions will include
+
+For protocol parameter changes - the changed parameters&#x20;
+
+For hard fork initiation - the new major protocol version, which must be one greater than the current version&#x20;
+
+For treasury withdrawals - a map from stake credentials to a positive number of Lovelace&#x20;
+
+For updates to the Constitution - a 32-byte hash digest of the Constitution document
+
+For new Constitutional Committee and changes to the quorum size - a set of key hashes and a positive number that is no greater than the size of the committee
+
+and nothing else for a vote of no confidence
