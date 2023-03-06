@@ -42,3 +42,8 @@ Treasury withdrawals can be voted for by the constitutional committee, D Reps an
 ## Active Voting Stake Thresholds (AVST)
 
 The Active Voting Stake Thresholds (AVST) is the percentage to be used to determine if there is a sufficient active voting stake. This parameter represents the minimum amount of Ada deposit needed to enact a governance action.
+
+## AVST Fallbacks
+
+AVST Fallbacks operate in the following way. In constitutional committee no-confidence motions or states there is no AVST fallback. Instead both the d reps' and SPOs vote.
+
