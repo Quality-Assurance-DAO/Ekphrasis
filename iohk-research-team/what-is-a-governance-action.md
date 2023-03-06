@@ -80,3 +80,13 @@ A hard fork initiation
 Protocol parameter changes
 
 Treasury withdrawals
+
+## All Governance Actions will include
+
+A deposit amount
+
+A reward address to receive the repaid deposit
+
+A URL to any metadata that is needed to justify the action
+
+A hash of the contents of this metadata URL.
