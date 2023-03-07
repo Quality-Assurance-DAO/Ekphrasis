@@ -38,6 +38,10 @@
 * [Reputation at Stake!](december-2022/reputation-at-stake.md)
 * [Empowering community-driven governance on Cardano](december-2022/empowering-community-driven-governance-on-cardano.md)
 
+## November 2022
+
+* [Stratified Approach to Blockchain Decentralization](november-2022/stratified-approach-to-blockchain-decentralization.md)
+
 ## July 2022
 
 * [Why and How we SubDAO](july-2022/why-and-how-we-subdao.md)
@@ -75,10 +79,6 @@
 ## October 2021
 
 * [Diversity-Voting-Influence. F4 : Final report](october-2021/diversity-voting-influence.md)
-
-## November 2022
-
-* [Stratified Approach to Blockchain Decentralization](november-2022/stratified-approach-to-blockchain-decentralization.md)
 
 ## September 2021
 
