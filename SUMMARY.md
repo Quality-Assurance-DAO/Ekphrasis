@@ -76,6 +76,10 @@
 
 * [Diversity-Voting-Influence. F4 : Final report](october-2021/diversity-voting-influence.md)
 
+## November 2022
+
+* [Stratified Approach to Blockchain Decentralization](november-2022/stratified-approach-to-blockchain-decentralization.md)
+
 ## September 2021
 
 * [WADA - Diversify Voting Influence](september-2021/wada-diversify-voting-influence.md)
@@ -135,7 +139,3 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
-
-## November 2022
-
-* [Stratified Approach to Blockchain Decentralization](november-2022/stratified-approach-to-blockchain-decentralization.md)
