@@ -14,9 +14,15 @@
 
 {% embed url="https://river.com/learn/what-is-a-bitcoin-improvement-proposal-bip/" %}
 
+## Cardano <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
+
 ### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
 
 {% embed url="https://cips.cardano.org/" %}
+
+### Cardano Foundation CIP GitHub Repository
+
+{% embed url="https://github.com/cardano-foundation/CIPs" %}
 
 ## Ethereum
 
