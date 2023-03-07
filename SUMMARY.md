@@ -18,6 +18,7 @@
 ## March 2023
 
 * [What is a Governance Action ?](iohk-research-team/what-is-a-governance-action.md)
+* [Blockchain Improvement Proposals](march-2023/blockchain-improvement-proposals.md)
 
 ## February 2023
 
