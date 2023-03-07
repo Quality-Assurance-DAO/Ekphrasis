@@ -9,6 +9,7 @@
 * [Vitalik Buterin](sources/vitalik-buterin.md)
 * [Standards Bodies](sources/standards-bodies.md)
 * [Journals / Organisations](sources/journals-organisations.md)
+* [Blockchain Improvement Proposals](sources/blockchain-improvement-proposals.md)
 
 ## IOHK research team
 
@@ -18,7 +19,6 @@
 ## March 2023
 
 * [What is a Governance Action ?](iohk-research-team/what-is-a-governance-action.md)
-* [Blockchain Improvement Proposals](march-2023/blockchain-improvement-proposals.md)
 
 ## February 2023
 
