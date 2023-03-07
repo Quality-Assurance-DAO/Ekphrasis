@@ -10,6 +10,10 @@
 
 {% embed url="https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki" %}
 
+### What Is a Bitcoin Improvement Proposal (BIP)?
+
+{% embed url="https://river.com/learn/what-is-a-bitcoin-improvement-proposal-bip/" %}
+
 ## Ethereum
 
 ### Ethereum Improvement Proposal
