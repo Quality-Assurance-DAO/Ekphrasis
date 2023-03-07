@@ -4,7 +4,7 @@
 
 ### Contributing to Bitcoin Core
 
-##
+{% embed url="https://github.com/bitcoin-core/gui/blob/master/CONTRIBUTING.md" %}
 
 ## Ethereum
 
