@@ -6,6 +6,10 @@
 
 {% embed url="https://github.com/bitcoin-core/gui/blob/master/CONTRIBUTING.md" %}
 
+### BIP Purpose and Guidelines
+
+{% embed url="https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki" %}
+
 ## Ethereum
 
 ### Ethereum Improvement Proposal
