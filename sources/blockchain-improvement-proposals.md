@@ -16,6 +16,18 @@
 
 ## Cardano <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
 
+### How Open Source is the improvement process in Cardano ? 
+
+Cardano’s improvement process is hosted in a repository on the Cardano Foundation’s GitHub Organisation.
+
+The Cardano Foundation GitHub Organization was created on March 5th 2018&#x20;
+
+[https://api.github.com/orgs/cardano-foundation](https://api.github.com/orgs/cardano-foundation)
+
+And the Cardano Improvement Process or CIP repository was created on April 9th 2020
+
+[https://api.github.com/repos/cardano-foundation/CIPs](https://api.github.com/repos/cardano-foundation/CIPs)
+
 ### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
 
 {% embed url="https://cips.cardano.org/" %}
