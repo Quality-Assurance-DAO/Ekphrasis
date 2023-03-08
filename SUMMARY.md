@@ -8,7 +8,7 @@
 * [Dr. Mihaela Ulieru](governance/mihaela-ulieru.md)
 * [Vitalik Buterin](sources/vitalik-buterin.md)
 * [Standards Bodies](sources/standards-bodies.md)
-* [Journals / Organisations](sources/journals-organisations.md)
+* [Journals](sources/journals-organisations.md)
 * [Blockchain Improvement Proposals](sources/blockchain-improvement-proposals.md)
 
 ## IOHK research team
