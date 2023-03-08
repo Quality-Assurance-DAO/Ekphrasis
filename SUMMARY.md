@@ -4,18 +4,15 @@
 
 ## Sources
 
-* [People](sources/people.md)
-* [Charles Hoskinson](governance/charles-hoskinson.md)
-* [Dr. Mihaela Ulieru](governance/mihaela-ulieru.md)
-* [Vitalik Buterin](sources/vitalik-buterin.md)
+* [People](sources/people/README.md)
+  * [Charles Hoskinson](sources/people/charles-hoskinson.md)
+  * [Vitalik Buterin](sources/people/vitalik-buterin.md)
+  * [Dr. Mihaela Ulieru](sources/people/mihaela-ulieru.md)
+  * [Prof. Aggelos Kiayias](sources/people/untitled.md)
 * [Standards Bodies](sources/standards-bodies.md)
+* [IOHK Research Library](sources/iohk-research-library.md)
 * [Journals](sources/journals-organisations.md)
 * [Blockchain Improvement Proposals](sources/blockchain-improvement-proposals.md)
-
-## IOHK research team
-
-* [Prof. Aggelos Kiayias](iohk-research-team/untitled.md)
-* [IOHK Research Library](iohk-research-team/iohk-research-library.md)
 
 ## March 2023
 
