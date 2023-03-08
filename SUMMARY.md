@@ -4,6 +4,7 @@
 
 ## Sources
 
+* [People](sources/people.md)
 * [Charles Hoskinson](governance/charles-hoskinson.md)
 * [Dr. Mihaela Ulieru](governance/mihaela-ulieru.md)
 * [Vitalik Buterin](sources/vitalik-buterin.md)
