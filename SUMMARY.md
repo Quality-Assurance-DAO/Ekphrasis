@@ -64,6 +64,7 @@
 ## February 2022
 
 * [Blockchain Governance Principles](february-2022/blockchain-governance-principles.md)
+* [Ethics of Blockchain in Organizations](february-2022/ethics-of-blockchain-in-organizations.md)
 
 ## January 2022
 
