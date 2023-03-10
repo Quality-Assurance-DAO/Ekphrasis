@@ -11,7 +11,7 @@
   * [Prof. Aggelos Kiayias](sources/people/untitled.md)
 * [Standards Bodies](sources/standards-bodies.md)
 * [IOHK Research Library](sources/iohk-research-library.md)
-* [Journals](sources/journals-organisations.md)
+* [Journals / Blogs](sources/journals-organisations.md)
 * [Blockchain Improvement Proposals](sources/blockchain-improvement-proposals.md)
 
 ## March 2023
