@@ -8,6 +8,12 @@ The aim of the project PRIViLEDGE is to develop and advance techniques that enha
 
 {% embed url="https://priviledge-project.eu" %}
 
+## blockchaingov.eu
+
+We are a 5-year long, transdisciplinary research effort aimed at restoring trust in institutions at the community and global levels, by promoting better on chain and off chain distributed governance practices.
+
+{% embed url="https://blockchaingov.eu/" %}
+
 ## The Blockchain Socialist
 
 {% embed url="https://theblockchainsocialist.com/" %}
