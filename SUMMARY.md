@@ -12,6 +12,7 @@
 * [Standards Bodies](sources/standards-bodies.md)
 * [IOHK Research Library](sources/iohk-research-library.md)
 * [Journals / Blogs](sources/journals-organisations.md)
+* [Protocols](sources/protocols.md)
 * [Blockchain Improvement Proposals](sources/blockchain-improvement-proposals.md)
 
 ## March 2023
