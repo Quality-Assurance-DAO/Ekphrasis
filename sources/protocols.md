@@ -8,6 +8,12 @@ Cardano is a proof-of-stake blockchain platform: the first to be founded on peer
 
 {% embed url="https://cardano.org/" %}
 
+## Ethereum
+
+Ethereum is a decentralized blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. Among cryptocurrencies, ether is second only to bitcoin in market capitalization. It is open-source software. Ethereum was conceived in 2013 by programmer Vitalik Buterin.
+
+{% embed url="https://ethereum.org/en/" %}
+
 ## GitCoin
 
 {% embed url="https://www.gitcoin.co/" %}
