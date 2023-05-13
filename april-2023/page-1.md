@@ -32,7 +32,7 @@ The results of this on-chain poll will go back to [IOG 1](https://iohk.io/), [EM
 
 Once the poll has ended, the Foundation will then carefully evaluate the level of participation as well as the stake weights, with the latter playing an especially critical role. The on-chain nature of the poll will guarantee full transparency, so that stake delegators can see the votes casted by SPOs. Since two epochs will separate the moment in which SPOs vote from the effective stake snapshot, stake delegators will have the opportunity to remove their support and redelegate to a stake pool better aligned with their views, thus effectively influencing the direction of a future voting round.
 
-[![Entering Voltaire: on-chain poll for SPOs](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/3/3/3315559ae50c6a098bf349d51ddf251b82e5cc9f.png)Entering Voltaire: on-chain poll for SPOs1024×300 8.81 KB](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/3/3/3315559ae50c6a098bf349d51ddf251b82e5cc9f.png)
+<figure><img src="../.gitbook/assets/3315559ae50c6a098bf349d51ddf251b82e5cc9f.png" alt=""><figcaption></figcaption></figure>
 
 This model of on-chain polls can increase the resilience of the governance mechanism, while also implementing an additional layer of decentralization that ensures the Cardano ecosystem is truly consensus based.
 
