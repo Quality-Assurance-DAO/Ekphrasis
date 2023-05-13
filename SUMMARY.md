@@ -16,6 +16,10 @@
 * [Blockchain Improvement Proposals](sources/blockchain-improvement-proposals.md)
 * [Voltaire era Parameter Committee](sources/voltaire-era-parameter-committee.md)
 
+## April 2023
+
+* [Page 1](april-2023/page-1.md)
+
 ## March 2023
 
 * [Voting Schemes in DAO Governance](march-2023/voting-schemes-in-dao-governance.md)
@@ -145,6 +149,4 @@
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
 
-## April 2023
 
-* [Page 1](april-2023/page-1.md)
