@@ -14,6 +14,7 @@
 * [Journals / Blogs](sources/journals-organisations.md)
 * [Protocols](sources/protocols.md)
 * [Blockchain Improvement Proposals](sources/blockchain-improvement-proposals.md)
+* [Voltaire era Parameter Committee](sources/voltaire-era-parameter-committee.md)
 
 ## March 2023
 
