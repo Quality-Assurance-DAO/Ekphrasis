@@ -80,7 +80,7 @@ The **Constitution** (a brief outline of intent) and **The Constitutional Commit
 
 ### What motivated this CIP ?
 
-<figure><img src="../.gitbook/assets/CIP-1694-08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CIP-1694-08 (1).png" alt=""><figcaption></figcaption></figure>
 
 The motivation behind CIP-1694 is to address shortcomings in the existing Cardano governance mechanism which modifies parameter values (incl. Hard forks) and transfers ADA between reserves and the treasury. These shortcomings include :
 
