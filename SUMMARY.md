@@ -17,7 +17,9 @@
 
 ## March 2023
 
+* [Voting Schemes in DAO Governance](march-2023/voting-schemes-in-dao-governance.md)
 * [What is a Governance Action ?](iohk-research-team/what-is-a-governance-action.md)
+* [Accounting and auditing literature review](march-2023/accounting-and-auditing-literature-review.md)
 
 ## February 2023
 
@@ -41,6 +43,7 @@
 ## November 2022
 
 * [Stratified Approach to Blockchain Decentralization](november-2022/stratified-approach-to-blockchain-decentralization.md)
+* [Non-Fungible Token (NFT) Proxy Voting Standard](november-2022/non-fungible-token-nft-proxy-voting-standard.md)
 
 ## July 2022
 
