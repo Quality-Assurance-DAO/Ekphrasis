@@ -18,7 +18,7 @@
 
 ## April 2023
 
-* [Page 1](april-2023/page-1.md)
+* [Entering Voltaire onchain poll for SPOs](april-2023/page-1.md)
 
 ## March 2023
 
@@ -148,5 +148,3 @@
 * [Overview](fund-7-reporting/overview.md)
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
-
-
