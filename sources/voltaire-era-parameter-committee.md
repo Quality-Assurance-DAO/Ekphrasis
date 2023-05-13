@@ -53,6 +53,8 @@ Secretary: Cristina Echeverry
 
 _First version, as of May 2023_
 
+<figure><img src="../.gitbook/assets/57ea34a4324787ec9c1fd3b587227752b6c6ceb5.jpeg" alt=""><figcaption></figcaption></figure>
+
 * **GDPR:** Committee members are aware that meeting notes are posted on the Cardano forum, so they also agreed to have their names posted on the forum so that the community is aware of who is providing recommendations for the stability of the Cardano network. This is part of the transparency that the community needs and it is aligned with the future governance of the network.
 * **Rules of engagement:** Committee will hold the meetings using the Chatham House Rule, under the Chatham House Rule, anyone who comes to a meeting is free to use information from the discussion, but is not allowed to reveal who made any particular comment. It is designed to increase openness of discussion.
   * Observers will be invited to the committee gradually. Non-permanent experts can be invited by the committee or subcommittees independently, on a case by case basis as needed for any given PCP. Everyone added or invited has to follow the Chatham House Rule.
