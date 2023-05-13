@@ -21,7 +21,7 @@
 
 ## April 2023
 
-* [Entering Voltaire onchain poll for SPOs](april-2023/voltaire-onchain-poll-spos.md)
+* [Entering Voltaire onchain poll for SPOs](april-2023/page-1.md)
 
 ## March 2023
 
