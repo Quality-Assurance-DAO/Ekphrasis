@@ -53,6 +53,10 @@
 * [Stratified Approach to Blockchain Decentralization](november-2022/stratified-approach-to-blockchain-decentralization.md)
 * [Non-Fungible Token (NFT) Proxy Voting Standard](november-2022/non-fungible-token-nft-proxy-voting-standard.md)
 
+## September 2022
+
+* [Singularitynet Decentralization Report](september-2022/singularitynet-decentralization-report.md)
+
 ## July 2022
 
 * [Why and How we SubDAO](july-2022/why-and-how-we-subdao.md)
@@ -152,6 +156,3 @@
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
 
-## September 2022
-
-* [Singularitynet Decentralization Report](september-2022/singularitynet-decentralization-report.md)
