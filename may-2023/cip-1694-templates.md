@@ -31,3 +31,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### 3 - Community Tooling
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-04-56.png" alt=""><figcaption></figcaption></figure>
+
+### 4 - Action Thresholds
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-08-33.png" alt=""><figcaption></figcaption></figure>
