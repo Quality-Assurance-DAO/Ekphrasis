@@ -19,3 +19,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### 1 - On-chain Deposits
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 18-53-19.png" alt=""><figcaption></figcaption></figure>
+
+### Minimum Viable Governance - MVP
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 18-59-22.png" alt=""><figcaption></figcaption></figure>
