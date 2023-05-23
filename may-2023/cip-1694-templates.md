@@ -27,3 +27,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### 2 - Treasury Withdrawal
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-00-50.png" alt=""><figcaption></figcaption></figure>
+
+### 3 - Community Tooling
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-04-56.png" alt=""><figcaption></figcaption></figure>
