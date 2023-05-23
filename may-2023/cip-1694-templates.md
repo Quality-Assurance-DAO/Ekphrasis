@@ -49,3 +49,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### 7 - Metadata Formats
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-16-00.png" alt=""><figcaption></figcaption></figure>
+
+### 8 - Constitutional Committee Compensation
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-18-51.png" alt=""><figcaption></figcaption></figure>
