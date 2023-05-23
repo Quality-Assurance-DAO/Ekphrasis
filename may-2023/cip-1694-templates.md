@@ -23,3 +23,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### Minimum Viable Governance - MVP
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 18-59-22.png" alt=""><figcaption></figcaption></figure>
+
+### 2 - Treasury Withdrawal
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-00-50.png" alt=""><figcaption></figcaption></figure>
