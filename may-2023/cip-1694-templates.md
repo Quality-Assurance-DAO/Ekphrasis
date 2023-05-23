@@ -43,3 +43,9 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### 6 - DReps Incentives
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-13-51.png" alt=""><figcaption></figcaption></figure>
+
+### Optional Prompts
+
+### 7 - Metadata Formats
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-16-00.png" alt=""><figcaption></figcaption></figure>
