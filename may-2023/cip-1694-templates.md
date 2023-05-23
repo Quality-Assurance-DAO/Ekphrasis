@@ -57,3 +57,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### Observations, Implications and Next Steps
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-21-01.png" alt=""><figcaption></figcaption></figure>
+
+### Outputs & Acknowlegments
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-23-35.png" alt=""><figcaption></figcaption></figure>
