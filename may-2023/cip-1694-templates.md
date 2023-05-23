@@ -39,3 +39,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### 5 - Action Expiration
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-11-10.png" alt=""><figcaption></figcaption></figure>
+
+### 6 - DReps Incentives
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-13-51.png" alt=""><figcaption></figcaption></figure>
