@@ -18,6 +18,7 @@
 ## May 2023
 
 * [Voltaire era Parameter Committee](sources/voltaire-era-parameter-committee.md)
+* [CIP-1694 Templates](may-2023/cip-1694-templates.md)
 
 ## April 2023
 
@@ -52,10 +53,6 @@
 
 * [Stratified Approach to Blockchain Decentralization](november-2022/stratified-approach-to-blockchain-decentralization.md)
 * [Non-Fungible Token (NFT) Proxy Voting Standard](november-2022/non-fungible-token-nft-proxy-voting-standard.md)
-
-## September 2022
-
-* [Singularitynet Decentralization Report](september-2022/singularitynet-decentralization-report.md)
 
 ## July 2022
 
@@ -156,3 +153,6 @@
 * [Budget](fund-7-reporting/budget.md)
 * [Reporting](fund-7-reporting/reporting.md)
 
+## September 2022
+
+* [Singularitynet Decentralization Report](september-2022/singularitynet-decentralization-report.md)
