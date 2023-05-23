@@ -53,3 +53,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### 8 - Constitutional Committee Compensation
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-18-51.png" alt=""><figcaption></figcaption></figure>
+
+### Observations, Implications and Next Steps
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-21-01.png" alt=""><figcaption></figcaption></figure>
