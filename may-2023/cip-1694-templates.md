@@ -35,3 +35,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### 4 - Action Thresholds
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-08-33.png" alt=""><figcaption></figcaption></figure>
+
+### 5 - Action Expiration
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 19-11-10.png" alt=""><figcaption></figcaption></figure>
