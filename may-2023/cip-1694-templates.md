@@ -15,3 +15,7 @@ description: Cardano Foundation CIP-1694 Miro Templates
 ### Insights and Opportunities
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 18-51-31.png" alt=""><figcaption></figcaption></figure>
+
+### 1 - On-chain Deposits
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-23 18-53-19.png" alt=""><figcaption></figcaption></figure>
