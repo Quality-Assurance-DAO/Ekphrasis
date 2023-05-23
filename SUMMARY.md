@@ -23,6 +23,7 @@
 ## April 2023
 
 * [Entering Voltaire onchain poll for SPOs](april-2023/page-1.md)
+* [What Constitutes a Constitution?](april-2023/what-constitutes-a-constitution.md)
 
 ## March 2023
 
