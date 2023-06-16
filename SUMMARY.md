@@ -17,6 +17,7 @@
 
 ## May 2023
 
+* [CIP — 1694: Can Decentralized Communities Make Superior Decisions?"](may-2023/cip-1694-can-decentralized-communities-make-superior-decisions.md)
 * [Voltaire era Parameter Committee](sources/voltaire-era-parameter-committee.md)
 * [CIP-1694 Templates](may-2023/cip-1694-templates.md)
 
