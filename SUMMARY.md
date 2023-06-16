@@ -158,3 +158,7 @@
 ## September 2022
 
 * [Singularitynet Decentralization Report](september-2022/singularitynet-decentralization-report.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
