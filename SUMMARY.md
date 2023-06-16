@@ -15,9 +15,12 @@
 * [Protocols](sources/protocols.md)
 * [Blockchain Improvement Proposals](sources/blockchain-improvement-proposals.md)
 
-## May 2023
+## June 2023
 
 * [CIP — 1694: Can Decentralized Communities Make Superior Decisions?"](may-2023/cip-1694-can-decentralized-communities-make-superior-decisions.md)
+
+## May 2023
+
 * [Voltaire era Parameter Committee](sources/voltaire-era-parameter-committee.md)
 * [CIP-1694 Templates](may-2023/cip-1694-templates.md)
 
@@ -159,6 +162,4 @@
 
 * [Singularitynet Decentralization Report](september-2022/singularitynet-decentralization-report.md)
 
-## June 2023
 
-* [Page 1](june-2023/page-1.md)
