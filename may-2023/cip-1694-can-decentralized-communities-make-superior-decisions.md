@@ -164,6 +164,10 @@ CIP Editing - [1:36:22](https://www.youtube.com/watch?v=kzlf3gu366k\&t=5782s)&#x
 
 Conclusion- [1:39:13](https://www.youtube.com/watch?v=kzlf3gu366k\&t=5953s)&#x20;
 
+## Refererences
+
+Scheidel, Walter. (2018). The Great Leveler: Violence and the History of Inequality from the Stone Age to the Twenty-First Century. Princeton University Press. https://press.princeton.edu/books/paperback/9780691183251/the-great-leveler
+
 ## Anon Chat content
 
 Community "skin in the game" is not represented in Wallet "Skin the game".
@@ -223,6 +227,14 @@ Voting abstracts Social Choice - direct participation makes it concrete ?
 In Polkadot you have conviction voting, locking your tokens for a longer time increases their voting power.
 
 Creating a DID is like creating a private key. It is the _verifiable credentials_, which are issued to the DID, as well as the trust in the issuer of the credential that really matters. Beyond signing/cryptography and other technology, it is the trust of the Verifier in the Issuer (or trust registries of trusted issuers) that really matters, and that is the hard part of SSI. As a bootstrap matter for Voltaire, the Federation is basically trusted, so they could collectively identify entities that would issue some basic credential, e.g. "Qualified to be a dRep for a period of time".
+
+In an ideal collaboration system we would never have to vote on anything.
+
+"No Governance without Sovereign ID" could be the slogan !
+
+"What Ostrum found ... there exists a certain community size below which people act as collectivists ... such a commons cannot be too large " etc - from Taleb "Skin in the Game"
+
+
 
 
 
