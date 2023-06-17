@@ -182,7 +182,7 @@ Should a smart contract be able to delegate to a dRep that is a smart contract? 
 
 From what I remember, there were some discussions around wallet activity monitoring and retiring DREP certificates but from I’m not sure about proof of livelihood.
 
-Similar consideration as the question "Is a company a person ?" - or can sovereignity be collective ?
+Similar consideration as the question "Is a company a person ?" - or can sovereignty be collective ?
 
 Do we really think that equal power given to all members of a community is a good thing? Does decentralization necessarily mean equality of power and voices?
 
