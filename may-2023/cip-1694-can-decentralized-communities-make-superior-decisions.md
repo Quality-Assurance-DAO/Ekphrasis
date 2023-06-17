@@ -234,6 +234,12 @@ In an ideal collaboration system we would never have to vote on anything.
 
 "What Ostrum found ... there exists a certain community size below which people act as collectivists ... such a commons cannot be too large " etc - from Taleb "Skin in the Game"
 
+I think one of the things we can do in that individual way, is to challenge the language used. I often see CIP-1694 being described as "democratic"...
+
+ya that's the language often used, "democratic" its our responsibility on an individual basis to see how plutocratic this is as well
+
+
+
 
 
 
