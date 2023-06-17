@@ -194,5 +194,11 @@ Alternative framing of the question: can a commons be sovereign (in some respect
 
 Absolutely - but should everyone influence everything ? What about interests and capabilities ?
 
+"influence"....🤔
+
+I would think power would need a more direct mechanism than influence to cause action...force seems to be a requirement, and maybe what we mean by power is that the person with power also controls the accountability framework...so they have sequestered the feedback loop to themselves...
+
+
+
 
 
