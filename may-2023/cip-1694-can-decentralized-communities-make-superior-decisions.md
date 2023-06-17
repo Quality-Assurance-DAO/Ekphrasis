@@ -222,6 +222,8 @@ Voting abstracts Social Choice - direct participation makes it concrete ?
 
 In Polkadot you have conviction voting, locking your tokens for a longer time increases their voting power.
 
+Creating a DID is like creating a private key. It is the _verifiable credentials_, which are issued to the DID, as well as the trust in the issuer of the credential that really matters. Beyond signing/cryptography and other technology, it is the trust of the Verifier in the Issuer (or trust registries of trusted issuers) that really matters, and that is the hard part of SSI. As a bootstrap matter for Voltaire, the Federation is basically trusted, so they could collectively identify entities that would issue some basic credential, e.g. "Qualified to be a dRep for a period of time".
+
 
 
 
