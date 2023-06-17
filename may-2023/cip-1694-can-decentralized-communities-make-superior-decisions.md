@@ -162,4 +162,6 @@ Voice our concerns - Ubio - [1:35:33](https://www.youtube.com/watch?v=kzlf3gu366
 
 CIP Editing - [1:36:22](https://www.youtube.com/watch?v=kzlf3gu366k\&t=5782s)&#x20;
 
-Conclusion- [1:39:13](https://www.youtube.com/watch?v=kzlf3gu366k\&t=5953s)
+Conclusion- [1:39:13](https://www.youtube.com/watch?v=kzlf3gu366k\&t=5953s)&#x20;
+
+## Host Chat content
