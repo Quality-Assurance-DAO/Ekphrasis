@@ -200,7 +200,7 @@ I would think power would need a more direct mechanism than influence to cause a
 
 Just thinking out loud🤔
 
-In principal- agent terms a lot of chains act like securities or public companies - maybe the SEC will use that line of arguement ?
+In principal- agent terms a lot of chains act like securities or public companies - maybe the SEC will use that line of argument ?
 
 
 
