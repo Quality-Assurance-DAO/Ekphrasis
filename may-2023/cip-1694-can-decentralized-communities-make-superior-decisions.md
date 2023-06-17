@@ -176,5 +176,11 @@ I suspect DIDs will just 'show' that we have resolved asymmetry...underlying the
 
 Interestingly, this doesn't even mention ADA being a governance token: https://cardano.org/what-is-ada/
 
+If it emerges as a gov token, is this emergence a good thing? Bad because it wasn't part of the plan?
+
+Should a smart contract be able to delegate to a dRep that is a smart contract? Is there any proof of humanity/personhood?&#x20;
+
+From what I remember, there were some discussions around wallet activity monitoring and retiring DREP certificates but from I’m not sure about proof of livelihood.
+
 
 
