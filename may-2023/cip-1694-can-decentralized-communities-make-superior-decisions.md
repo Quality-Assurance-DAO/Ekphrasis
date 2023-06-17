@@ -220,6 +220,8 @@ How about more voting and less reliance on voting, using it more for direction
 
 Voting abstracts Social Choice - direct participation makes it concrete ?
 
+In Polkadot you have conviction voting, locking your tokens for a longer time increases their voting power.
+
 
 
 
