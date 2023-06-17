@@ -48,6 +48,8 @@ Quadrant of DAO Threats - [14:08](https://www.youtube.com/watch?v=kzlf3gu366k\&t
 
 Stake Pool Operation is not 1C1V - Why choose it for dReps ? - [15:10](https://www.youtube.com/watch?v=kzlf3gu366k\&t=910s)&#x20;
 
+### Questioning Round
+
 Questioning Round - [16:34](https://www.youtube.com/watch?v=kzlf3gu366k\&t=994s)&#x20;
 
 Ubio - 1) How does decentralization effect value in blockchain ecosystems ? - [17:20](https://www.youtube.com/watch?v=kzlf3gu366k\&t=1040s)&#x20;
@@ -86,7 +88,9 @@ Is equal power given to all members of a community is a good thing? - Ubio - [36
 
 Weakness of democracy (1 Person, 1 Vote) in decentralized blockchains - Kenric - [37:17](https://www.youtube.com/watch?v=kzlf3gu366k\&t=2237s)&#x20;
 
-Measure of "Stake in the Game"- Kenric - [38:18](https://www.youtube.com/watch?v=kzlf3gu366k\&t=2298s) -------------------------------------------------------------------------------------------------------------------&#x20;
+Measure of "Stake in the Game"- Kenric - [38:18](https://www.youtube.com/watch?v=kzlf3gu366k\&t=2298s)&#x20;
+
+### Quadrant of DAO Threats
 
 Quadrant of DAO Threats - Kenric - [39:12](https://www.youtube.com/watch?v=kzlf3gu366k\&t=2352s)&#x20;
 
@@ -94,7 +98,9 @@ Government regulations that attack system & its operating ability - Kenric - [40
 
 Centralized competitor makes decisions that diminish value - Kenric - [42:38](https://www.youtube.com/watch?v=kzlf3gu366k\&t=2558s)&#x20;
 
-Overbearing bureaucracy that restricts individual autonomy - Kenric - [43:33](https://www.youtube.com/watch?v=kzlf3gu366k\&t=2613s) -------------------------------------------------------------------------------------------------------------------&#x20;
+Overbearing bureaucracy that restricts individual autonomy - Kenric - [43:33](https://www.youtube.com/watch?v=kzlf3gu366k\&t=2613s)&#x20;
+
+### Is this framework useful ?
 
 Is this framework useful ? - [45:22](https://www.youtube.com/watch?v=kzlf3gu366k\&t=2722s)&#x20;
 
@@ -108,15 +114,21 @@ Community needs more voting methods - Eystein - [51:38](https://www.youtube.com/
 
 Clarify use of governance actions. Different incentives alter voting behavior ? - Ken - [53:05](https://www.youtube.com/watch?v=kzlf3gu366k\&t=3185s) Heterogeneity of decision-making - Stephen - [54:52](https://www.youtube.com/watch?v=kzlf3gu366k\&t=3292s)&#x20;
 
-Time to voice community opinions ? - Ken - [56:20](https://www.youtube.com/watch?v=kzlf3gu366k\&t=3380s) -------------------------------------------------------------------------------------------------------------------&#x20;
+Time to voice community opinions ? - Ken - [56:20](https://www.youtube.com/watch?v=kzlf3gu366k\&t=3380s)&#x20;
+
+### Community response to CIP-1694 ?
 
 Community response to CIP-1694 ? - Kenric [56:37](https://www.youtube.com/watch?v=kzlf3gu366k\&t=3397s)&#x20;
 
 Who is the Federation ? - Jonathan - [59:39](https://www.youtube.com/watch?v=kzlf3gu366k\&t=3579s)&#x20;
 
+### Recommendations to modify CIP-1694
+
 Recommendations to modify CIP-1694 - Kenric - [1:07:49](https://www.youtube.com/watch?v=kzlf3gu366k\&t=4069s)&#x20;
 
-1\) Constitutional Council based on sociocratic principles. 2) dReps’ should be Quadratic voting. 3) Saturation / limit on multiple stake pools.&#x20;
+* 1\) Constitutional Council based on sociocratic principles.&#x20;
+* 2\) dReps’ should be Quadratic voting.&#x20;
+* 3\) Saturation / limit on multiple stake pools.&#x20;
 
 Support Quadratic voting for dReps - Ubio - [1:08:40](https://www.youtube.com/watch?v=kzlf3gu366k\&t=4120s)&#x20;
 
