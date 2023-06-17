@@ -190,5 +190,9 @@ Depend what power means in this context ?
 
 Power is the ability to influence action
 
+Alternative framing of the question: can a commons be sovereign (in some respect...maybe not all respects?)
+
+Absolutely - but should everyone influence everything ? What about interests and capabilities ?
+
 
 
