@@ -218,6 +218,8 @@ Your reference to risk of US withdawal made me think of it&#x20;
 
 How about more voting and less reliance on voting, using it more for direction
 
+Voting abstracts Social Choice - direct participation makes it concrete ?
+
 
 
 
