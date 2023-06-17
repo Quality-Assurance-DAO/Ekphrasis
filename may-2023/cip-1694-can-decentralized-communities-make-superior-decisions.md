@@ -164,4 +164,17 @@ CIP Editing - [1:36:22](https://www.youtube.com/watch?v=kzlf3gu366k\&t=5782s)&#x
 
 Conclusion- [1:39:13](https://www.youtube.com/watch?v=kzlf3gu366k\&t=5953s)&#x20;
 
-## Host Chat content
+## Anon Chat content
+
+Community "skin in the game" is not represented in Wallet "Skin the game".
+
+I feel like the next evolution of the communities in Cardano is to understand and share meaning around "trust registries"...the mechanisms which issue and legitimate DIDs (not validate, which is a technical term related to DID protocols)
+
+Yes - DIDs could play a role in resolving these structural assymetries
+
+I suspect DIDs will just 'show' that we have resolved asymmetry...underlying them must be symmetrical communities...maybe its a bit chicken/egg.
+
+Interestingly, this doesn't even mention ADA being a governance token: https://cardano.org/what-is-ada/
+
+
+
