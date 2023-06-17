@@ -202,6 +202,10 @@ Just thinking out loud🤔
 
 In principal- agent terms a lot of chains act like securities or public companies - maybe the SEC will use that line of argument ?
 
+ya these are equal questions I do have, I don't think its fair for people to have equal power to influence everything, especially things they don't have interest and capability in.
+
+Implementing some sort of reputation mechanism would be an ideal solution.
+
 
 
 
