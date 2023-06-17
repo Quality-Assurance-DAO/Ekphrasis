@@ -206,6 +206,8 @@ ya these are equal questions I do have, I don't think its fair for people to hav
 
 Implementing some sort of reputation mechanism would be an ideal solution.
 
+"I would think power would need a more direct mechanism than influence to cause action" Never underestimate the power of the eminence grise 😁
+
 
 
 
