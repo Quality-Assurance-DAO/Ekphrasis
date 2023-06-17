@@ -208,6 +208,8 @@ Implementing some sort of reputation mechanism would be an ideal solution.
 
 "I would think power would need a more direct mechanism than influence to cause action" Never underestimate the power of the eminence grise 😁
 
+The SEC will also argue that they have a responsibility to mitigate exposure to risk
+
 
 
 
