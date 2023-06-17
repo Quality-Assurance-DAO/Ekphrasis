@@ -210,6 +210,14 @@ Implementing some sort of reputation mechanism would be an ideal solution.
 
 The SEC will also argue that they have a responsibility to mitigate exposure to risk
 
+More voting methods or less reliance on voting
+
+Thats a good perspective
+
+Your reference to risk of US withdawal made me think of it&#x20;
+
+How about more voting and less reliance on voting, using it more for direction
+
 
 
 
