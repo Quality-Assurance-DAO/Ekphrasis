@@ -15,19 +15,16 @@
 * [Protocols](sources/protocols.md)
 * [Blockchain Improvement Proposals](sources/blockchain-improvement-proposals.md)
 
-## June 2023
+## 2023
 
-* [CIP — 1694: Can Decentralized Communities Make Superior Decisions?"](may-2023/cip-1694-can-decentralized-communities-make-superior-decisions.md)
-
-## May 2023
-
-* [Voltaire era Parameter Committee](sources/voltaire-era-parameter-committee.md)
-* [CIP-1694 Templates](may-2023/cip-1694-templates.md)
-
-## April 2023
-
-* [Entering Voltaire onchain poll for SPOs](april-2023/page-1.md)
-* [What Constitutes a Constitution?](april-2023/what-constitutes-a-constitution.md)
+* [June 2023](2023/june-2023/README.md)
+  * [CIP — 1694: Can Decentralized Communities Make Superior Decisions?"](2023/june-2023/cip-1694-can-decentralized-communities-make-superior-decisions.md)
+* [May 2023](2023/may-2023/README.md)
+  * [Voltaire era Parameter Committee](2023/may-2023/voltaire-era-parameter-committee.md)
+  * [CIP-1694 Templates](2023/may-2023/cip-1694-templates.md)
+* [April 2023](2023/april-2023/README.md)
+  * [Entering Voltaire onchain poll for SPOs](2023/april-2023/page-1.md)
+  * [What Constitutes a Constitution?](2023/april-2023/what-constitutes-a-constitution.md)
 
 ## March 2023
 
@@ -161,5 +158,3 @@
 ## September 2022
 
 * [Singularitynet Decentralization Report](september-2022/singularitynet-decentralization-report.md)
-
-
