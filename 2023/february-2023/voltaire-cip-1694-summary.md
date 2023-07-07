@@ -6,7 +6,7 @@ description: Blockchain Governance on Cardano. The Voltaire era
 
 {% embed url="https://youtu.be/fe9XvezpdbI" %}
 
-<figure><img src="../.gitbook/assets/CIP-1694-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CIP-1694-01.png" alt=""><figcaption></figcaption></figure>
 
 Cardano is a blockchain platform and cryptocurrency that was developed to provide a more secure and sustainable infrastructure for decentralized applications and digital assets. It is based on the proof-of-stake consensus algorithm and utilizes smart contracts, which allow developers to build decentralized applications on the platform.
 
@@ -16,7 +16,7 @@ The Voltaire era of Cardano aims to make the network self-sustaining by adding a
 
 ## Summary
 
-<figure><img src="../.gitbook/assets/CIP-1694-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CIP-1694-02.png" alt=""><figcaption></figcaption></figure>
 
 In order to achieve these ends of greater decentralization and sustainability Input-Output Global has drafted a Cardano Improvement Proposal, CIP 1694, that outlines “An On-Chain Decentralised Governance Mechanism for Voltaire”.
 
@@ -24,7 +24,7 @@ This presentation by Quality Assurance DAO (QA-DAO) is a summary of CIP-1694.
 
 ### QA-DAO
 
-<figure><img src="../.gitbook/assets/CIP-1694-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CIP-1694-03.png" alt=""><figcaption></figcaption></figure>
 
 QA-DAO is a community organization that provides the following services :&#x20;
 
@@ -38,7 +38,7 @@ You can support our work by delegating to our Cardano Stakepool QADAO, subscribi
 
 ### Background
 
-<figure><img src="../.gitbook/assets/CIP-1694-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CIP-1694-04.png" alt=""><figcaption></figcaption></figure>
 
 In November 2022 a Cardano Improvement Proposal (CIP) titled “An On-Chain Decentralized Governance Mechanism for Voltaire” was submitted to the Cardano Foundation’s [“CIPS” GitHub Repository](https://github.com/cardano-foundation/CIPs)
 
@@ -46,13 +46,13 @@ From the outset Community Feedback has been sought encouraged by both IOG - [htt
 
 ### What is a CIP ? (Cardano Improvement Proposal)
 
-<figure><img src="../.gitbook/assets/CIP-1694-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CIP-1694-05.png" alt=""><figcaption></figcaption></figure>
 
 A CIP is “formalised design document for the Cardano community and the name of the process by which such documents are produced and listed” - https://cips.cardano.org/ The CIP process itself was defined and agreed in CIP 1 - https://cips.cardano.org/cips/cip1&#x20;
 
 ### What is CIP-1694 ?
 
-<figure><img src="../.gitbook/assets/CIP-1694-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CIP-1694-06.png" alt=""><figcaption></figcaption></figure>
 
 In summary the abstract for CIP-1694 proposes a revision of Cardano’s existing governance (the blockchain).&#x20;
 
@@ -66,7 +66,7 @@ ADA holders can register as DReps or SPOs to either represent themselves or to d
 
 ### The Specification&#x20;
 
-<figure><img src="../.gitbook/assets/CIP-1694-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CIP-1694-07.png" alt=""><figcaption></figcaption></figure>
 
 The current specification draft (as of February 2023) documents the following :&#x20;
 
@@ -80,7 +80,7 @@ The **Constitution** (a brief outline of intent) and **The Constitutional Commit
 
 ### What motivated this CIP ?
 
-<figure><img src="../.gitbook/assets/CIP-1694-08 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CIP-1694-08 (1).png" alt=""><figcaption></figcaption></figure>
 
 The motivation behind CIP-1694 is to address shortcomings in the existing Cardano governance mechanism which modifies parameter values (incl. Hard forks) and transfers ADA between reserves and the treasury. These shortcomings include :
 
@@ -91,7 +91,7 @@ The motivation behind CIP-1694 is to address shortcomings in the existing Cardan
 
 ### What next ?
 
-<figure><img src="../.gitbook/assets/CIP-1694-09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CIP-1694-09.png" alt=""><figcaption></figcaption></figure>
 
 Discussion and review of the Specification is encouraged across the Cardano community in order to inform appropriate revisions to this governance model.
 

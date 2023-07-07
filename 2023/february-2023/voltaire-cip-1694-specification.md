@@ -4,7 +4,7 @@
 
 {% embed url="https://youtu.be/OWygSKyv-s8" %}
 
-<figure><img src="../.gitbook/assets/Spec-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-01.png" alt=""><figcaption></figcaption></figure>
 
 In order to achieve these ends of greater decentralization and sustainability Input-Output Global has drafted a Cardano Improvement Proposal, CIP 1694, that outlines “An On-Chain Decentralised Governance Mechanism for Voltaire”.
 
@@ -12,7 +12,7 @@ In order to achieve these ends of greater decentralization and sustainability In
 
 ## Draft Specification
 
-<figure><img src="../.gitbook/assets/Spec-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-02.png" alt=""><figcaption></figcaption></figure>
 
 The current specification draft (as of February 2023) documents the following :
 
@@ -23,13 +23,13 @@ The current specification draft (as of February 2023) documents the following :
 
 ## The Constitution and The Constitutional Committee
 
-<figure><img src="../.gitbook/assets/Spec-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-03.png" alt=""><figcaption></figcaption></figure>
 
 The Constitution and the Constitution Committee form the heart of the On-Chain Decentralized Governance Mechanism.
 
 ### The Constitution
 
-<figure><img src="../.gitbook/assets/Spec-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-04.png" alt=""><figcaption></figcaption></figure>
 
 \
 The Constitution that will inform and guide the Constitution Committee is kept vague. The Constitution is only referred to as a “an informational document that unambiguously captures the Cardano core values”.
@@ -44,7 +44,7 @@ The intent to store the Constitution off-chain with only a “hash digest value�
 
 ### The Constitution Committee
 
-<figure><img src="../.gitbook/assets/Spec-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-05.png" alt=""><figcaption></figcaption></figure>
 
 More detail is provided on the Constitution Committee. The Constitutional Committee represents a set of individuals or entities (authenticated by cryptographic signature) responsible for overseeing governance actions and ensuring that the Constitution is respected.&#x20;
 
@@ -56,7 +56,7 @@ The extent of share of participation from the founding entities and how communit
 
 #### **Constitutional Committee States**
 
-<figure><img src="../.gitbook/assets/Spec-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-06.png" alt=""><figcaption></figcaption></figure>
 
 The Constitutional Committee has two possible states. One, a normal state (i.e. one of confidence) and Two, a state of no-confidence.
 
@@ -70,7 +70,7 @@ See also - https://research.csiro.au/blockchainpatterns/general-patterns/self-so
 
 #### **Replacement of the Constitutional Committee**
 
-<figure><img src="../.gitbook/assets/Spec-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-07.png" alt=""><figcaption></figcaption></figure>
 
 The Constitutional Committee can be replaced either&#x20;
 
@@ -79,7 +79,7 @@ The Constitutional Committee can be replaced either&#x20;
 
 #### **Size of the Constitutional Committee**
 
-<figure><img src="../.gitbook/assets/Spec-08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-08.png" alt=""><figcaption></figcaption></figure>
 
 “The size of the Constitutional Committee and its quorum (the number of votes that are required to enact governance actions) is not fixed and can be varied whenever a new committee is installed.”
 
@@ -87,13 +87,13 @@ In this context a quorum is a minimum number of votes required to enact governan
 
 ## Governance Actions
 
-<figure><img src="../.gitbook/assets/Spec-09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-09.png" alt=""><figcaption></figcaption></figure>
 
 A governance action is a blockchain parameter (“on-chain event”) triggered by a time-limited transaction (“has a deadline after which it cannot be enacted”).
 
 An action is ratified once it has gathered enough votes to support it. If it fails to gather sufficient yes votes before its deadline the action expires. Or any action may be dropped subsequent to a motion of no confidence. Once ratified an action is “enacted”.&#x20;
 
-<figure><img src="../.gitbook/assets/Spec-10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-10.png" alt=""><figcaption></figcaption></figure>
 
 The range of governance actions are as follows :&#x20;
 
@@ -106,7 +106,7 @@ The range of governance actions are as follows :&#x20;
 
 ### Who can submit a Governance Action ?
 
-<figure><img src="../.gitbook/assets/Spec-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-11.png" alt=""><figcaption></figcaption></figure>
 
 Any Ada holder can submit a governance action to the chain. A deposit of Lovelace is required, which will be returned when the action is finalized (whether it is ratified, has been dropped, or has expired).
 
@@ -116,7 +116,7 @@ In the case of other governance actions, voting takes place, followed by ratific
 
 ## Votes
 
-<figure><img src="../.gitbook/assets/Spec-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-12.png" alt=""><figcaption></figcaption></figure>
 
 A vote takes the form of a transaction on the Cardano blockchain. Each vote transaction consists of -
 
@@ -129,7 +129,7 @@ A vote takes the form of a transaction on the Cardano blockchain. Each vote tran
 
 ### Voting Mechanism
 
-<figure><img src="../.gitbook/assets/Spec-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-13.png" alt=""><figcaption></figcaption></figure>
 
 The key hash will trigger the appropriate signature check on the transaction body according to the existing UTxOW ledger rule.
 
@@ -143,7 +143,7 @@ No further votes are considered or recorded
 
 ### Governance State
 
-<figure><img src="../.gitbook/assets/Spec-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-14.png" alt=""><figcaption></figcaption></figure>
 
 When a governance action is successfully submitted to the chain, its progress will be tracked by the ledger state. In particular, the following will be tracked:
 
@@ -155,7 +155,7 @@ When a governance action is successfully submitted to the chain, its progress wi
 
 ### **Ledger epochs**
 
-<figure><img src="../.gitbook/assets/Spec-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-15.png" alt=""><figcaption></figcaption></figure>
 
 An epoch on the Cardano ledger is a time division that regulates the production of blocks as part of a transaction validation process.
 
@@ -175,13 +175,13 @@ Given the status of the governance state this new tally may result in immediate 
 
 ## Delegated Representatives (DReps)
 
-<figure><img src="../.gitbook/assets/Spec-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-16.png" alt=""><figcaption></figcaption></figure>
 
 “Voltaire” DReps not Project Catalyst dReps
 
 The functionality of Cardano staking will be extended to provide the ability for an ADA holder to delegate their stake to DReps.
 
-<figure><img src="../.gitbook/assets/Spec-17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-17.png" alt=""><figcaption></figcaption></figure>
 
 DRep Registration will emulate the existing stake delegation mechanisms via a new set of voting certificates.
 
@@ -189,13 +189,13 @@ These will comprise DRep registration and retirement certificates and a Vote del
 
 ### **New Stake Distribution for DReps**
 
-<figure><img src="../.gitbook/assets/Spec-18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-18.png" alt=""><figcaption></figcaption></figure>
 
 A new stake distribution for DReps will determine what ADA (Lovelace) transactions are active for voting, whether DReps have a sufficient active voting stake and whether a vote threshold has been met.
 
 ### **DRep incentives**
 
-<figure><img src="../.gitbook/assets/Spec-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-19.png" alt=""><figcaption></figcaption></figure>
 
 If DReps are to be compensated for their work corresponding incentive mechanisms will need to be specified with funds coming from the per-epoch treasury allocation.&#x20;
 
@@ -209,7 +209,7 @@ Some options to ensure a manageable number of DReps include:
 
 ## **New Parameter Changes**
 
-<figure><img src="../.gitbook/assets/Spec-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spec-20.png" alt=""><figcaption></figcaption></figure>
 
 New protocol parameters will be needed for the following:
 

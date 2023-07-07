@@ -8,7 +8,7 @@ description: CIP-1694 Administration, review and commentary on GitHub
 
 
 
-<figure><img src="../.gitbook/assets/github.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/github.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -18,7 +18,7 @@ This is a QADAO presentation on the “Voltaire” CIP-1694 Administration, revi
 
 ## QADAO
 
-<figure><img src="../.gitbook/assets/GitHub-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-02.png" alt=""><figcaption></figcaption></figure>
 
 QA-DAO is a community organization that provides the following services :&#x20;
 

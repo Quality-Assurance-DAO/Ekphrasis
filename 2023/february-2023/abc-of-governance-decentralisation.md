@@ -22,7 +22,7 @@ He recognized potential pitfalls such as lack of coordination and efficiency.&#x
 
 00:45
 
-<figure><img src="../.gitbook/assets/decent-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/decent-01.png" alt=""><figcaption></figcaption></figure>
 
 Blockchain decentralisation is often illustrated by types of network.&#x20;
 

@@ -25,22 +25,18 @@
 * [April 2023](2023/april-2023/README.md)
   * [Entering Voltaire onchain poll for SPOs](2023/april-2023/page-1.md)
   * [What Constitutes a Constitution?](2023/april-2023/what-constitutes-a-constitution.md)
-
-## March 2023
-
-* [Voting Schemes in DAO Governance](march-2023/voting-schemes-in-dao-governance.md)
-* [What is a Governance Action ?](iohk-research-team/what-is-a-governance-action.md)
-* [Accounting and auditing literature review](march-2023/accounting-and-auditing-literature-review.md)
-
-## February 2023
-
-* [Voltaire CIP-1694 Summary](february-2023/voltaire-cip-1694-summary.md)
-* [Voltaire CIP-1694 Specification](february-2023/voltaire-cip-1694-specification.md)
-* [CIP-1694 GitHub Administration](february-2023/cip-1694-github-administration.md)
-* [Is Cardano Ethical ? - Remuneration in Project Catalyst](february-2023/is-cardano-ethical-remuneration-in-project-catalyst.md)
-* [CIP-1694 After Town Hall](february-2023/cip-1694-after-town-hall.md)
-* [CIP-1694 Administration on GitHub](february-2023/cip-1694-administration-on-github.md)
-* [ABC of Governance - Decentralisation](february-2023/abc-of-governance-decentralisation.md)
+* [March 2023](2023/march-2023/README.md)
+  * [Accounting and auditing literature review](2023/march-2023/accounting-and-auditing-literature-review.md)
+  * [Voting Schemes in DAO Governance](2023/march-2023/voting-schemes-in-dao-governance.md)
+  * [What is a Governance Action ?](2023/march-2023/what-is-a-governance-action.md)
+* [February 2023](2023/february-2023/README.md)
+  * [Voltaire CIP-1694 Summary](2023/february-2023/voltaire-cip-1694-summary.md)
+  * [Voltaire CIP-1694 Specification](2023/february-2023/voltaire-cip-1694-specification.md)
+  * [CIP-1694 GitHub Administration](2023/february-2023/cip-1694-github-administration.md)
+  * [Is Cardano Ethical ? - Remuneration in Project Catalyst](2023/february-2023/is-cardano-ethical-remuneration-in-project-catalyst.md)
+  * [CIP-1694 After Town Hall](2023/february-2023/cip-1694-after-town-hall.md)
+  * [CIP-1694 Administration on GitHub](2023/february-2023/cip-1694-administration-on-github.md)
+  * [ABC of Governance - Decentralisation](2023/february-2023/abc-of-governance-decentralisation.md)
 
 ## January 2023
 

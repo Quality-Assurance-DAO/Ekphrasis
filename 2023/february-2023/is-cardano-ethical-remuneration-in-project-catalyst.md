@@ -2,25 +2,25 @@
 
 {% embed url="https://youtu.be/Ncb4k8BEwVM" %}
 
-<figure><img src="../.gitbook/assets/Ethic-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ethic-01.png" alt=""><figcaption></figcaption></figure>
 
 This presentation by Quality Assurance DAO (QA-DAO) will examine remuneration in Project Catalyst in an ethical context.
 
 ## Overview
 
-<figure><img src="../.gitbook/assets/Ethic-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ethic-02.png" alt=""><figcaption></figcaption></figure>
 
 The proof of stake blockchain Cardano is progressing towards the Voltaire era of its Roadmap ([https://roadmap.cardano.org/en/voltaire/](https://roadmap.cardano.org/en/voltaire/). ). As part of an exercise to establish a constitution the desire to identify community values has been expressed.&#x20;
 
 ## The Ethics of Blockchain
 
-<figure><img src="../.gitbook/assets/Ethic-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ethic-03.png" alt=""><figcaption></figcaption></figure>
 
 QA-DAO believes that an essential foundation of value discovery is an appreciation and understanding of the ethical dimension of the use of blockchain in organizations and communities.&#x20;
 
 Academic work on the ethics of blockchain in organizations is already proceeding. One good overview of the subject can be found in the 2022 paper “The Ethics of Blockchain in Organizations” ([https://link.springer.com/article/10.1007/s10551-022-05058-5](https://link.springer.com/article/10.1007/s10551-022-05058-5)). The 2022 paper examines “Decentralised People Operations” (DPO) and is relevant in this context of Blockchain’s “impact on human interactions and human decision-making in organizations.”
 
-<figure><img src="../.gitbook/assets/Ethic-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ethic-04.png" alt=""><figcaption></figcaption></figure>
 
 ## Project Catalyst
 
@@ -36,7 +36,7 @@ A proposal to transition  the current centralized Treasury management to a more 
 
 ## Paying Challenge Teams
 
-<figure><img src="../.gitbook/assets/Ethic-05 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ethic-05 (1).png" alt=""><figcaption></figcaption></figure>
 
 * To date Challenge Teams are asked to onboard proposers (Proof of Life), present the Challenge at a Town Hall and write a final report.
 * At present each Challenge Team receives the same payment amount (or fee) drawn from the Cardano Treasury apportioned to Project Catalyst.&#x20;
@@ -45,7 +45,7 @@ A proposal to transition  the current centralized Treasury management to a more 
 
 ## Factors informing remuneration for Challenge Teams
 
-<figure><img src="../.gitbook/assets/Ethic-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ethic-06.png" alt=""><figcaption></figcaption></figure>
 
 These factors should inform the overall amount of remuneration for Challenge Teams.
 
@@ -58,7 +58,7 @@ These factors should inform the overall amount of remuneration for Challenge Tea
 
 ## Ethical Implications
 
-<figure><img src="../.gitbook/assets/Ethic-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ethic-07.png" alt=""><figcaption></figcaption></figure>
 
 In the context of decentralized people operations mentioned above, participants being paid for the administration and/or audit of proposals raises issues of trust, accountability and legitimacy that may not be adequately served only by “protocols and algorithms”.
 
@@ -75,7 +75,7 @@ The Who, What, When, Where and Why of any ethical choice or value judgment is a 
 
 ## QADAO
 
-<figure><img src="../.gitbook/assets/Ethic-08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ethic-08.png" alt=""><figcaption></figcaption></figure>
 
 QA-DAO is a community organization that provides the following services :&#x20;
 
