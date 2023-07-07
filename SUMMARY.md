@@ -37,6 +37,7 @@
   * [CIP-1694 After Town Hall](2023/february-2023/cip-1694-after-town-hall.md)
   * [CIP-1694 Administration on GitHub](2023/february-2023/cip-1694-administration-on-github.md)
   * [ABC of Governance - Decentralisation](2023/february-2023/abc-of-governance-decentralisation.md)
+* [January 2023](2023/january-2023.md)
 
 ## January 2023
 
