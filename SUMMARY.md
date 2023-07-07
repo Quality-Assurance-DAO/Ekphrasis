@@ -37,11 +37,12 @@
   * [CIP-1694 After Town Hall](2023/february-2023/cip-1694-after-town-hall.md)
   * [CIP-1694 Administration on GitHub](2023/february-2023/cip-1694-administration-on-github.md)
   * [ABC of Governance - Decentralisation](2023/february-2023/abc-of-governance-decentralisation.md)
-* [January 2023](2023/january-2023.md)
+* [January 2023](2023/january-2023/README.md)
+  * [Decision Making](2023/january-2023/decision-making.md)
 
-## January 2023
+## 2022
 
-* [Decision Making](january-2023/decision-making.md)
+* [December 2022](2022/december-2022.md)
 
 ## December 2022
 
