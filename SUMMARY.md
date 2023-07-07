@@ -17,6 +17,8 @@
 
 ## 2023
 
+* [July 2023](2023/july-2023/README.md)
+  * [CIP-1694: Pluralism Now!](2023/july-2023/cip-1694-pluralism-now.md)
 * [June 2023](2023/june-2023/README.md)
   * [CIP — 1694: Can Decentralized Communities Make Superior Decisions?](2023/june-2023/cip-1694-can-decentralized-communities-make-superior-decisions.md)
 * [May 2023](2023/may-2023/README.md)
@@ -38,16 +40,13 @@
   * [CIP-1694 Administration on GitHub](2023/february-2023/cip-1694-administration-on-github.md)
   * [ABC of Governance - Decentralisation](2023/february-2023/abc-of-governance-decentralisation.md)
 * [January 2023](2023/january-2023/README.md)
-  * [Decision Making](2023/january-2023/decision-making.md)
+  * [Decision Making](january-2023/decision-making.md)
 
 ## 2022
 
-* [December 2022](2022/december-2022.md)
-
-## December 2022
-
-* [Reputation at Stake!](december-2022/reputation-at-stake.md)
-* [Empowering community-driven governance on Cardano](december-2022/empowering-community-driven-governance-on-cardano.md)
+* [December 2022](2022/december-2022/README.md)
+  * [Reputation at Stake!](2022/december-2022/reputation-at-stake.md)
+  * [Empowering community-driven governance on Cardano](2022/december-2022/empowering-community-driven-governance-on-cardano.md)
 
 ## November 2022
 
