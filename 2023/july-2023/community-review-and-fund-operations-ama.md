@@ -1,10 +1,16 @@
+---
+description: >-
+  IOG Catalyst Team host an AMA to address questions the community has about
+  their F10 Fund Operations proposal.
+---
+
 # Community Review & Fund Operations AMA
 
 {% embed url="https://youtu.be/onwOzMwq2lw" %}
 
 ### Fund Operations AMA
 
-Catalyst Team are hosting an AMA to address any questions the community has about their Fund Operations proposal.&#x20;
+IOG Catalyst Team host an AMA to address questions the community has about their F10 Fund Operations proposal.&#x20;
 
 Participants : Nigel Hemsley - Head of Catalyst Governance Kriss Baird - TBA Daniel Ribar - Catalyst Community Manager (Facilitation) Steven Johnston - TBA
 
