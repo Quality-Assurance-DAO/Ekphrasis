@@ -55,3 +55,9 @@ Existing operation needs to know what funding looks like over 1 year - Nigel Hem
 (NB - Total F10 Budget = 50m ADA - 3% =1.5m ADA)&#x20;
 
 (NB - Total Cost per Fund Period of 4 months: ₳2,140,000 )
+
+This cost does not include Catalyst System Improvement proposals
+
+Ideascale replacement - [https://cardano.ideascale.com/c/idea/107599](https://cardano.ideascale.com/c/idea/107599) - 840000 ADA
+
+Catalyst Ecosystem Accelerator - [https://cardano.ideascale.com/c/idea/107555](https://cardano.ideascale.com/c/idea/107555) - 2000000 ADA
