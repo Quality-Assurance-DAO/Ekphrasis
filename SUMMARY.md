@@ -18,6 +18,7 @@
 ## 2023
 
 * [July 2023](2023/july-2023/README.md)
+  * [Community Review & Fund Operations AMA](2023/july-2023/community-review-and-fund-operations-ama.md)
   * [CIP-1694: Pluralism Now!](2023/july-2023/cip-1694-pluralism-now.md)
 * [June 2023](2023/june-2023/README.md)
   * [CIP — 1694: Can Decentralized Communities Make Superior Decisions?](2023/june-2023/cip-1694-can-decentralized-communities-make-superior-decisions.md)
