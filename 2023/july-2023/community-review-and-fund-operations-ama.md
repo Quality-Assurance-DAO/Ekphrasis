@@ -32,32 +32,168 @@ Issue Board for this proposal - [https://github.com/orgs/Quality-Assur...](https
 
 ## Timestamps (QADAO)
 
+Timestamps (QADAO) ----------------&#x20;
+
 Introduction - Daniel Ribar - [00:02](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2s)&#x20;
 
 What happens if the proposal does not get funded ? - Joey - [01:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=96s)&#x20;
 
-(Pause in Treasury ?) Will be a pause during 1694 Hard Fork - Nigel Hemsley - [02:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=123s)&#x20;
+(Pause in Treasury ?)&#x20;
 
-(Training of Cardano dReps, part of Bootstrap period design) Competitive footing - [02:40](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=160s)&#x20;
+Will be a pause during 1694 Hard Fork - Nigel Hemsley - [02:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=123s)&#x20;
 
-(Level of IOG Catalyst Team competency, development of competition, first funding period challenge is continuity) Will IOG funding stop ? - Joey - [03:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=229s)&#x20;
+(Training of Cardano dReps, part of Bootstrap period design)&#x20;
+
+Competitive footing - [02:40](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=160s)&#x20;
+
+(Level of IOG Catalyst Team competency, development of competition, first funding period challenge is continuity)&#x20;
+
+Will IOG funding stop ? - Joey - [03:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=229s)&#x20;
 
 Yes - Catalyst becomes self sustaining from Cardano - Nigel Hemsley - [04:13](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=253s)&#x20;
 
-(Fund operation funded same way as projects) Operations Challenge Strategy - Tevo - [04:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=271s)&#x20;
+(Fund operation funded same way as projects)&#x20;
+
+Operations Challenge Strategy - Tevo - [04:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=271s)&#x20;
 
 Existing operation needs to know what funding looks like over 1 year - Nigel Hemsley - [05:28](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=328s)&#x20;
 
-(Constrained by funding rules to apply in 1 fund)&#x20;
+(Operation or business ?)&#x20;
 
-(Set out reasonable costs of 3% per fund)&#x20;
+(Constrained by funding rules to apply in 1 fund)
 
-(NB - Total F10 Budget = 50m ADA - 3% =1.5m ADA)&#x20;
+&#x20;(Set out reasonable costs of 3% per fund)&#x20;
 
-(NB - Total Cost per Fund Period of 4 months: ₳2,140,000 )
+(NB - Total F10 Budget = 50m ADA - 3% =1.5m ADA)
 
-This cost does not include Catalyst System Improvement proposals
+&#x20;(NB - Total Cost per Fund Period of 4 months: ₳2,140,000 )&#x20;
 
-Ideascale replacement - [https://cardano.ideascale.com/c/idea/107599](https://cardano.ideascale.com/c/idea/107599) - 840000 ADA
+Pitch for a year - to scale up takes time - [06:30](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=390s)&#x20;
 
-Catalyst Ecosystem Accelerator - [https://cardano.ideascale.com/c/idea/107555](https://cardano.ideascale.com/c/idea/107555) - 2000000 ADA
+(Annual review position is reasonable)&#x20;
+
+Why not describe that situation in the Challenge setting ? - Tevo - [07:07](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=427s)&#x20;
+
+Could have been an oversight - Nigel - [07:17](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=437s)&#x20;
+
+(Level of detail demonstrates transparency)
+
+&#x20;(Never going to get it perfect)(Identifying improvements)&#x20;
+
+Benefit of hindsight - Daniel - [07:54](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=474s)&#x20;
+
+(Challenge stipulates annual plan)
+
+(Challenge tied to single funding round)&#x20;
+
+(In hindsight a clearer description that levels the Challenge more)&#x20;
+
+Kudos to 9 fund operation - Thorsten - [10:04](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=604s)&#x20;
+
+New funding situation - Thorsten - [10:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=636s)&#x20;
+
+(No level playing field)&#x20;
+
+Assume that everyone is working hard - Thorsten - [11:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=663s)&#x20;
+
+(Everyone has to pitch in a proposal the same way) (No guarantee of payoff)&#x20;
+
+Using stage of main Town Hall - Thorsten - [11:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=691s)&#x20;
+
+(incumbent advantage)(F10 handover not realistically possible)&#x20;
+
+Not a collaborative approach to say if proposal not funded "its all over" - Thorsten - [12:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=723s)&#x20;
+
+(If you do not vote for us you walk into uncertainty)&#x20;
+
+Other people do not have the same stage - Thorsten - [12:25](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=745s)&#x20;
+
+(Do not "blackmail" the community)&#x20;
+
+Consensus on success of Catalyst - Thorsten - [12:44](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=764s)&#x20;
+
+(Open up operations to the community )&#x20;
+
+F11 and F12 opportunities - Thorsten - [13:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=790s)&#x20;
+
+Cannot answer all of that - Nigel - [13:29](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=809s)&#x20;
+
+(Transition from "free" to funded service)(to a successful business)&#x20;
+
+IOG will ask why do this for free - Nigel - [13:58](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=838s)&#x20;
+
+Inclusion - setup already includes community suppliers - Nigel - [14:18](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=858s)&#x20;
+
+CIP 1694 direction - Nigel - [14:53](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=893s)&#x20;
+
+(Sustainable & secure treasury access)&#x20;
+
+Difficult for people to compete - Nigel - [15:08](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=908s)&#x20;
+
+(Definitely something people can compete with)&#x20;
+
+NB - Contradiction (Requires similar competency to Catalyst)&#x20;
+
+Achieve competition over next year - Nigel - [15:38](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=938s)&#x20;
+
+Carving up Catalyst - Nigel - [15:50](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=950s)&#x20;
+
+Catalyst Team want to run operations for other chains - Nigel - [16:02](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=962s)&#x20;
+
+Need for continuity in F10 - Thorsten - [16:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=970s)&#x20;
+
+Leveling playing field in F11 & F12 - Thorsten - [16:40](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1000s)&#x20;
+
+A year to achieve that - Nigel - [16:53](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1013s)&#x20;
+
+Stability more important than change - Thorsten - [17:01](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1021s)&#x20;
+
+Importance of a commitment to enabling competition - Thorsten - [17:24](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1044s)&#x20;
+
+Make a category in F11 to train people up - Nigel - [17:47](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1067s)&#x20;
+
+Upcoming F11 categorization workshops - Daniel - [18:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1085s)&#x20;
+
+(4 workshops planned)&#x20;
+
+Cooperation and co-building in the Catalyst Systems Improvement Challenge - Daniel - [18:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1116s)&#x20;
+
+Meaningful collaboration in Catalyst Systems Improvements - Steven Johnson - [19:43](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1183s)&#x20;
+
+How to approach assessment stage ? - Jorge - [22:20](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1340s)&#x20;
+
+Do not be afraid to voice your opinions - Daniel - [23:07](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1387s)&#x20;
+
+50 million in a single transaction - Lloyd - [24:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1443s)&#x20;
+
+Catalyst Operations proposal step in right direction - Lloyd - [24:47](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1487s)&#x20;
+
+(Accountability, Metrics)&#x20;
+
+Voting for 150 million ADA being returned to the community - Lloyd - [25:20](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1520s)
+
+(Alternatives too risky)&#x20;
+
+Vote of confidence - Lloyd - [25:50](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1550s)
+
+Internal disagreement on timing of F10 - Nigel - [26:09](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1569s)&#x20;
+
+Community decides whether they want 3 funds in next year - Nigel - [26:24](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1584s)&#x20;
+
+3 questions - Lloyd - [27:09](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1629s)&#x20;
+
+1 - Will there be a Voltaire vote for Catalyst ? - Lloyd - [27:17](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1637s)&#x20;
+
+(As an additional step)&#x20;
+
+Allocate F10 then figure out the other funding rounds - Nigel - [27:35](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1655s)&#x20;
+
+CIP-1694 Bootstrap period - Nigel - [27:54](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1674s)&#x20;
+
+(Might have to download 2 funds in 1 round)&#x20;
+
+Uncertainty going into Voltaire - Lloyd - [28:39](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1719s)&#x20;
+
+(Work through as Voltaire progresses)&#x20;
+
+2 - Building competition - Lloyd - [28:57](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1737s)
