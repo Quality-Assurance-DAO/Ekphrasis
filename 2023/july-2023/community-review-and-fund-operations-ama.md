@@ -304,4 +304,14 @@ Lowering barriers to entry - Steven - [45:04](https://www.youtube.com/watch?v=on
 
 (accessibility of technology stack)(sustainability of services)
 
-Assembly line analogy - Joey - [46:27](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2787s)
+Assembly line analogy - Joey - [46:27](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2787s)&#x20;
+
+Confidence in funding - [47:25](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2845s)&#x20;
+
+Replacement of Ideascale - [48:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2883s)&#x20;
+
+Assistance with testing - Nigel - [49:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2945s)&#x20;
+
+Recruit from community - Steven - [49:38](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2978s)&#x20;
+
+(partners in process)
