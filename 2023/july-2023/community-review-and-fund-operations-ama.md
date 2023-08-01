@@ -226,11 +226,15 @@ Next proposal category may specify handover - Nigel - [29:42](https://www.youtub
 
 Categorical elements, breaking things up - Lloyd - [30:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1812s)&#x20;
 
+### 3 - Funding of Working groups
+
 3 - Funding of Working groups ? - Lloyd - [30:39](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1839s)&#x20;
 
 (Planned for F11 ?)&#x20;
 
 Build out from basic infrastructure - Kriss Baird - [31:23](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1883s)&#x20;
+
+## Structural transition plan ?
 
 Structural transition plan ? - Stephen W - [32:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1969s)&#x20;
 
@@ -248,11 +252,15 @@ Client account analogy - Nigel - [34:50](https://www.youtube.com/watch?v=onwOzMw
 
 (Asset management)(Money only used to fund Catalyst innovation)(Smoother operational setup)&#x20;
 
+## Who drafts service level agreement ?&#x20;
+
 Who will draft service level agreement ? - Stephen W - [36:15](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2175s)&#x20;
 
 Legal counsel will require degree of independence - Nigel - [36:23](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2183s)&#x20;
 
 (Dependent on jurisdiction of where Catalyst Trust is setup)&#x20;
+
+## Risk assessment ?
 
 Risk assessment for the transition ? - Stephen W - [36:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2196s)&#x20;
 
