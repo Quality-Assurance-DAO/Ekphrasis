@@ -315,3 +315,15 @@ Assistance with testing - Nigel - [49:05](https://www.youtube.com/watch?v=onwOzM
 Recruit from community - Steven - [49:38](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2978s)&#x20;
 
 (partners in process)
+
+## Will milestone process apply ?
+
+Will milestone process apply ? - Thorsten - [50:55](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3055s)&#x20;
+
+Independent oversight of milestones - Daniel - [51:28](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3088s)&#x20;
+
+(IOG sense checking role)(Long process)&#x20;
+
+## Contingency for expansion ?
+
+Contingency for expansion ? - Thorsten - [54:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3250s)
