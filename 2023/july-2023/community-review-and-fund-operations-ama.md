@@ -303,3 +303,5 @@ Sustaining grassroots networks - Daniel - [42:00](https://www.youtube.com/watch?
 Lowering barriers to entry - Steven - [45:04](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2704s)&#x20;
 
 (accessibility of technology stack)(sustainability of services)
+
+Assembly line analogy - Joey - [46:27](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2787s)
