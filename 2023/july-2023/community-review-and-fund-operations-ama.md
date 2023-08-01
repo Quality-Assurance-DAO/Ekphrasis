@@ -216,4 +216,50 @@ Uncertainty going into Voltaire - Lloyd - [28:39](https://www.youtube.com/watch?
 
 ### 2 - Building competition
 
-2 - Building competition - Lloyd - [28:57](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1737s)
+2 - When will next years competition take place ? - Lloyd - [28:57](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1737s)&#x20;
+
+(Building competition)(Any leeway ?)&#x20;
+
+Any operator should have minimum year funding - Nigel - [29:26](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1766s)&#x20;
+
+Next proposal category may specify handover - Nigel - [29:42](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1782s)&#x20;
+
+Categorical elements, breaking things up - Lloyd - [30:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1812s)&#x20;
+
+3 - Funding of Working groups ? - Lloyd - [30:39](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1839s)&#x20;
+
+(Planned for F11 ?)&#x20;
+
+Build out from basic infrastructure - Kriss Baird - [31:23](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1883s)&#x20;
+
+Structural transition plan ? - Stephen W - [32:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1969s)&#x20;
+
+1 - Legal Clarity / 2 - Catalyst Funding Vehicle & Team / 3 - Service Level Agreement - [33:17](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1997s)&#x20;
+
+(Risk assessment on transition ?)&#x20;
+
+Draw down a fund to hold in a legal vehicle - Nigel - [33:58](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2038s)&#x20;
+
+(only one beneficiary = Cardano community)(avoid small treasury withdrawals)&#x20;
+
+Contractual separation based on proposal acceptance ? - Stephen W - [34:33](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2073s)&#x20;
+
+Client account analogy - Nigel - [34:50](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2090s)&#x20;
+
+(Asset management)(Money only used to fund Catalyst innovation)(Smoother operational setup)&#x20;
+
+Who will draft service level agreement ? - Stephen W - [36:15](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2175s)&#x20;
+
+Legal counsel will require degree of independence - Nigel - [36:23](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2183s)&#x20;
+
+(Dependent on jurisdiction of where Catalyst Trust is setup)&#x20;
+
+Risk assessment for the transition ? - Stephen W - [36:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2196s)&#x20;
+
+Only in the way we manage operations currently - Nigel - [36:43](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2203s)&#x20;
+
+(Nothing special in terms of risk assessment) Currency risk ? - Stephen W - [37:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2232s)&#x20;
+
+(Fallback plans for delivery ?)&#x20;
+
+currently - Nigel - [37:24](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2244s)
