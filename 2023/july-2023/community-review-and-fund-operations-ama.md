@@ -299,3 +299,7 @@ Improve community interaction - [41:20](https://www.youtube.com/watch?v=onwOzMwq
 Sustaining grassroots networks - Daniel - [42:00](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2520s)&#x20;
 
 (Deterioration of grassroots community over last 6 months)(Volunteering is expensive)
+
+Lowering barriers to entry - Steven - [45:04](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2704s)&#x20;
+
+(accessibility of technology stack)(sustainability of services)
