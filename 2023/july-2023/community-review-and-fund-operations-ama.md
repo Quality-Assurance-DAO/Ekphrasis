@@ -266,8 +266,22 @@ Risk assessment for the transition ? - Stephen W - [36:36](https://www.youtube.c
 
 Only in the way we manage operations currently - Nigel - [36:43](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2203s)&#x20;
 
-(Nothing special in terms of risk assessment) Currency risk ? - Stephen W - [37:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2232s)&#x20;
+(Nothing special in terms of risk assessment)&#x20;
+
+## Currency risk ?
+
+Currency risk ? - Stephen W - [37:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2232s)&#x20;
 
 (Fallback plans for delivery ?)&#x20;
 
-currently - Nigel - [37:24](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2244s)
+Same currency risk as everyone - Nigel - [37:24](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2244s)&#x20;
+
+(Managing upside and downside)(draw down from Catalyst Development Trust)&#x20;
+
+Use of any surplus profit ? - Stephen W - [38:06](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2286s)&#x20;
+
+Re calibrate the next fund - Nigel - [38:14](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2294s)&#x20;
+
+## Next 12 months ?
+
+Most important thing to work on in the next 12 months ? - Simon - [39:32](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2372s)
