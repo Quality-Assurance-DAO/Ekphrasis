@@ -284,4 +284,18 @@ Re calibrate the next fund - Nigel - [38:14](https://www.youtube.com/watch?v=onw
 
 ## Next 12 months ?
 
-Most important thing to work on in the next 12 months ? - Simon - [39:32](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2372s)
+Most important thing to work on in the next 12 months ? - Simon - [39:32](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2372s)&#x20;
+
+Consistent funding - Nigel - [40:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2412s)&#x20;
+
+Cross over with CIP 1694 funding - [40:48](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2448s)&#x20;
+
+(Funding from other VCs)&#x20;
+
+Improve community interaction - [41:20](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2480s)&#x20;
+
+(Community involvement in fund operations)&#x20;
+
+Sustaining grassroots networks - Daniel - [42:00](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2520s)&#x20;
+
+(Deterioration of grassroots community over last 6 months)(Volunteering is expensive)
