@@ -326,4 +326,8 @@ Independent oversight of milestones - Daniel - [51:28](https://www.youtube.com/w
 
 ## Contingency for expansion ?
 
-Contingency for expansion ? - Thorsten - [54:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3250s)
+Contingency for expansion ? - Thorsten - [54:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3250s)&#x20;
+
+Evaluate and respond - Nigel - [55:16](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3316s)&#x20;
+
+(NB - Agile approach)
