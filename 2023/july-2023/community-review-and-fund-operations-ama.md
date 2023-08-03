@@ -331,3 +331,15 @@ Contingency for expansion ? - Thorsten - [54:10](https://www.youtube.com/watch?v
 Evaluate and respond - Nigel - [55:16](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3316s)&#x20;
 
 (NB - Agile approach)
+
+Evaluate and respond if bigger operation required - Nigel - [55:16](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3316s)&#x20;
+
+## Data Licensing&#x20;
+
+Data Licensing - Darlington - [56:37](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3397s)&#x20;
+
+Open Source solution - Nigel - [57:46](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3466s)&#x20;
+
+Encrypted data - Darlington - [58:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3485s)&#x20;
+
+GDPR Limits - Steven - [58:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3511s)
