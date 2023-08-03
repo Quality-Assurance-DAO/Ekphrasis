@@ -347,3 +347,5 @@ GDPR Limits - Steven - [58:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=35
 (Email address registration causes GDPR responsibilities)(Wallet registration sought in the future).
 
 (Avoiding custody of data also reason to exit Ideascale)
+
+Data liabilities - Daniel - [1:00:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3612s)
