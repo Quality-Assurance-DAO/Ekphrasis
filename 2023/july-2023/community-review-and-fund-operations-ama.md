@@ -343,3 +343,5 @@ Open Source solution - Nigel - [57:46](https://www.youtube.com/watch?v=onwOzMwq2
 Encrypted data - Darlington - [58:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3485s)&#x20;
 
 GDPR Limits - Steven - [58:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3511s)
+
+(Email address registartion causes GDPR responsibilities)(Alternative form of registartion sought in the future).
