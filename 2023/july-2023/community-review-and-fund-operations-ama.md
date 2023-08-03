@@ -355,3 +355,9 @@ Interoperability of data - Steven - [1:02:25](https://www.youtube.com/watch?v=on
 Short term concerns - Darlington - [1:03:37](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3817s)&#x20;
 
 Catalyst System Improvement context - Steven - [1:04:21](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3861s)
+
+Operational fiduciary detail - Darlington - [1:04:47](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3887s)&#x20;
+
+We can look into that - Nigel - [1:05:24](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3924s)&#x20;
+
+Open community involvement in process- Darlington - [1:08:01](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4081s)
