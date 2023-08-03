@@ -363,3 +363,17 @@ We can look into that - Nigel - [1:05:24](https://www.youtube.com/watch?v=onwOzM
 Open community involvement in process- Darlington - [1:08:01](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4081s)
 
 Decentralised authorsation - Steven - [1:09:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4145s)
+
+(Role based access control)&#x20;
+
+Decentralised UX - Steven - [1:14:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4450s)&#x20;
+
+Co-creation not in milestones ?- Darlington - [1:15:45](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4545s)&#x20;
+
+Data migration - Steven - [1:17:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4669s)&#x20;
+
+## Category scoping workshops
+
+Category scoping workshops - Quasar - [1:19:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4789s)&#x20;
+
+4 biweekly workshops - Daniel - [1:21:14](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4874s)
