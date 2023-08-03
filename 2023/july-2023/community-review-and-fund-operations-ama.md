@@ -344,4 +344,4 @@ Encrypted data - Darlington - [58:05](https://www.youtube.com/watch?v=onwOzMwq2l
 
 GDPR Limits - Steven - [58:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3511s)
 
-(Email address registartion causes GDPR responsibilities)(Alternative form of registartion sought in the future).
+(Email address registration causes GDPR responsibilities)(Alternative form of registration sought in the future).
