@@ -361,3 +361,5 @@ Operational fiduciary detail - Darlington - [1:04:47](https://www.youtube.com/wa
 We can look into that - Nigel - [1:05:24](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3924s)&#x20;
 
 Open community involvement in process- Darlington - [1:08:01](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4081s)
+
+Decentralised authorsation - Steven - [1:09:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4145s)
