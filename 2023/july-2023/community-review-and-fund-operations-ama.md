@@ -349,3 +349,9 @@ GDPR Limits - Steven - [58:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=35
 (Avoiding custody of data also reason to exit Ideascale)
 
 Data liabilities - Daniel - [1:00:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3612s)
+
+Interoperability of data - Steven - [1:02:25](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3745s)&#x20;
+
+Short term concerns - Darlington - [1:03:37](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3817s)&#x20;
+
+Catalyst System Improvement context - Steven - [1:04:21](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3861s)
