@@ -344,6 +344,8 @@ Recruit from community - Steven - [49:38](https://www.youtube.com/watch?v=onwOzM
 
 ## Will milestone process apply ?
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/22" %}
+
 Will milestone process apply ? - Thorsten - [50:55](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3055s)&#x20;
 
 Independent oversight of milestones - Daniel - [51:28](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3088s)&#x20;
