@@ -294,6 +294,8 @@ Only in the way we manage operations currently - Nigel - [36:43](https://www.you
 
 ## Currency risk ?
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/21" %}
+
 Currency risk ? - Stephen W - [37:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2232s)&#x20;
 
 (Fallback plans for delivery ?)&#x20;
