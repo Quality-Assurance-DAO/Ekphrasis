@@ -149,7 +149,7 @@ Overall, we think that the proposal is indeed an initiative in the right directi
 
 At a Swarm Session held on 22nd July 2023 the following initial questions and comments were raised
 
-[https://youtu.be/T3xT4WOA0QM](https://youtu.be/T3xT4WOA0QM)
+{% embed url="https://youtu.be/T3xT4WOA0QM" %}
 
 **Points from the Chat:**
 
