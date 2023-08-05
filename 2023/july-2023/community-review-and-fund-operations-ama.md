@@ -244,6 +244,8 @@ Categorical elements, breaking things up - Lloyd - [30:12](https://www.youtube.c
 
 ### 3 - Funding of Working groups
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/17" %}
+
 3 - Funding of Working groups ? - Lloyd - [30:39](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1839s)&#x20;
 
 (Planned for F11 ?)&#x20;
