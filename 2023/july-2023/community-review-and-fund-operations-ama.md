@@ -62,6 +62,8 @@ Yes - Catalyst becomes self sustaining from Cardano - Nigel Hemsley - [04:13](ht
 
 ## Operations Challenge Strategy
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/11" %}
+
 Operations Challenge Strategy - Tevo - [04:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=271s)&#x20;
 
 Existing operation needs to know what funding looks like over 1 year - Nigel Hemsley - [05:28](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=328s)&#x20;
