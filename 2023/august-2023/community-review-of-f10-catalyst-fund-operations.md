@@ -104,13 +104,15 @@ A selection of comments on the proposal
 
 Issues related to questions and comments raised are being collated on this GitHub Project Board - [https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1](https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1) with contextual labels that relate to review categories (Impact, Feasibility & Value for Money) and proposal sub sections.
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2023-08-05 18-30-55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot from 2023-08-05 18-30-55.png" alt=""><figcaption><p>Oversight Project Board</p></figcaption></figure>
 
 ### Milestone Oversight <a href="#_penq8fnlexet" id="_penq8fnlexet"></a>
 
 We hope to build on this audit trail if the proposal is funded by categorizing issues by capturing milestones (before and after funding) in the Project Catalyst process.&#x20;
 
 
+
+<figure><img src="../../.gitbook/assets/Screenshot from 2023-08-05 18-42-37.png" alt=""><figcaption><p>Project Catalyst Milestones</p></figcaption></figure>
 
 ## Review <a href="#_penq8fnlexet" id="_penq8fnlexet"></a>
 
