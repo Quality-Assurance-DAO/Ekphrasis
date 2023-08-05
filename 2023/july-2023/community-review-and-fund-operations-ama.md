@@ -178,6 +178,8 @@ Cooperation and co-building in the Catalyst Systems Improvement Challenge - Dani
 
 ## Meaningful collaboration
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/14" %}
+
 Meaningful collaboration in Catalyst Systems Improvements - Steven Johnson - [19:43](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1183s)&#x20;
 
 How to approach assessment stage ? - Jorge - [22:20](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1340s)&#x20;
