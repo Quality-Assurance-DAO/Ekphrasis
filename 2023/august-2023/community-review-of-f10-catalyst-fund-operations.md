@@ -100,9 +100,13 @@ A selection of comments on the proposal
 
 [https://projectcatalyst.io/blog/co-building-the-gears-of-innovation-through-the-relaunch-of-project-catalyst-with-fund10](https://projectcatalyst.io/blog/co-building-the-gears-of-innovation-through-the-relaunch-of-project-catalyst-with-fund10)
 
-#### Issue Board <a href="#_rmkq4rjkcad2" id="_rmkq4rjkcad2"></a>
+### Issue Board <a href="#_rmkq4rjkcad2" id="_rmkq4rjkcad2"></a>
 
 Issues related to questions and comments raised will be collated on this Project Board - [https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1](https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1) with contextual labels that relate to review categories and proposal sections.
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot from 2023-08-05 18-30-55.png" alt=""><figcaption></figcaption></figure>
 
 ## Review <a href="#_penq8fnlexet" id="_penq8fnlexet"></a>
 
