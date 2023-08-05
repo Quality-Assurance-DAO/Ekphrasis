@@ -128,29 +128,22 @@ _Is the funding amount requested for this project reasonable and does it provide
 
 At an informal After Town Hall held on July 19th 2023 the following initial questions and comments were raised -
 
-Questions
+#### Questions
 
-Is this proposal a commitment to the next 3 rounds ? Yes
+* Is this proposal a commitment to the next 3 rounds ? Yes
+* How will ADA value affect timescales ?
+* Why submitted at the last moment even though IOG designed the Challenge ?
+* Should the treasury amount be included in the proposal ?
+* Who is the Third party they request funds from ?
+* Breaking the rules for release of funds per \[category?]
+* Community Review perspective - Help Project Catalyst with their proposal
+* Good to see some transparency from IOG
+* Critical but constructive feedback
+* Why has the proposal been communicated that poorly by IOG so far ?
 
-How will ADA value affect timescales ?
+#### Conclusion
 
-Why submitted at the last moment even though IOG designed the Challenge ?
-
-Should the treasury amount be included in the proposal ?
-
-Who is the Third party they request funds from ?
-
-Breaking the rules for release of funds per \[category?]
-
-Community Review perspective - Help Project Catalyst with their proposal
-
-Good to see some transparency from IOG
-
-Critical but constructive feedback
-
-Why has the proposal been communicated that poorly by IOG so far ?
-
-Overall, we think that the proposal is indeed an initiative in the right direction towards a more decentrailsed position of the IOG Catalyst team and the project Catalyst at general. Tho, there seem many uncertainties on the proposal and we want to build understanding and support for the proposal within the Catalyst Community.
+Overall, we think that the proposal is indeed an initiative in the right direction towards a more decentrailsed position of the IOG Catalyst team and the project Catalyst at general. Though there seem many uncertainties on the proposal and we want to build understanding and support for the proposal within the Catalyst Community.
 
 ### Swarm Session, 22nd July 2023 <a href="#_fy3tc26wdkj1" id="_fy3tc26wdkj1"></a>
 
