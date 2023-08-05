@@ -156,6 +156,8 @@ Catalyst Team want to run operations for other chains - Nigel - [16:02](https://
 
 ## Need for continuity in F10
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/13" %}
+
 Need for continuity in F10 - Thorsten - [16:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=970s)&#x20;
 
 Leveling playing field in F11 & F12 - Thorsten - [16:40](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1000s)&#x20;
