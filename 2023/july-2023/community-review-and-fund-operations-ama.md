@@ -16,11 +16,11 @@ IOG Catalyst Team host an AMA to address questions the community has about their
 
 &#x20;Nigel Hemsley - Head of Catalyst Governance&#x20;
 
-Kriss Baird - TBA&#x20;
+Kriss Baird - Product Manager - Catalyst&#x20;
 
 Daniel Ribar - Catalyst Community Manager (Facilitation)&#x20;
 
-Steven Johnston - TBA
+Steven Johnston - Lead Architect - Catalyst
 
 ## Links
 
