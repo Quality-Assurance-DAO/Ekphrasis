@@ -188,6 +188,8 @@ Do not be afraid to voice your opinions - Daniel - [23:07](https://www.youtube.c
 
 ## Accountability, Metrics
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/15" %}
+
 50 million in a single transaction - Lloyd - [24:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1443s)&#x20;
 
 Catalyst Operations proposal step in right direction - Lloyd - [24:47](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1487s)&#x20;
