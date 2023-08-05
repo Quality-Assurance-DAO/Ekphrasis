@@ -274,6 +274,8 @@ Client account analogy - Nigel - [34:50](https://www.youtube.com/watch?v=onwOzMw
 
 ## Who drafts service level agreement ?&#x20;
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/19" %}
+
 Who will draft service level agreement ? - Stephen W - [36:15](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2175s)&#x20;
 
 Legal counsel will require degree of independence - Nigel - [36:23](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2183s)&#x20;
