@@ -366,6 +366,8 @@ Evaluate and respond if bigger operation required - Nigel - [55:16](https://www.
 
 ## Data Licensing&#x20;
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/24" %}
+
 Data Licensing - Darlington - [56:37](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3397s)&#x20;
 
 Open Source solution - Nigel - [57:46](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3466s)&#x20;
