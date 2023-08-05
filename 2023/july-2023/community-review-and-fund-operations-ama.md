@@ -284,6 +284,8 @@ Legal counsel will require degree of independence - Nigel - [36:23](https://www.
 
 ## Risk assessment ?
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/20" %}
+
 Risk assessment for the transition ? - Stephen W - [36:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2196s)&#x20;
 
 Only in the way we manage operations currently - Nigel - [36:43](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2203s)&#x20;
