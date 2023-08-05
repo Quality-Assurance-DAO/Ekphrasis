@@ -406,6 +406,8 @@ Data migration - Steven - [1:17:49](https://www.youtube.com/watch?v=onwOzMwq2lw\
 
 ## Category scoping workshops
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/25" %}
+
 Category scoping workshops - Quasar - [1:19:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4789s)&#x20;
 
 4 biweekly workshops - Daniel - [1:21:14](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4874s)
