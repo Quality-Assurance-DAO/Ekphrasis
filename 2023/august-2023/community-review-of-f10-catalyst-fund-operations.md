@@ -100,7 +100,7 @@ A selection of comments on the proposal
 
 Issues related to questions and comments raised will be collated on this Project Board - [https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1](https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1) with contextual labels that relate to review categories and proposal sections.
 
-### Review <a href="#_penq8fnlexet" id="_penq8fnlexet"></a>
+## Review <a href="#_penq8fnlexet" id="_penq8fnlexet"></a>
 
 #### Impact <a href="#_tekizowbehch" id="_tekizowbehch"></a>
 
