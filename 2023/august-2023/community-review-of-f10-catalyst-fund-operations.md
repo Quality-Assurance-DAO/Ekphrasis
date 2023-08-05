@@ -106,6 +106,12 @@ Issues related to questions and comments raised are being collated on this GitHu
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2023-08-05 18-30-55.png" alt=""><figcaption></figcaption></figure>
 
+### Milestone Oversight <a href="#_penq8fnlexet" id="_penq8fnlexet"></a>
+
+We hope to build on this audit trail if the proposal is funded by categorizing issues by capturing milestones (before and after funding) in the Project Catalyst process.&#x20;
+
+
+
 ## Review <a href="#_penq8fnlexet" id="_penq8fnlexet"></a>
 
 #### Impact <a href="#_tekizowbehch" id="_tekizowbehch"></a>
