@@ -40,6 +40,8 @@ Introduction - Daniel Ribar - [00:02](https://www.youtube.com/watch?v=onwOzMwq2l
 
 ## What if proposal not funded ?&#x20;
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/9" %}
+
 What happens if the proposal does not get funded ? - Joey - [01:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=96s)&#x20;
 
 (Pause in Treasury ?)&#x20;
