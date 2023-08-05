@@ -100,6 +100,8 @@ Benefit of hindsight - Daniel - [07:54](https://www.youtube.com/watch?v=onwOzMwq
 
 ## New funding situation
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/12" %}
+
 Kudos to 9 fund operation - Thorsten - [10:04](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=604s)&#x20;
 
 New funding situation - Thorsten - [10:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=636s)&#x20;
