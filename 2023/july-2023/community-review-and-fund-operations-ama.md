@@ -230,6 +230,8 @@ Uncertainty going into Voltaire - Lloyd - [28:39](https://www.youtube.com/watch?
 
 ### 2 - Building competition
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/6" %}
+
 2 - When will next years competition take place ? - Lloyd - [28:57](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1737s)&#x20;
 
 (Building competition)(Any leeway ?)&#x20;
