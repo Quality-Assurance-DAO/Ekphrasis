@@ -1,12 +1,12 @@
+---
+description: >-
+  Community Review of the “Catalyst Fund Operations by IOG Catalyst Team”
+  proposal
+---
+
 # Community Review of F10 Catalyst Fund Operations
 
 ![](../../.gitbook/assets/0.png)
-
-Catalyst Fund 10 Community Review
-
-“Catalyst Fund Operations by IOG Catalyst Team”
-
-[https://cardano.ideascale.com/c/idea/107493/](https://cardano.ideascale.com/c/idea/107493/)
 
 A collaboration between Swarm (https://twitter.com/CatalystSwarm), Governance Guild (https://twitter.com/GovernanceGuild) and QADAO (https://twitter.com/qa\_dao).
 
@@ -23,6 +23,10 @@ This community task was facilitated by Felix Weber and Stephen Whitenstall in co
 ## The Challenge <a href="#_6nzxw3bbeil5" id="_6nzxw3bbeil5"></a>
 
 ## The Proposal <a href="#_yese5stwyjya" id="_yese5stwyjya"></a>
+
+[https://cardano.ideascale.com/c/idea/107493/](https://cardano.ideascale.com/c/idea/107493/)
+
+
 
 ## Community Review <a href="#_m4gu2j9kg2mq" id="_m4gu2j9kg2mq"></a>
 
