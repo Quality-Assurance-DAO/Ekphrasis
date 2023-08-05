@@ -241,3 +241,184 @@ The Parameter preparations is a bit of a black box.
 At an After Town Hall held on 26th July 2023 the following questions and answers were raised ..
 
 {% embed url="https://youtu.be/onwOzMwq2lw" %}
+Fund Operations AMA - IOG Catalyst Team address questions about their F10 Fund Operations proposal.&#x20;
+{% endembed %}
+
+#### Participants :&#x20;
+
+* Nigel Hemsley - Head of Catalyst Governance&#x20;
+* Kriss Baird - Product Manager - Catalyst&#x20;
+* Daniel Ribar - Catalyst Community Manager (Facilitation)&#x20;
+* Steven Johnston - Lead Architect - Catalyst
+
+Links: F10 Catalyst Fund Operations proposal - [https://cardano.ideascale.com/c/idea/...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqazRJbFAyZDI2aHB5aFRjN21TMHhkWnRHSFBaQXxBQ3Jtc0tsVVV2TllYeHhVek5DWW9lbExtV3BuNVJPTVE2U05XY3RLYzNiSHd2QXdOVk9jMS11czl3S3BlSEtMcTFKNUFNLTVvYlVRU1dIZW1KQ2h0dlB2dzhyYk8zYkh0cnBxVUJxblFnU0pOY2g5aEtibmZPcw\&q=https%3A%2F%2Fcardano.ideascale.com%2Fc%2Fidea%2F107493%2F\&v=onwOzMwq2lw)&#x20;
+
+F10 Catalyst Ideascale Replacement - [https://cardano.ideascale.com/c/idea/...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbEtkOTh2UjlHbnRQX1ZieE9TLXZJNWdsbjZud3xBQ3Jtc0ttaW1aNG1oOHZNMnRfaUdzLUpKS01VWVljc2dOaGFRMEl3UTlvS2Y0UGh1UFFMcDlKQ1hNdVlrQTNsRjNLckpQZDdfUldHbHZDYWoxaGp0T2dDWWVheXM4bkVxamRkcTUwMFRDaWZLZFVqN0VJTHlKRQ\&q=https%3A%2F%2Fcardano.ideascale.com%2Fc%2Fidea%2F107599\&v=onwOzMwq2lw)&#x20;
+
+Extended documentation - [https://quality-assurance-dao.gitbook...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbDdQM0JLWHRrN1A1eHpNWWpFa2wxOEhGaVZvd3xBQ3Jtc0trQUNkd3dFVVdDWlR1b19waWJkOUZ2bFNJMm1ZUWxuWUVDWW5zV3k0U1NIU1lwRGpoWjR6Z1BmS2duckhSODdlYThPaEZFOWFXZkZsR0lDNlJpdWxTVzdDWV9YSG9WTG05YUpXNzdsTUh4SWs0TFQ1TQ\&q=https%3A%2F%2Fquality-assurance-dao.gitbook.io%2Fekphrasis%2F2023%2Fjuly-2023%2Fcommunity-review-and-fund-operations-ama\&v=onwOzMwq2lw)
+
+Issue Board for this proposal - [https://github.com/orgs/Quality-Assur...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbGZ0eUxWNGU2ZGEzRENsNW45T1FUNUh6VHJ3Z3xBQ3Jtc0tuWGVCRThxTHBRQkZXR0U5STZvQlJLMGF3R1JudEZhUF84MTBaY2U4M05FYkc0NW93M1lBbE9sWHNMcnRuZVpnSmhqUjNSeE5NR2l2THg0eHVlMC1qUmd4NjdCR2praTRlVGtnV3hiOFdMQ3ZLZUpTNA\&q=https%3A%2F%2Fgithub.com%2Forgs%2FQuality-Assurance-DAO%2Fprojects%2F5%2Fviews%2F1\&v=onwOzMwq2lw)&#x20;
+
+#### Timestamps (QADAO)
+
+&#x20;\----------------&#x20;
+
+Introduction - Daniel Ribar - [00:02](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2s)&#x20;
+
+What happens if the proposal does not get funded ? - Joey - [01:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=96s)&#x20;
+
+Pause during 1694 Hard Fork - Nigel Hemsley - [02:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=123s)&#x20;
+
+Competitive footing - [02:40](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=160s)&#x20;
+
+Will IOG funding stop ? - Joey - [03:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=229s)&#x20;
+
+Catalyst will become self sustaining - Nigel- [04:13](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=253s)&#x20;
+
+Operations Challenge Strategy - Tevo - [04:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=271s)&#x20;
+
+Need to know what funding looks like over 1 year - Nigel - [05:28](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=328s)&#x20;
+
+Pitch for a year - to scale up takes time - [06:30](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=390s)&#x20;
+
+Why not describe situation in the Challenge setting ? - Tevo - [07:07](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=427s)&#x20;
+
+Could have been an oversight - Nigel - [07:17](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=437s)&#x20;
+
+Benefit of hindsight - Daniel - [07:54](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=474s)&#x20;
+
+New funding situation - Thorsten - [10:04](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=604s)&#x20;
+
+Using stage of Town Hall - Thorsten - [11:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=691s)&#x20;
+
+Not collaborative to say if not funded "its all over" - Thorsten - [12:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=723s)&#x20;
+
+Consensus on success of Catalyst - Thorsten - [12:44](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=764s)&#x20;
+
+F11 & F12 opportunities - Thorsten - [13:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=790s)&#x20;
+
+Cannot answer all of that - Nigel - [13:29](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=809s)&#x20;
+
+IOG will ask why do this for free - [13:58](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=838s)&#x20;
+
+Setup already includes community suppliers - [14:18](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=858s)&#x20;
+
+CIP 1694 direction - [14:53](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=893s)&#x20;
+
+Difficult for people to compete - [15:08](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=908s)&#x20;
+
+Achieve competition over next year - [15:38](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=938s)&#x20;
+
+Catalyst Team want to run operations for other chains - Nigel - [16:02](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=962s)&#x20;
+
+Need for continuity in F10 - Thorsten - [16:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=970s)&#x20;
+
+Leveling playing field in F11 & F12 - [16:40](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1000s)&#x20;
+
+A year to achieve that - Nigel - [16:53](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1013s)&#x20;
+
+Stability more important than change - Thorsten - [17:01](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1021s)&#x20;
+
+Importance of a commitment to enabling competition - [17:24](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1044s)&#x20;
+
+Make a category in F11 to train people up - Nigel - [17:47](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1067s)&#x20;
+
+Upcoming F11 categorization workshops - Daniel - [18:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1085s)&#x20;
+
+Cooperation and co-building in the Catalyst Systems Improvement Challenge - Daniel - [18:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1116s)&#x20;
+
+Meaningful collaboration in Catalyst Systems Improvements - Steven Johnson - [19:43](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1183s)&#x20;
+
+How to approach assessment stage ? - Jorge - [22:20](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1340s)&#x20;
+
+Do not be afraid to voice your opinions - Daniel - [23:07](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1387s)
+
+Catalyst Operations proposal step in right direction - Lloyd - [24:03](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1443s)
+
+&#x20;Internal disagreement on timing of F10 - Nigel - [26:09](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1569s)
+
+1 - Will there be a Voltaire vote for Catalyst ? - Lloyd - [27:17](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1637s)&#x20;
+
+CIP-1694 Bootstrap period - [27:54](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1674s)&#x20;
+
+2 - When will next years competition take place ? - Lloyd - [28:57](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1737s)&#x20;
+
+Minimum year funding - Nigel - [29:26](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1766s)&#x20;
+
+Next proposal category may specify handover - [29:42](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1782s)&#x20;
+
+3 - Funding of Working groups ? - Lloyd - [30:39](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1839s)&#x20;
+
+Build out from basic infrastructure - Kriss Baird - [31:23](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1883s)&#x20;
+
+Structural transition plan ? - Stephen W - [32:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1969s)&#x20;
+
+Draw down funds held in legal vehicle - Nigel - [33:58](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2038s)&#x20;
+
+Contractual separation based on proposal acceptance ? - Stephen W - [34:33](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2073s)&#x20;
+
+Who drafts service level agreement ? - Stephen W - [36:15](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2175s)&#x20;
+
+Legal counsel provides degree of independence - Nigel - [36:23](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2183s)&#x20;
+
+Risk assessment for transition ? - Stephen W - [36:36](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2196s)&#x20;
+
+Only in the way we manage operations currently - Nigel - [36:43](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2203s)&#x20;
+
+Currency risk ? - Stephen W - [37:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2232s)&#x20;
+
+Use of surplus profit ? - Stephen W - [38:06](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2286s)&#x20;
+
+Re calibrate the next fund - Nigel - [38:14](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2294s)&#x20;
+
+Most important thing to work on in the next 12 months ? - Simon - [39:32](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2372s)&#x20;
+
+Consistent funding - Nigel - [40:12](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2412s)
+
+Improve community interaction - [41:20](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2480s)&#x20;
+
+Sustaining grassroots networks - Daniel - [42:00](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2520s)&#x20;
+
+Lowering barriers to entry - Steven - [45:04](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2704s)&#x20;
+
+Assembly line analogy - Joey - [46:27](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2787s)&#x20;
+
+Assistance with testing - Nigel - [49:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2945s)&#x20;
+
+Recruit from community - Steven - [49:38](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=2978s)&#x20;
+
+Will milestone process apply ? - Thorsten - [50:55](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3055s)&#x20;
+
+Independent oversight of milestones - Daniel - [51:28](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3088s)&#x20;
+
+Contingency for expansion ? - Thorsten - [54:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3250s)&#x20;
+
+Evaluate & respond if bigger operation required - Nigel - [55:16](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3316s)&#x20;
+
+Data Licensing - Darlington - [56:37](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3397s)&#x20;
+
+Open Source solution - Nigel - [57:46](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3466s)&#x20;
+
+Encrypted data - Darlington - [58:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3485s)&#x20;
+
+GDPR Limits - Steven - [58:31](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3511s)&#x20;
+
+Short term concerns - Darlington - [1:03:37](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3817s)&#x20;
+
+Operational fiduciary detail - Darlington - [1:04:47](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=3887s)&#x20;
+
+Open community involvement in process- Darlington - [1:08:01](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4081s)&#x20;
+
+Decentralised authorisation - Steven - [1:09:05](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4145s)&#x20;
+
+(Role based access control)&#x20;
+
+Decentralised UX - Steven - [1:14:10](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4450s)&#x20;
+
+Co-creation not in milestones ?- Darlington - [1:15:45](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4545s)
+
+Data migration - Steven - [1:17:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4669s)&#x20;
+
+Category scoping workshops - Quasar - [1:19:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4789s)&#x20;
+
+4 biweekly workshops - Daniel - [1:21:14](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=4874s)
