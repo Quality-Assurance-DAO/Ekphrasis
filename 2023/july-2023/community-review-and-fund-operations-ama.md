@@ -212,6 +212,8 @@ Community decides whether they want 3 funds in next year - Nigel - [26:24](https
 
 ### 1 - Will there be a Voltaire vote for Catalyst ?
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/16" %}
+
 1 - Will there be a Voltaire vote for Catalyst ? - Lloyd - [27:17](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1637s)&#x20;
 
 (As an additional step)&#x20;
