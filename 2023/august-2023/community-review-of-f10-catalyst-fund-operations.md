@@ -102,9 +102,7 @@ A selection of comments on the proposal
 
 ### Issue Board <a href="#_rmkq4rjkcad2" id="_rmkq4rjkcad2"></a>
 
-Issues related to questions and comments raised will be collated on this Project Board - [https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1](https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1) with contextual labels that relate to review categories and proposal sections.
-
-
+Issues related to questions and comments raised are being collated on this GitHub Project Board - [https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1](https://github.com/orgs/Quality-Assurance-DAO/projects/5/views/1) with contextual labels that relate to review categories (Impact, Feasibility & Value for Money) and proposal sub sections.
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2023-08-05 18-30-55.png" alt=""><figcaption></figcaption></figure>
 
