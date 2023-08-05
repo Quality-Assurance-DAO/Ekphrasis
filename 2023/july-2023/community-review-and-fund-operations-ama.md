@@ -254,6 +254,8 @@ Build out from basic infrastructure - Kriss Baird - [31:23](https://www.youtube.
 
 ## Structural transition plan ?
 
+{% embed url="https://github.com/Quality-Assurance-DAO/Oversight-of-F10-Catalyst-Fund-Operations-by-IOG-Catalyst-Team/issues/18" %}
+
 Structural transition plan ? - Stephen W - [32:49](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1969s)&#x20;
 
 1 - Legal Clarity / 2 - Catalyst Funding Vehicle & Team / 3 - Service Level Agreement - [33:17](https://www.youtube.com/watch?v=onwOzMwq2lw\&t=1997s)&#x20;
