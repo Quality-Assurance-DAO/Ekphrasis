@@ -49,7 +49,11 @@ Felix - Check-in - [08:39](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=519s)&
 
 Johnny - Check-in - [08:58](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=538s)&#x20;
 
-Stephen - Check-in - [09:14](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=554s) ---------------------------------------------------------------&#x20;
+Stephen - Check-in - [09:14](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=554s)&#x20;
+
+\---------------------------------------------------------------&#x20;
+
+### Runsheet
 
 Runsheet - Stephen - [09:47](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=587s)&#x20;
 
@@ -63,7 +67,9 @@ Subject Areas - [10:08](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=608s)&#x2
 
 \- Layered defense for Sybil resistance ---------------------------------------------------------------&#x20;
 
-Open Corporation or Digital Nation? - [10:39](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=639s)&#x20;
+### 1) Open Corporation or Digital Nation?
+
+1\) Open Corporation or Digital Nation? - [10:39](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=639s)&#x20;
 
 Pointers - [11:00](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=660s)&#x20;
 
@@ -77,7 +83,7 @@ Definition of citizenship - [12:00](https://www.youtube.com/watch?v=4WsHeDP0uo4\
 
 &#x20;(Open corporation as a model)&#x20;
 
-1\) Contrast between Open Corporation & Digital Nation - Kenric - [14:04](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=844s)&#x20;
+Contrast between Open Corporation & Digital Nation - Kenric - [14:04](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=844s)&#x20;
 
 3 models to think about - Ed - [14:20](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=860s)&#x20;
 
