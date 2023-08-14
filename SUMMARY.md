@@ -19,6 +19,7 @@
 
 * [August 2023](2023/august-2023/README.md)
   * [Community Review of F10 Catalyst Fund Operations](2023/august-2023/community-review-of-f10-catalyst-fund-operations.md)
+  * [Cardano Governance](2023/august-2023/cardano-governance.md)
 * [July 2023](2023/july-2023/README.md)
   * [Community Review & Fund Operations AMA](2023/july-2023/community-review-and-fund-operations-ama.md)
   * [Community Review of the F10 Catalyst Fund Operations proposal](2023/july-2023/community-review-of-the-f10-catalyst-fund-operations-proposal.md)
