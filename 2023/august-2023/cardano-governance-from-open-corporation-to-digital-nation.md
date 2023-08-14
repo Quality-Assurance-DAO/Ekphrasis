@@ -59,13 +59,12 @@ Runsheet - Stephen - [09:47](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=587s
 
 Subject Areas - [10:08](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=608s)&#x20;
 
-\- Open Corporation or Digital Nation?&#x20;
+* Open Corporation or Digital Nation?&#x20;
+* Cardano’s centralized governance plan and its consequences&#x20;
+* Assuring transition to a Digital Nation&#x20;
+* Layered defense for Sybil resistance
 
-\- Cardano’s centralized governance plan and its consequences&#x20;
-
-\- Assuring transition to a Digital Nation&#x20;
-
-\- Layered defense for Sybil resistance ---------------------------------------------------------------&#x20;
+&#x20;\---------------------------------------------------------------&#x20;
 
 ### 1) Open Corporation or Digital Nation?
 
