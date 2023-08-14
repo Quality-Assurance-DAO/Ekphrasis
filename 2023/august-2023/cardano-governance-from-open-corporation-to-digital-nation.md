@@ -1,14 +1,15 @@
 ---
 description: >-
-  Cardano Governance: From Open Corporation to Digital Nation, After Town Hall,
-  9th August 2023
+  Cardano Governance: From Open Corporation to Digital Nation, Catalyst After
+  Town Hall 9th August 2023. Hosted and facilitated by Kenric Nelson & Stephen
+  Whitenstall,
 ---
 
 # Cardano Governance : From Open Corporation to Digital Nation
 
 ## Video
 
-Cardano Governance: From Open Corporation to Digital Nation A Catalyst After Town Hall held on Wednesday, 9th August 2023&#x20;
+xx
 
 ## Links&#x20;
 
