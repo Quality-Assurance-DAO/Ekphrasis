@@ -186,4 +186,14 @@ Minimum qualifications for dRep - Ed - [47:52](https://www.youtube.com/watch?v=4
 
 (Representative reputations) dRep as a DAO - Stephen - [49:42](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=2982s)&#x20;
 
-(composable representation) Stephen - [50:15](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3015s)
+(composable representation) Stephen - [50:15](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3015s)&#x20;
+
+Recap - Kenric - [50:15](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3015s)&#x20;
+
+Creative tension between decentralization & centralization - Diveshan - [50:46](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3046s)&#x20;
+
+Open society innovation program - [51:40](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3100s)&#x20;
+
+Social Graphs rather than token inputs - [52:25](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3145s)&#x20;
+
+{% embed url="https://en.wikipedia.org/wiki/Social_graph" %}
