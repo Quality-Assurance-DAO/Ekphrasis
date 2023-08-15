@@ -154,7 +154,7 @@ Skin in the game - Johnny - [43:24](https://www.youtube.com/watch?v=4WsHeDP0uo4\
 
 (Enlightened self interest)(effective altruism)
 
-([https://en.wikipedia.org/wiki/Effecti...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbXRqTDdROEt0WlQtNXIybmRaQjFSVU43aU5lQXxBQ3Jtc0trYkRtM3liS0RuaVgxRzNfVG9GSFlaMnVnb2dGa1JPenQtNkxrb2w0MDRnckpOQXliaFozWnJiUmRQbjVBYlh6MUNPdUJ2R0pzV1JJZWE1a25abXNhaTFIOVhLd3BGX24tdS15NzlpanptOUJKUnZYUQ\&q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEffective\_altruism\&v=4WsHeDP0uo4))&#x20;
+{% embed url="https://en.wikipedia.org/wiki/Effective_altruism" %}
 
 (Easy for proletariat to have good intentions with other people money)&#x20;
 
