@@ -15,7 +15,7 @@ xx
 
 Document - [https://docs.google.com/document/d/1T...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbGo4bzNiajhQMGJpSVdRRF9LbTc5M0VPd2Nnd3xBQ3Jtc0ttaHAtREFtNWQwWEp6bUQ0WGdfekxXYUd1WV92cFdES1hYbTR5b2U2WG1xTFpITXBrMVlZbXZIVm1oZ0RvZ3ZEQWpHZDBiRlM0aFBNenhvVUxUNS0yZEFocDVER3pWVGJ2UDJpRVo2SjFxeklBY0tPWQ\&q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1Te\_Uq-j56tWK2d809W7xKwQLl9p6BNC6ZL9U\_\_UVWeQ%2Fedit%3Fusp%3Dsharing\&v=4WsHeDP0uo4)&#x20;
 
-\- [https://www.sociocracyforall.org/soci...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqa3ZxT0ZvNlg3dVhteWw2Zk1XYnBEWUNSVEdWUXxBQ3Jtc0tuaE5GSGhWeF9nYkoyUWRhT09jTWJtMUlHbEMtZ1RmWUxzVnR3cU1LcG9tMzk1c1k1cTRVb0pINlhVZ1ZVckdfN1lNdE1WVDh2Mjd1WXlCRlJRTFlsOFdsTnNmOENOWXVoejRJNlpZY0dsSlRRX0NjMA\&q=https%3A%2F%2Fwww.sociocracyforall.org%2Fsociocracy%2F\&v=4WsHeDP0uo4)&#x20;
+{% embed url="https://www.sociocracyforall.org/sociocracy/" %}
 
 ## Timestamps&#x20;
 
