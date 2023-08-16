@@ -118,6 +118,8 @@ Transition to decentralized corporation not a network state --------------------
 
 Participation - Kenric - [27:48](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=1668s)&#x20;
 
+### 2) Cardano’s centralized governance plan and its consequences&#x20;
+
 2\) Cardano’s centralized governance plan and its consequences - Kenric - [28:26](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=1706s)&#x20;
 
 How boundaries of corporate ownership impact control - [29:20](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=1760s)&#x20;
