@@ -212,6 +212,8 @@ Not ready for Voltaire - Seamoss - [55:40](https://www.youtube.com/watch?v=4WsHe
 
 (Engineers too lost in how it works)
 
+### 3) Objections to a DID solution
+
 Importance of Identity - Kenric - [58:00](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3480s)&#x20;
 
 Digital Identity (DID) should be part of minimum viable governance - [1:00:51](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3651s)&#x20;
@@ -223,3 +225,11 @@ DID too vague - Ed - [1:03:00](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=37
 (What is the minimum credential a dRep needs ?)
 
 (Proof of unique personhood)
+
+What is the need for anonymity? - Murmoz - [1:04:00](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3840s)&#x20;
+
+Not a binary choice - Jose - [1:06:07](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3967s)&#x20;
+
+(Resistance to security threats)&#x20;
+
+In-between solution - Jose - [1:06:58](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=4018s)
