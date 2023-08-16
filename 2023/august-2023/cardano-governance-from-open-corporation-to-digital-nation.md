@@ -212,4 +212,14 @@ Not ready for Voltaire - Seamoss - [55:40](https://www.youtube.com/watch?v=4WsHe
 
 (Engineers too lost in how it works)
 
-Importance of Identity - Kenric - [58:00](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3480s)
+Importance of Identity - Kenric - [58:00](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3480s)&#x20;
+
+Digital Identity (DID) should be part of minimum viable governance - [1:00:51](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3651s)&#x20;
+
+Objections to a DID solution - [1:02:10](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3730s)&#x20;
+
+DID too vague - Ed - [1:03:00](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3780s)&#x20;
+
+(What is the minimum credential a dRep needs ?)
+
+(Proof of unique personhood)
