@@ -232,4 +232,30 @@ Not a binary choice - Jose - [1:06:07](https://www.youtube.com/watch?v=4WsHeDP0u
 
 (Resistance to security threats)&#x20;
 
-In-between solution - Jose - [1:06:58](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=4018s)
+In-between solution - Jose - [1:06:58](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=4018s)&#x20;
+
+Identity limits people - Felix - [1:08:57](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=4137s)&#x20;
+
+Too much emphasis on personality - Johnny - [1:11:07](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=4267s)&#x20;
+
+(Zero knowledge voting systems)
+
+(Judge by voting record)&#x20;
+
+Holistic view of Cardano - Johnny - [1:12:40](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=4360s)&#x20;
+
+Technocratic governance - Stephen - [1:15:05](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=4505s)&#x20;
+
+Closing remarks - Kenric - [1:16:19](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=4579s)&#x20;
+
+(Inviting contributions)
+
+(Lack of separation of governance)&#x20;
+
+AI solutions - Sea moss - [1:20:40](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=4840s)&#x20;
+
+(Unique personhood)
+
+### 4) Close out round
+
+&#x20;Feedback - [1:25:38](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=5138s) (Dynamics of meeting)(Need for information)
