@@ -199,3 +199,17 @@ Open society innovation program - [51:40](https://www.youtube.com/watch?v=4WsHeD
 Social Graphs rather than token inputs - [52:25](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3145s)&#x20;
 
 {% embed url="https://en.wikipedia.org/wiki/Social_graph" %}
+
+Connection with real experience - [53:01](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3181s) &#x20;
+
+(Stakeholder mapping and alignment)
+
+People will break technology - [54:41](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3281s)&#x20;
+
+Not ready for Voltaire - Seamoss - [55:40](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3340s)&#x20;
+
+(Assumptions about Identity)
+
+(Engineers too lost in how it works)
+
+Importance of Identity - Kenric - [58:00](https://www.youtube.com/watch?v=4WsHeDP0uo4\&t=3480s)
