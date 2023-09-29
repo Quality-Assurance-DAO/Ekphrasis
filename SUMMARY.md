@@ -17,6 +17,8 @@
 
 ## 2023
 
+* [September 2023](2023/september-2023/README.md)
+  * [Intersect Documentation](2023/september-2023/intersect-documentation.md)
 * [August 2023](2023/august-2023/README.md)
   * [Community Review of F10 Catalyst Fund Operations](2023/august-2023/community-review-of-f10-catalyst-fund-operations.md)
   * [Cardano Governance : From Open Corporation to Digital Nation](2023/august-2023/cardano-governance-from-open-corporation-to-digital-nation.md)
