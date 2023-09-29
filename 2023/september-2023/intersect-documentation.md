@@ -21,5 +21,5 @@ Next we need to work out what we are trying to achieve here. As jamesdunseith ha
 
 If an experimental context is to be taken seriously then a baseline would be the first step. That is, discrete governance subjects that are scoped by a Voltaire context (such as CIP-1694). If co-production is to happen this needs to start at the beginning. It starts with community agreement and buy in on scope. This approach implies facilitation and outreach if it is serious about avoiding being a clique or closed shop.
 
-Finally tooling is just a mechanism of governance not it's raison d'etre. An answer to question "what are we building this for ?". That requires a culture and a community based on trust and engagement. That is where community facilitators and builders like WADA, gimbalabs, Swarm and ODIN can contribute.
+Finally tooling is just a mechanism of governance not it's raison d'etre. An answer to question "what are we building this for ?" is needed. That requires a culture and a community based on trust and engagement. That is where community facilitators and builders like WADA, gimbalabs, Swarm and ODIN can contribute.
 
