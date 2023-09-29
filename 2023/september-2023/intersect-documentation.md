@@ -14,7 +14,7 @@ In our experience (QADAO) of documentation of many projects in Catalyst some cla
 
 So a likely choice for capturing forum discussions on a well known platform already in use by Cardano would be Discourse.
 
-Next we need to work out what we are trying to achieve here. As @jamesdunseith has pointed out elsewhere on this server - what is the scope of our discussions and what is our baseline ?
+Next we need to work out what we are trying to achieve here. As jamesdunseith has pointed out elsewhere on this server - what is the scope of our discussions and what is our baseline ?
 
 * Is it general discussion and ideation around directed subjects ?
 * Is it an attempt to draft technical proposals or governance standards ?
