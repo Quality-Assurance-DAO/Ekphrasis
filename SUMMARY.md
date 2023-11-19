@@ -32,7 +32,7 @@
   * [Voltaire era Parameter Committee](2023/may-2023/voltaire-era-parameter-committee.md)
   * [CIP-1694 Templates](2023/may-2023/cip-1694-templates.md)
 * [April 2023](2023/april-2023/README.md)
-  * [Entering Voltaire onchain poll for SPOs](2023/april-2023/page-1.md)
+  * [Entering Voltaire onchain poll for SPOs](2023/april-2023/entering-voltaire-onchain-poll-for-spos.md)
   * [What Constitutes a Constitution?](2023/april-2023/what-constitutes-a-constitution.md)
 * [March 2023](2023/march-2023/README.md)
   * [Accounting and auditing literature review](2023/march-2023/accounting-and-auditing-literature-review.md)
