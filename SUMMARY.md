@@ -54,11 +54,9 @@
 * [December 2022](2022/december-2022/README.md)
   * [Reputation at Stake!](december-2022/reputation-at-stake.md)
   * [Empowering community-driven governance on Cardano](december-2022/empowering-community-driven-governance-on-cardano.md)
-
-## November 2022
-
-* [Stratified Approach to Blockchain Decentralization](november-2022/stratified-approach-to-blockchain-decentralization.md)
-* [Non-Fungible Token (NFT) Proxy Voting Standard](november-2022/non-fungible-token-nft-proxy-voting-standard.md)
+* [November 2022](2022/november-2022/README.md)
+  * [Stratified Approach to Blockchain Decentralization](2022/november-2022/stratified-approach-to-blockchain-decentralization.md)
+  * [Non-Fungible Token (NFT) Proxy Voting Standard](2022/november-2022/non-fungible-token-nft-proxy-voting-standard.md)
 
 ## July 2022
 
