@@ -62,17 +62,13 @@
 * [June 2022](2022/june-2022/README.md)
   * [Roadmap and Governance](2022/june-2022/roadmap-and-governance.md)
   * [Stake-based Protocol Governance Restrictions (CIP)](2022/june-2022/stake-based-protocol-governance-restrictions-cip.md)
-
-## May 2022
-
-* [Drip The Vote - The First Cardano On-Chain Vote Using A Native Asset](may-2022/drip-the-vote-the-first-cardano-on-chain-vote-using-a-native-asset.md)
-* [Building Tools for DAOs on Cardano](may-2022/building-tools-for-daos-on-cardano.md)
-
-## April 2022
-
-* [A new chapter for Radicalzchange](april-2022/a-new-chapter-for-radicalzchange.md)
-* [Pool Splitting Behaviour and Equilibrium Properties in Cardano’s Rewards Scheme](april-2022/pool-splitting-behaviour-and-equilibrium-properties-in-cardanos-rewards-scheme.md)
-* [Decentralization Vulnerable in Cardano Catalyst: dReps](april-2022/decentralization-vulnerable-in-cardano-catalyst-dreps.md)
+* [May 2022](2022/may-2022/README.md)
+  * [Drip The Vote - The First Cardano On-Chain Vote Using A Native Asset](2022/may-2022/drip-the-vote-the-first-cardano-on-chain-vote-using-a-native-asset.md)
+  * [Building Tools for DAOs on Cardano](2022/may-2022/building-tools-for-daos-on-cardano.md)
+* [April 2022](2022/april-2022/README.md)
+  * [A new chapter for Radicalzchange](2022/april-2022/a-new-chapter-for-radicalzchange.md)
+  * [Pool Splitting Behaviour and Equilibrium Properties in Cardano’s Rewards Scheme](2022/april-2022/pool-splitting-behaviour-and-equilibrium-properties-in-cardanos-rewards-scheme.md)
+  * [Decentralization Vulnerable in Cardano Catalyst: dReps](2022/april-2022/decentralization-vulnerable-in-cardano-catalyst-dreps.md)
 
 ## February 2022
 
