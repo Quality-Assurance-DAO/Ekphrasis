@@ -220,7 +220,7 @@ We need a North Star. So what is our North Star, our guiding light, behind these
 So we are setting up something called the **Edinburgh decentralization index (EDI)**, it's going to be based at University of Edinburgh ([Blockchain Technology Laboratory network](https://www.ed.ac.uk/informatics/blockchain) & [IOHK Research Library](https://iohk.io/en/research/library/)). And obviously, it's going to measure decentralization of cryptocurrencies.
 
 {% hint style="info" %}
-In this GitBook see also [How to Measure Decentralisation?](../july-2021/how-to-measure-decentralisation.md)
+In this GitBook see also [How to Measure Decentralisation?](../../july-2021/how-to-measure-decentralisation.md)
 {% endhint %}
 
 Throughout the summer, papers are going to be written, a lab is going to be set up governed by the University of Edinburgh. And the team at the lab is going to start with [Bitcoin](https://bitcoin.org/en/), then [Ethereum ](https://ethereum.org/en/)and then move on to Cardano.
@@ -347,7 +347,7 @@ Oct. 12, 2018
 
 {% embed url="https://cryptobriefing.com/cardano-leaders-split-with-foundation-demand-chairman-resigns/" %}
 
-![https://twitter.com/CardanoStiftung/status/1062384674390073345?s=20\&t=3metSqbeK9bLEO3AS16PyA](<../.gitbook/assets/Screenshot 2022-07-02 141600 (1).png>)
+![https://twitter.com/CardanoStiftung/status/1062384674390073345?s=20\&t=3metSqbeK9bLEO3AS16PyA](<../../.gitbook/assets/Screenshot 2022-07-02 141600 (1).png>)
 
 ### Mithril: a stronger and lighter blockchain for better efficiency
 

@@ -59,11 +59,9 @@
   * [Non-Fungible Token (NFT) Proxy Voting Standard](november-2022/non-fungible-token-nft-proxy-voting-standard.md)
 * [July 2022](2022/july-2022/README.md)
   * [Why and How we SubDAO](2022/july-2022/why-and-how-we-subdao.md)
-
-## June 2022
-
-* [Roadmap and Governance](june-2022/roadmap-and-governance.md)
-* [Stake-based Protocol Governance Restrictions (CIP)](june-2022/stake-based-protocol-governance-restrictions-cip.md)
+* [June 2022](2022/june-2022/README.md)
+  * [Roadmap and Governance](2022/june-2022/roadmap-and-governance.md)
+  * [Stake-based Protocol Governance Restrictions (CIP)](2022/june-2022/stake-based-protocol-governance-restrictions-cip.md)
 
 ## May 2022
 
