@@ -6,7 +6,7 @@ description: >-
 
 # CIP-1694: Pluralism Now!
 
-\[Video Placeholder]
+{% embed url="https://youtu.be/9QpJ_a99TtQ" %}
 
 
 
