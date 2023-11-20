@@ -17,6 +17,7 @@
 
 ## 2023
 
+* [October 2023](2023/october-2023.md)
 * [September 2023](2023/september-2023/README.md)
   * [Intersect Documentation](2023/september-2023/intersect-documentation.md)
 * [August 2023](2023/august-2023/README.md)
