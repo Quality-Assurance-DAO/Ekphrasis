@@ -58,6 +58,7 @@
   * [Non-Fungible Token (NFT) Proxy Voting Standard](november-2022/non-fungible-token-nft-proxy-voting-standard.md)
 * [September 2022](2022/september-2022/README.md)
   * [What is Liquid Democracy ?](2022/september-2022/what-is-liquid-democracy.md)
+  * [dRep workshop #2](2022/september-2022/drep-workshop-2.md)
 * [July 2022](2022/july-2022/README.md)
   * [Why and How we SubDAO](2022/july-2022/why-and-how-we-subdao.md)
 * [June 2022](2022/june-2022/README.md)
