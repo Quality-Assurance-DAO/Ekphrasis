@@ -56,6 +56,7 @@
 * [November 2022](2022/november-2022/README.md)
   * [Stratified Approach to Blockchain Decentralization](november-2022/stratified-approach-to-blockchain-decentralization.md)
   * [Non-Fungible Token (NFT) Proxy Voting Standard](november-2022/non-fungible-token-nft-proxy-voting-standard.md)
+* [September 2022](2022/september-2022.md)
 * [July 2022](2022/july-2022/README.md)
   * [Why and How we SubDAO](2022/july-2022/why-and-how-we-subdao.md)
 * [June 2022](2022/june-2022/README.md)
