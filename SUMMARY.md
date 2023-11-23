@@ -61,6 +61,7 @@
 * [September 2022](2022/september-2022/README.md)
   * [What is Liquid Democracy ?](2022/september-2022/what-is-liquid-democracy.md)
   * [dRep workshop #2 - Session A](2022/september-2022/drep-workshop-2-session-a.md)
+* [dRep workshop #2 - Session B](2022/drep-workshop-2-session-b.md)
 * [July 2022](2022/july-2022/README.md)
   * [Why and How we SubDAO](2022/july-2022/why-and-how-we-subdao.md)
 * [June 2022](2022/june-2022/README.md)
