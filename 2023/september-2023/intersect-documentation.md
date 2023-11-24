@@ -4,6 +4,10 @@ description: Thoughts on Intersect Members Based Organization documentation.
 
 # Intersect Documentation
 
+{% hint style="info" %}
+Intersect
+{% endhint %}
+
 In our experience (QADAO) of documentation of many projects in Catalyst some clarity on what we are trying to achieve would be necessary before choosing a documentation platform.
 
 * Discord is useful for informal discussion. But content quickly gets lost and can disappear completely as there is no easy backup solution per channel or thread. Same with tools like Telegram.
