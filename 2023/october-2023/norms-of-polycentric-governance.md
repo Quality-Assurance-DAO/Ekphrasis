@@ -1,10 +1,16 @@
 ---
-description: A commons approach to decentralized governance is called polycentric governanc
+description: >-
+  A commons approach to decentralized governance is called polycentric
+  governance
 ---
 
 # Norms of Polycentric Governance
 
 {% embed url="https://youtu.be/xmnD2d1bvKA" %}
+
+{% hint style="info" %}
+ABC of Governance
+{% endhint %}
 
 A commons approach to decentralized governance is called polycentric governance.&#x20;
 
