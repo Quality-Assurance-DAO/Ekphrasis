@@ -19,3 +19,7 @@ It was started on 29th June 2021 and is maintained by under the benevolent dicta
 ![](<.gitbook/assets/2022-03-08 (2).png>)
 
 [Ekphrasis Gitbook](https://cardano.ideascale.com/c/idea/382334) was voted for in Project Catalyst [Fund 7: Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26248/about)
+
+## Fund 7 Closing Report&#x20;
+
+{% embed url="https://youtu.be/nVYLVy_jVdM" %}
