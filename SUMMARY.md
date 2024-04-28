@@ -17,6 +17,13 @@
 
 ## 2023
 
+* [December 2023](2023/december-2023/README.md)
+  * [Liverpool Cardano Philosophy Hub: Voting, reputation, contribution](2023/december-2023/liverpool-cardano-philosophy-hub-voting-reputation-contribution.md)
+  * [Liverpool Cardano Philosophy Hub: Self-Sovereign ID](2023/december-2023/liverpool-cardano-philosophy-hub-self-sovereign-id.md)
+* [November 2023](2023/november-2023/README.md)
+  * [Liverpool Cardano Philosophy Hub: The Ontology of Money](2023/november-2023/liverpool-cardano-philosophy-hub-the-ontology-of-money.md)
+  * [Liverpool Cardano Philosophy Hub: How does a blockchain work, philosophically?](2023/november-2023/liverpool-cardano-philosophy-hub-how-does-a-blockchain-work-philosophically.md)
+  * [Liverpool Cardano Philosophy Hub: Should we decentralise?](2023/november-2023/liverpool-cardano-philosophy-hub-should-we-decentralise.md)
 * [October 2023](2023/october-2023/README.md)
   * [Norms of Polycentric Governance](2023/october-2023/norms-of-polycentric-governance.md)
 * [September 2023](2023/september-2023/README.md)
