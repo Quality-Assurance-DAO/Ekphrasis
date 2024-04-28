@@ -19,6 +19,8 @@ You can see the slides used in the session, and some links for further reading.
 * [Common Good: Its Politics, Policies and Philosophy](https://www.amazon.co.uk/Common-Good-Politics-Policies-Philosophy/dp/0710206909) Marcus G. Raskin, 1986
 * [The Oxford Handbook of Gossip and Reputation](https://academic.oup.com/edited-volume/34260), ed. Francesca Giardini and Rafael Wittek, 2019
 * [The Age of Surveillance Capitalism](https://www.amazon.co.uk/Age-Surveillance-Capitalism-Future-Frontier/dp/1781256845) Shoshana Zuboff, 2019 (interesting take on some of the issues around how we are monitored, tracked and assessed)
+* [Skin in the Game: Hidden Asymmetries in Daily Life](https://www.amazon.co.uk/Skin-Game-Hidden-Asymmetries-Daily/dp/0241247470) Nassim Nicholas Taleb 2018
+* [Collective Choice and Social Welfare: An Expanded Edition](https://www.amazon.co.uk/Collective-Choice-Social-Welfare-Expanded/dp/0674971604) Amartya Sen (1970; expanded edition 2016)
 
 ### Articles
 
